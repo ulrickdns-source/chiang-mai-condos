@@ -1,8 +1,21 @@
 # 🏙️ Veille Condos & Maisons · Chiang Mai
 
-Base de données locale + mini-site pour suivre les **condos ET maisons/villas** à louer à
+**Site en ligne : https://ulrickdns-source.github.io/chiang-mai-condos/**
+
+Base de données + mini-site pour suivre les **condos ET maisons/villas** à louer à
 Chiang Mai, ciblés pour une **nomade digitale**. Condos : budget ~3 000–50 000 ฿/mois.
 Maisons/villas : **tout budget** (jusqu'à ~200 000 ฿/mois). Filtre Tous / Condos / Maisons dans l'UI.
+
+## 🔄 Mise à jour automatique (cloud, PC éteint)
+Un job **GitHub Actions** (`.github/workflows/veille.yml`) tourne **chaque lundi** sur les
+serveurs GitHub : il cherche de nouveaux biens, régénère `data.js` (avec le flag `is_new`),
+committe et pousse → le site se met à jour tout seul. Les nouveaux biens affichent un badge
+**« Nouveauté »** qui disparaît une fois qu'on a cliqué dessus (mémorisé par navigateur).
+Voir [SOURCES.md](SOURCES.md) pour les sources suivies et [.github/VEILLE_CI.md](.github/VEILLE_CI.md)
+pour la routine.
+
+> ⚙️ **Prérequis unique** : ajouter le secret `ANTHROPIC_API_KEY` dans
+> *Settings → Secrets and variables → Actions* du repo (sinon le job hebdo ne peut pas tourner).
 
 ## Ouvrir le site
 Double-clique sur **`index.html`** (s'ouvre dans ton navigateur).
