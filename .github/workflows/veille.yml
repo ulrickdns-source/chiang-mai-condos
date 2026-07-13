@@ -1,0 +1,64 @@
+name: Veille condos & maisons (hebdo)
+
+# Tourne sur les serveurs GitHub — PC éteint. Chaque lundi ~08:17 UTC.
+on:
+  schedule:
+    - cron: "17 8 * * 1"
+  workflow_dispatch: {}   # permet aussi un lancement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write         # pour committer/pousser data.js mis à jour
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Node est déjà présent sur ubuntu-latest (utilisé par consolidate.py)
+
+      - name: Run weekly veille (Claude)
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Tu es la routine de veille immobilière CLOUD du site chiang-mai-condos.
+            Suis STRICTEMENT les instructions du fichier `.github/VEILLE_CI.md` (lis-le d'abord).
+            Rappels : PAS de sous-agents (tu fais tout toi-même, séquentiellement) ;
+            ne jamais inventer de bien/prix/note/image ; ne touche pas à index.html.
+            Objectif : trouver de VRAIS nouveaux condos/maisons, écrire data/raw_ci.json
+            et data/rawhouse_ci.json, puis lancer
+            `python3 consolidate.py && python3 geocode.py && python3 generate_datajs.py`,
+            mettre à jour CHANGELOG.md, et laisser les fichiers modifiés (le workflow committe ensuite).
+            Si aucune vraie nouveauté n'est trouvée, ne modifie rien.
+          claude_args: |
+            --model sonnet
+            --max-turns 60
+            --allowedTools "Read,Write,Edit,Bash,WebSearch,WebFetch"
+            --disallowedTools "Task,Agent,ScheduleWakeup,SendMessage,Monitor"
+
+      - name: Commit & push si data.js a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data.js data/first_seen.json CHANGELOG.md; then
+            echo "Aucune nouveauté — rien à committer."
+          else
+            git add data.js data/first_seen.json CHANGELOG.md data/raw_ci.json data/rawhouse_ci.json 2>/dev/null || git add -A
+            git commit -m "Veille hebdo: mise à jour condos/maisons ($(date -u +'%Y-%m-%d'))"
+            git push origin HEAD:main
+            echo "Poussé sur main → GitHub Pages va se redéployer."
+          fi
