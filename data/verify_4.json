@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Homm Boutique",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 15000,
+    "rent_max": 25000,
+    "verdict": "Petit hotel-boutique bien note cote OTA mais sans note Google claire ; correct pour un sejour court pres de Nimman, moins adapte au long terme d'un nomade."
+  },
+  {
+    "name": "The Sky Chiangmai",
+    "google_rating": 4.5,
+    "google_reviews": 49,
+    "rent_min": 8000,
+    "rent_max": 14000,
+    "verdict": "Tres bon rapport qualite-prix pour un nomade a petit budget, proche de Maya, mais services limites (menage en supplement)."
+  },
+  {
+    "name": "Play Condominium",
+    "google_rating": 4.3,
+    "google_reviews": 49,
+    "rent_min": 16000,
+    "rent_max": 25000,
+    "verdict": "Emplacement Nimman premium avec piscine sur le toit et gym ; bon compromis confort-localisation mais loyers un peu eleves."
+  },
+  {
+    "name": "The Trio Condominium",
+    "google_rating": 4.2,
+    "google_reviews": 85,
+    "rent_min": 12000,
+    "rent_max": 20000,
+    "verdict": "Grandes unites avec vue Doi Suthep et bonnes commodites pres de Maya ; excellent rapport qualite-prix pour un sejour prolonge."
+  },
+  {
+    "name": "Green Hill Place",
+    "google_rating": 3.9,
+    "google_reviews": 201,
+    "rent_min": 12000,
+    "rent_max": 22000,
+    "verdict": "Belle piscine et vue montagne mais avis mitiges (frais caches, gym vieillissant) ; qualite-prix moyen, lire le contrat attentivement."
+  },
+  {
+    "name": "Stylish Chiang Mai Condo",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 10000,
+    "rent_max": 18000,
+    "verdict": "Pas de note Google fiable trouvee ; option a verifier sur place avant de s'engager pour un nomade."
+  },
+  {
+    "name": "One Plus Huay Kaew",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 9000,
+    "rent_max": 15000,
+    "verdict": "Option budget derriere Maya, pratique pour Nimman, mais avis mitiges sur la gestion et pas de note Google explicite."
+  },
+  {
+    "name": "One Plus Klong Chon Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 10000,
+    "rent_max": 15000,
+    "verdict": "Calme et proche de Nimman/CMU a loyer abordable ; bon plan potentiel mais sans note Google pour confirmer."
+  },
+  {
+    "name": "S Condo Chiang Mai",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 20000,
+    "rent_max": 28000,
+    "verdict": "Immeuble recent avec commodites completes mais loyers eleves ; rapport qualite-prix moyen pour un nomade a moins d'aimer le haut de gamme."
+  },
+  {
+    "name": "Chom Doi Condominium",
+    "google_rating": 3.8,
+    "google_reviews": 44,
+    "rent_min": 9000,
+    "rent_max": 16000,
+    "verdict": "Emplacement central pres de Maya a prix doux, mais batiment ancien et soucis d'eau/bruit signales ; qualite-prix correct pour petit budget."
+  },
+  {
+    "name": "Mountain Front Condominium",
+    "google_rating": 4.2,
+    "google_reviews": 56,
+    "rent_min": 10000,
+    "rent_max": 18000,
+    "verdict": "Grandes unites propres avec vue montagne et bonnes facilites ; tres bon rapport qualite-prix si l'eloignement du centre ne gene pas."
+  }
+]

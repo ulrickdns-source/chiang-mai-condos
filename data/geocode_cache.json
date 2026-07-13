@@ -1,0 +1,2756 @@
+{
+"2-BR Townhouse close to Nimmanhaemin": {
+"lat": 18.77759,
+"lng": 98.94854,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Astra Sky River": {
+"lat": 18.783084,
+"lng": 99.000751,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Hillside 3 Condominium": {
+"lat": 18.804306,
+"lng": 98.959665,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Liv@Nimman": {
+"lat": 18.778446,
+"lng": 98.945997,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"One Plus Huay Kaew": {
+"lat": 18.805617,
+"lng": 98.959425,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Palm Springs Nimman": {
+"lat": 18.783196,
+"lng": 98.949394,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Residence 2 @Nimman": {
+"lat": 18.780314,
+"lng": 98.944323,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Residence @ Nimman": {
+"lat": 18.797907,
+"lng": 98.967915,
+"approx": true,
+"via": "kw:nimman"
+},
+"The Bliss Hotel Nimman": {
+"lat": 18.802832,
+"lng": 98.968229,
+"approx": true,
+"via": "kw:maya"
+},
+"The Empire Nimman": {
+"lat": 18.798387,
+"lng": 98.968557,
+"approx": true,
+"via": "kw:nimman"
+},
+"The Nimman By Palm Springs": {
+"lat": 18.792376,
+"lng": 98.96875,
+"approx": true,
+"via": "kw:nimman_s"
+},
+"The Nimmana": {
+"lat": 18.801176,
+"lng": 98.970108,
+"approx": true,
+"via": "kw:maya"
+},
+"The Star Hill Condo": {
+"lat": 18.779779,
+"lng": 98.947184,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"The Unique @ Nimman": {
+"lat": 18.797628,
+"lng": 98.970192,
+"approx": true,
+"via": "kw:nimman"
+},
+"Townhouse 2 chambres proche Nimman": {
+"lat": 18.797891,
+"lng": 98.96803,
+"approx": true,
+"via": "kw:nimman"
+},
+"3-BR House close to Chiang Mai University": {
+"lat": 18.800622,
+"lng": 98.950254,
+"approx": true,
+"via": "kw:cmu"
+},
+"3-BR House in Suthep": {
+"lat": 18.807659,
+"lng": 98.932739,
+"approx": true,
+"via": "kw:doisuthep"
+},
+"Maison 3 chambres proche CMU": {
+"lat": 18.805151,
+"lng": 98.950745,
+"approx": true,
+"via": "kw:cmu"
+},
+"D Vieng Santitham": {
+"lat": 18.807756,
+"lng": 98.978694,
+"approx": true,
+"via": "kw:santitham"
+},
+"Pansook The Urban Condo": {
+"lat": 18.803169,
+"lng": 98.960313,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"3-BR Townhouse close to Old City": {
+"lat": 18.787204,
+"lng": 98.985666,
+"approx": true,
+"via": "kw:oldcity"
+},
+"4-BR House close to Chiang Mai Old City": {
+"lat": 18.787217,
+"lng": 98.98377,
+"approx": true,
+"via": "kw:oldcity"
+},
+"Escent Chiangmai": {
+"lat": 18.807359,
+"lng": 99.013076,
+"approx": true,
+"via": "kw:central"
+},
+"Supalai Monte 2": {
+"lat": 18.80683,
+"lng": 99.013283,
+"approx": true,
+"via": "kw:central"
+},
+"The Astra": {
+"lat": 18.789254,
+"lng": 98.999273,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Pool Villa Huai Sai 4 ch.": {
+"lat": 18.9182,
+"lng": 98.934355,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Pool Villa pres du Four Seasons - 2 ch.": {
+"lat": 18.904346,
+"lng": 98.886405,
+"approx": true,
+"via": "kw:maesa"
+},
+"Summit Green Valley - Pool Villa moderne": {
+"lat": 18.902759,
+"lng": 98.88274,
+"approx": true,
+"via": "kw:maesa"
+},
+"3 Bedroom House at Setthasiri San Sai": {
+"lat": 18.857641,
+"lng": 99.038668,
+"approx": true,
+"via": "kw:sansai"
+},
+"Impeccable Architect-Designed Pool House at Lake View Park 2": {
+"lat": 18.830054,
+"lng": 99.01946,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Luxury 3 Bed Twin Home at The Britt": {
+"lat": 18.859939,
+"lng": 99.042849,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Luxury 3-Storey Modern Tropical Home - Akaluck Sansai": {
+"lat": 18.858227,
+"lng": 99.040117,
+"approx": true,
+"via": "kw:sansai"
+},
+"Luxury House at Setthasiri Sansai": {
+"lat": 18.856951,
+"lng": 99.043361,
+"approx": true,
+"via": "kw:sansai"
+},
+"Luxury Modern-Style Pool Villa near Lake - Sinthana Village": {
+"lat": 18.861829,
+"lng": 99.03764,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Modern 4 Bed House at The Britt": {
+"lat": 18.860949,
+"lng": 99.043361,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Pool Villa by the River": {
+"lat": 18.794455,
+"lng": 98.998838,
+"approx": true,
+"via": "kw:watket"
+},
+"Premier Residence at Burasiri San Phi Suea": {
+"lat": 18.831511,
+"lng": 99.021949,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Stunning 4 Bedroom House at Burasiri San Phi Suea": {
+"lat": 18.831654,
+"lng": 99.019216,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Superb Luxury House at Nong Chom": {
+"lat": 18.860623,
+"lng": 99.041751,
+"approx": true,
+"via": "kw:sansai"
+},
+"103 Condominium": {
+"lat": 18.798094,
+"lng": 98.968565,
+"approx": true,
+"via": "kw:nimman_n"
+},
+"103 Condominium 2": {
+"lat": 18.802324,
+"lng": 98.971153,
+"approx": true,
+"via": "kw:nimman_n"
+},
+"Hillside 1 Condominium": {
+"lat": 18.807672,
+"lng": 98.959774,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Hillside 2 Condominium": {
+"lat": 18.802589,
+"lng": 98.96312,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"One Plus Klong Chon (Nimman)": {
+"lat": 18.805191,
+"lng": 98.95002,
+"approx": true,
+"via": "kw:cmu"
+},
+"Palm Springs Nimman Areca": {
+"lat": 18.783121,
+"lng": 98.948287,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Palm Springs Nimman Fountain": {
+"lat": 18.800846,
+"lng": 98.964777,
+"approx": true,
+"via": "kw:maya"
+},
+"Palm Springs Nimman Parlor": {
+"lat": 18.791954,
+"lng": 98.964413,
+"approx": true,
+"via": "kw:nimman_s"
+},
+"Palm Springs Nimman Phoenix": {
+"lat": 18.803814,
+"lng": 98.969726,
+"approx": true,
+"via": "kw:maya"
+},
+"Palm Springs Nimman Royal": {
+"lat": 18.777437,
+"lng": 98.944416,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Oasis 2": {
+"lat": 18.795863,
+"lng": 98.965877,
+"approx": true,
+"via": "kw:nimman"
+},
+"Punna Residence 1 @Nimman": {
+"lat": 18.779648,
+"lng": 98.949274,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Residence Oasis 1": {
+"lat": 18.799752,
+"lng": 98.955141,
+"approx": true,
+"via": "kw:cmu"
+},
+"Punna Residence Oasis 2": {
+"lat": 18.793252,
+"lng": 98.969141,
+"approx": true,
+"via": "kw:nimman"
+},
+"Rawee Waree Residence": {
+"lat": 18.803038,
+"lng": 98.971206,
+"approx": true,
+"via": "kw:nimman_n"
+},
+"Rueankham Tower (Ruan Kum Tower)": {
+"lat": 18.802957,
+"lng": 98.967722,
+"approx": true,
+"via": "kw:nimman_n"
+},
+"Sky Breeze Condo": {
+"lat": 18.798986,
+"lng": 98.965469,
+"approx": true,
+"via": "kw:maya"
+},
+"Srithana Condominium 2": {
+"lat": 18.801087,
+"lng": 98.967776,
+"approx": true,
+"via": "kw:maya"
+},
+"The Bliss Hotel & Residence": {
+"lat": 18.805038,
+"lng": 98.958981,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"The Siri Condominium": {
+"lat": 18.80403,
+"lng": 98.970139,
+"approx": true,
+"via": "kw:maya"
+},
+"The Trio Condominium": {
+"lat": 18.805315,
+"lng": 98.980238,
+"approx": true,
+"via": "kw:changphueak"
+},
+"The Unique at Nimman 2": {
+"lat": 18.799275,
+"lng": 98.966085,
+"approx": true,
+"via": "kw:nimman"
+},
+"The Vidi Condominium": {
+"lat": 18.803499,
+"lng": 98.969959,
+"approx": true,
+"via": "kw:maya"
+},
+"The Wing Place Condo": {
+"lat": 18.776705,
+"lng": 98.944148,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Tree Boutique Condo @Nimman": {
+"lat": 18.800781,
+"lng": 98.95622,
+"approx": true,
+"via": "kw:cmu"
+},
+"One Plus Jed Yod Condo": {
+"lat": 18.811092,
+"lng": 98.973019,
+"approx": true,
+"via": "kw:jetyod"
+},
+"One Plus Jet Yod 2": {
+"lat": 18.800704,
+"lng": 98.966739,
+"approx": true,
+"via": "kw:maya"
+},
+"The Next 1 Condo": {
+"lat": 18.813479,
+"lng": 98.975434,
+"approx": true,
+"via": "kw:jetyod"
+},
+"Trams Condo (Trams 1) Jed Yod": {
+"lat": 18.811986,
+"lng": 98.973571,
+"approx": true,
+"via": "kw:jetyod"
+},
+"Bungalow 3 chambres Canal Road Suthep": {
+"lat": 18.781136,
+"lng": 98.949384,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Bungalow 3 chambres Ton Phayom Market": {
+"lat": 18.803374,
+"lng": 98.953613,
+"approx": true,
+"via": "zone:Suthep / CMU"
+},
+"Casa Condo @ CMU": {
+"lat": 18.799748,
+"lng": 98.951238,
+"approx": true,
+"via": "kw:cmu"
+},
+"Chom Doi Condominium 2": {
+"lat": 18.779426,
+"lng": 98.944151,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Dcondo Campus Resort Chiang-Mai": {
+"lat": 18.789164,
+"lng": 98.964362,
+"approx": true,
+"via": "kw:suandok"
+},
+"Maison 3 chambres a Suthep": {
+"lat": 18.779603,
+"lng": 98.94655,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Maison familiale 4 chambres Suthep": {
+"lat": 18.777185,
+"lng": 98.945158,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Residence 4 @ CMU": {
+"lat": 18.803458,
+"lng": 98.951583,
+"approx": true,
+"via": "kw:cmu"
+},
+"Punna Residence Nimman / Oasis": {
+"lat": 18.793133,
+"lng": 98.967977,
+"approx": true,
+"via": "kw:nimman"
+},
+"The Chalatte Loft: Punna Resident 3 CMU": {
+"lat": 18.805103,
+"lng": 98.952779,
+"approx": true,
+"via": "kw:cmu"
+},
+"Himma Garden Condominium": {
+"lat": 18.802139,
+"lng": 98.979947,
+"approx": true,
+"via": "zone:Santitham"
+},
+"Nakornping Condominium": {
+"lat": 18.809177,
+"lng": 99.004847,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Pansook High Quality Condo": {
+"lat": 18.802594,
+"lng": 98.96046,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"The Sky Chiangmai": {
+"lat": 18.803756,
+"lng": 98.985988,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Nakornping Condo Huay Kaew": {
+"lat": 18.805862,
+"lng": 99.001226,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Punna Residence 5": {
+"lat": 18.801474,
+"lng": 98.960237,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"3-BR House in Chang Phueak": {
+"lat": 18.802116,
+"lng": 98.98593,
+"approx": true,
+"via": "kw:changphueak"
+},
+"3-BR Townhouse in Chang Phueak": {
+"lat": 18.802864,
+"lng": 98.980269,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Casa Condo Changpurk": {
+"lat": 18.806218,
+"lng": 98.981022,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Hill Park Condo 2": {
+"lat": 18.815439,
+"lng": 98.970381,
+"approx": true,
+"via": "kw:jetyod"
+},
+"Immaculate 4-Bedroom House in Chang Phueak": {
+"lat": 18.805775,
+"lng": 98.983988,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Maison 3 chambres a Chang Phueak": {
+"lat": 18.800188,
+"lng": 98.983008,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Maison 4 chambres Chang Phueak": {
+"lat": 18.802608,
+"lng": 98.982725,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Natura Green Residence": {
+"lat": 18.80566,
+"lng": 98.957825,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Promt Condo Chiangmai": {
+"lat": 18.80264,
+"lng": 98.985059,
+"approx": true,
+"via": "kw:changphueak"
+},
+"The Next Jedyod": {
+"lat": 18.814546,
+"lng": 98.972443,
+"approx": true,
+"via": "kw:jetyod"
+},
+"Townhouse 3 chambres a Chang Phueak": {
+"lat": 18.800087,
+"lng": 98.984731,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Maison 2 chambres proche Old City": {
+"lat": 18.786487,
+"lng": 98.983723,
+"approx": true,
+"via": "kw:oldcity"
+},
+"Maison 3 chambres proche Old City": {
+"lat": 18.791131,
+"lng": 98.984763,
+"approx": true,
+"via": "kw:oldcity"
+},
+"Maison 3 chambres proche Old City (Si Phum)": {
+"lat": 18.785319,
+"lng": 98.98588,
+"approx": true,
+"via": "kw:oldcity"
+},
+"Maison 4 chambres proche Old City": {
+"lat": 18.788975,
+"lng": 98.985803,
+"approx": true,
+"via": "kw:oldcity"
+},
+"The Unique at Koomuang": {
+"lat": 18.789492,
+"lng": 98.984574,
+"approx": true,
+"via": "kw:oldcity"
+},
+"Townhouse 3 chambres proche Old City": {
+"lat": 18.784736,
+"lng": 98.986121,
+"approx": true,
+"via": "kw:oldcity"
+},
+"D Condo Sign": {
+"lat": 18.806168,
+"lng": 99.004719,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Dcondo Ping": {
+"lat": 18.804548,
+"lng": 99.002122,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Dcondo Rin": {
+"lat": 18.804328,
+"lng": 99.006976,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Escent Park Ville Chiangmai": {
+"lat": 18.806721,
+"lng": 99.014848,
+"approx": true,
+"via": "kw:central"
+},
+"Escent Ville Chiangmai": {
+"lat": 18.805829,
+"lng": 99.018259,
+"approx": true,
+"via": "kw:central"
+},
+"Peaks Avenue": {
+"lat": 18.783707,
+"lng": 98.999765,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Supalai Monte 1": {
+"lat": 18.79203,
+"lng": 98.998783,
+"approx": true,
+"via": "kw:watket"
+},
+"The Embassy House Condominium Chiang Mai": {
+"lat": 18.80441,
+"lng": 99.002144,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Twin Peaks": {
+"lat": 18.787737,
+"lng": 99.000316,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"1-BR Villa in Wat Ket": {
+"lat": 18.790864,
+"lng": 99.000796,
+"approx": true,
+"via": "kw:watket"
+},
+"3-BR Townhouse in Wat Ket": {
+"lat": 18.79371,
+"lng": 99.004744,
+"approx": true,
+"via": "kw:watket"
+},
+"Baannoi Nornmuan Lanna House": {
+"lat": 18.791422,
+"lng": 98.999347,
+"approx": true,
+"via": "zone:Riverside"
+},
+"Galare Thong Tower": {
+"lat": 18.78707,
+"lng": 98.996758,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Karnkanok 19 Townhouse (Mahidol Rd)": {
+"lat": 18.784572,
+"lng": 98.997903,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Peaks Garden": {
+"lat": 18.786847,
+"lng": 99.000467,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Sriping Muang Luxury Villa Chang Khlan": {
+"lat": 18.78832,
+"lng": 98.999556,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"The Chiang Mai Riverside": {
+"lat": 18.789975,
+"lng": 99.001682,
+"approx": true,
+"via": "kw:watket"
+},
+"Townhouse 3 chambres a Wat Ket": {
+"lat": 18.791095,
+"lng": 98.998489,
+"approx": true,
+"via": "kw:watket"
+},
+"Villa 1 chambre a Wat Ket": {
+"lat": 18.796039,
+"lng": 99.001394,
+"approx": true,
+"via": "kw:watket"
+},
+"One Plus Mahidol 6": {
+"lat": 18.770554,
+"lng": 99.002324,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Ban Nawarat maison 3 ch": {
+"lat": 18.724405,
+"lng": 98.922274,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Brand New Modern Pool Villa Nong Khwai": {
+"lat": 18.687782,
+"lng": 98.923657,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Luxurious Living Stunning House Ban Waen": {
+"lat": 18.664402,
+"lng": 98.896632,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Maison 3 ch Baan Kwanwieng 1": {
+"lat": 18.689851,
+"lng": 98.922628,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch Hang Dong": {
+"lat": 18.689095,
+"lng": 98.920536,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison 3 ch Mae Hia": {
+"lat": 18.759057,
+"lng": 98.94617,
+"approx": true,
+"via": "kw:maehia"
+},
+"Maison 3 ch Malada Maz": {
+"lat": 18.692041,
+"lng": 98.922035,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch pet-friendly Nawarat Village": {
+"lat": 18.721685,
+"lng": 98.925663,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Maison 3 ch Supalai Bella": {
+"lat": 18.690381,
+"lng": 98.924227,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch Supalai Park Ville Hangdong": {
+"lat": 18.664405,
+"lng": 98.899602,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Maison 3 ch The Zentric (Koolpunt Ville 9)": {
+"lat": 18.686639,
+"lng": 98.921485,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch Villa Flora": {
+"lat": 18.692243,
+"lng": 98.918497,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 4 ch Doi Kham Hillside 2": {
+"lat": 18.806888,
+"lng": 98.960183,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Maison 4 ch Koolpunt Ville 9": {
+"lat": 18.663474,
+"lng": 98.902621,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Maison 4 ch Nong Khwai": {
+"lat": 18.688027,
+"lng": 98.923452,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 4 ch The Masterpiece Scenery Hill": {
+"lat": 18.722683,
+"lng": 98.927384,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Maison 4 ch World Club Land": {
+"lat": 18.692043,
+"lng": 98.922379,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison meublee 4 ch Ban Waen": {
+"lat": 18.667332,
+"lng": 98.897937,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Maison minimaliste 3 ch Penpak Home Hill": {
+"lat": 18.727032,
+"lng": 98.921951,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Modern Classic 4-Bed Pool Villa San Phak Wan": {
+"lat": 18.691372,
+"lng": 98.924284,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Phuri Pool Villa 5 ch Nam Phrae": {
+"lat": 18.726378,
+"lng": 98.925466,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Pool Villa 4 ch Koolpunt Ville 9": {
+"lat": 18.667226,
+"lng": 98.901409,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Pool Villa vue montagne 5 ch Nam Phrae": {
+"lat": 18.728306,
+"lng": 98.927214,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Villa 3 ch Baan Pratthana Plus": {
+"lat": 18.690059,
+"lng": 98.920334,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Villa 5 ch Nam Phrae 590m2": {
+"lat": 18.725804,
+"lng": 98.926287,
+"approx": true,
+"via": "kw:namphrae"
+},
+"Villa piscine 4 ch Ban Waen": {
+"lat": 18.663044,
+"lng": 98.899126,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Villa piscine 5 ch Wang Tan": {
+"lat": 18.687271,
+"lng": 98.918253,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Palm Spa Village - Maison cosy 2 ch.": {
+"lat": 18.923074,
+"lng": 98.947474,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Retraite nature Rim Tai 3 ch.": {
+"lat": 18.928167,
+"lng": 98.948256,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Supalai Bella Donkaew - Maison 3 ch. 130m2": {
+"lat": 18.913424,
+"lng": 98.937968,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Supalai Bella DonKaew - Maison 3 ch. 149m2": {
+"lat": 18.9179,
+"lng": 98.938308,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Supalai Bella Estate - Maison 3 ch. 149m2": {
+"lat": 18.904967,
+"lng": 98.884325,
+"approx": true,
+"via": "kw:maesa"
+},
+"Supalai Bella Mae Rim - Maison 3 ch. 180m2": {
+"lat": 18.906071,
+"lng": 98.885854,
+"approx": true,
+"via": "kw:maesa"
+},
+"Supalai Bella Mae Rim - Maison 4 ch.": {
+"lat": 18.906331,
+"lng": 98.886726,
+"approx": true,
+"via": "kw:maesa"
+},
+"Supalai Bella Maerim - Maison 4 ch. 167m2": {
+"lat": 18.904865,
+"lng": 98.887577,
+"approx": true,
+"via": "kw:maesa"
+},
+"Supalai Tuscany Donkaew - Villa luxe neuve": {
+"lat": 18.907407,
+"lng": 98.882302,
+"approx": true,
+"via": "kw:maesa"
+},
+"The Maerim River - Maison 5 ch.": {
+"lat": 18.793184,
+"lng": 99.004189,
+"approx": true,
+"via": "kw:watket"
+},
+"3 Bedroom House at Pruklada 2 Chiang Mai": {
+"lat": 18.857632,
+"lng": 99.037696,
+"approx": true,
+"via": "kw:sansai"
+},
+"3 BR Cozy Cottage House at Baan Nonnipa": {
+"lat": 18.859825,
+"lng": 99.039593,
+"approx": true,
+"via": "zone:San Sai"
+},
+"4 Bedroom House at Moo Baan Pimuk 1": {
+"lat": 18.859034,
+"lng": 99.03918,
+"approx": true,
+"via": "kw:sansai"
+},
+"4 Bedroom House at Regent 2": {
+"lat": 18.863085,
+"lng": 99.039812,
+"approx": true,
+"via": "kw:sansai"
+},
+"4 Bedroom House at Thanaporn Park Home 5": {
+"lat": 18.861549,
+"lng": 99.043164,
+"approx": true,
+"via": "zone:San Sai"
+},
+"4 Bedroom House at The Grand Park": {
+"lat": 18.859974,
+"lng": 99.038892,
+"approx": true,
+"via": "zone:San Sai"
+},
+"4 Bedroom House at The Greenery Central": {
+"lat": 18.857166,
+"lng": 99.039756,
+"approx": true,
+"via": "kw:sansai"
+},
+"4 Bedroom House at Tropical Regent 1": {
+"lat": 18.857493,
+"lng": 99.042164,
+"approx": true,
+"via": "kw:sansai"
+},
+"4 Bedroom House in Quiet Gated Estate": {
+"lat": 18.860263,
+"lng": 99.038904,
+"approx": true,
+"via": "zone:San Sai"
+},
+"5-Bedroom Detached House at Mantana San Sai": {
+"lat": 18.862214,
+"lng": 99.037236,
+"approx": true,
+"via": "kw:sansai"
+},
+"Contemporary 3 Bedroom House at Monotown 3": {
+"lat": 18.832368,
+"lng": 99.019221,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Five-Bedroom Family Home at Thanaporn Park Home 5": {
+"lat": 18.862811,
+"lng": 99.039308,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Four-Bedroom Family Home at Mu Ban Perfect Place": {
+"lat": 18.833261,
+"lng": 99.021009,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"House to Rent Overlooking Ping River": {
+"lat": 18.796054,
+"lng": 98.999632,
+"approx": true,
+"via": "kw:watket"
+},
+"Modern 2 Bed House in San Phi Suea": {
+"lat": 18.83326,
+"lng": 99.022143,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Modern Thai Style 4 Bedroom House at The Greenery Villa": {
+"lat": 18.860753,
+"lng": 99.042541,
+"approx": true,
+"via": "kw:sansai"
+},
+"New Semi-Detached House at Zentara by Tarasiri": {
+"lat": 18.860358,
+"lng": 99.041161,
+"approx": true,
+"via": "kw:sansai"
+},
+"Single-Storey House for Rent in San Phi Suea": {
+"lat": 18.832262,
+"lng": 99.021478,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Spacious 5-Bed House at Thanaporn Park Home 5": {
+"lat": 18.8574,
+"lng": 99.042463,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Spacious Single-Storey House with Large Plot": {
+"lat": 18.857072,
+"lng": 99.041017,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Superb Luxury House Ban Pimuk Nong Chom": {
+"lat": 18.861868,
+"lng": 99.0366,
+"approx": true,
+"via": "kw:sansai"
+},
+"Corner Unit Modern House at BELIVE Wongwaen-Sankampang": {
+"lat": 18.745439,
+"lng": 99.115995,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Grand Lanna Meridian": {
+"lat": 18.742044,
+"lng": 99.118986,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House at Habitat Wongwaen-Sankamphaeng": {
+"lat": 18.747674,
+"lng": 99.121214,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House at Ornsirin 3": {
+"lat": 18.743797,
+"lng": 99.11959,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Ornsirin 6": {
+"lat": 18.743797,
+"lng": 99.11959,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Samran Rat, Doi Saket": {
+"lat": 18.919318,
+"lng": 99.13456,
+"approx": true,
+"via": "kw:doisaket"
+},
+"House at Supalai Garden Ville Wongwaen-Sankampang": {
+"lat": 18.745739,
+"lng": 99.11936,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Supalai Grand Ville Sankamphaeng": {
+"lat": 18.744092,
+"lng": 99.120672,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House in Chae Chang": {
+"lat": 18.747194,
+"lng": 99.115066,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House in San Klang (luxury)": {
+"lat": 18.743739,
+"lng": 99.121347,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House With Private Pool at Karnkanok 2": {
+"lat": 18.742583,
+"lng": 99.117332,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Luxury Home at Baan Karnkanok 2": {
+"lat": 18.745277,
+"lng": 99.116624,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Modern Three-Bedroom Pool Home": {
+"lat": 18.743403,
+"lng": 99.118342,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Pool Villa Beyond San Kamphaeng": {
+"lat": 18.744515,
+"lng": 99.119445,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Pool Villa San Kamphaeng": {
+"lat": 18.746517,
+"lng": 99.116071,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Private House by the Lake at Chiangmai Floraville": {
+"lat": 18.913186,
+"lng": 99.134725,
+"approx": true,
+"via": "kw:doisaket"
+},
+"Three Bedroom Bungalow on 1 Rai": {
+"lat": 18.747108,
+"lng": 99.114615,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Chom Doi Condominium": {
+"lat": 18.777767,
+"lng": 98.945347,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Chomdoi Condotel": {
+"lat": 18.776602,
+"lng": 98.949207,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Hillside 4 Condominium": {
+"lat": 18.803623,
+"lng": 98.97011,
+"approx": true,
+"via": "kw:maya"
+},
+"Hillside Plaza & Condotel 4": {
+"lat": 18.804446,
+"lng": 98.959135,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Impress Town Condominium": {
+"lat": 18.778553,
+"lng": 98.946024,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Live @ Nimman": {
+"lat": 18.781722,
+"lng": 98.943267,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Mountain Front Condominium": {
+"lat": 18.810615,
+"lng": 98.92815,
+"approx": true,
+"via": "kw:doisuthep"
+},
+"North 5 Condo": {
+"lat": 18.782957,
+"lng": 98.944774,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"One Plus Klongchon": {
+"lat": 18.781468,
+"lng": 98.945184,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Palm Springs Place": {
+"lat": 18.793159,
+"lng": 98.967095,
+"approx": true,
+"via": "kw:nimman"
+},
+"Play Condominium": {
+"lat": 18.802224,
+"lng": 98.961954,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Punna Residence 2": {
+"lat": 18.776974,
+"lng": 98.945737,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Residence Oasis": {
+"lat": 18.781217,
+"lng": 98.948118,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Rouenkam Tower Condominium": {
+"lat": 18.777842,
+"lng": 98.947389,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Srithana Condominium 1": {
+"lat": 18.803487,
+"lng": 98.960676,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Stylish Condominium": {
+"lat": 18.778655,
+"lng": 98.948114,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"The Nimman by Palm Spring": {
+"lat": 18.77876,
+"lng": 98.946176,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"The Unique Condo @Nimman 1": {
+"lat": 18.779483,
+"lng": 98.946283,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Karnkanok 3 Condo Jed Yod Greenery Hill": {
+"lat": 18.809958,
+"lng": 98.975539,
+"approx": true,
+"via": "kw:jetyod"
+},
+"One Plus Jed Yod 1": {
+"lat": 18.809608,
+"lng": 98.974404,
+"approx": true,
+"via": "kw:jetyod"
+},
+"One Plus Jed Yod 1 & 2": {
+"lat": 18.816016,
+"lng": 98.974664,
+"approx": true,
+"via": "kw:jetyod"
+},
+"One Plus Jed Yod 3": {
+"lat": 18.809608,
+"lng": 98.974404,
+"approx": true,
+"via": "kw:jetyod"
+},
+"Thaveephol Tower": {
+"lat": 18.800266,
+"lng": 98.980318,
+"approx": true,
+"via": "kw:changphueak"
+},
+"The Hill Park Condominium 1": {
+"lat": 18.806304,
+"lng": 98.98537,
+"approx": true,
+"via": "kw:changphueak"
+},
+"103 Condominium 5": {
+"lat": 18.782324,
+"lng": 98.948153,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Airport Home Condominium": {
+"lat": 18.779044,
+"lng": 98.943696,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Chayayon Condo": {
+"lat": 18.782919,
+"lng": 98.946398,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Chiang Mai Condominium": {
+"lat": 18.780521,
+"lng": 98.948075,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Galae Thong Condo": {
+"lat": 18.767419,
+"lng": 99.005832,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Huen Por Liang Condominium": {
+"lat": 18.776657,
+"lng": 98.946732,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Kiang Mo Condominium": {
+"lat": 18.778301,
+"lng": 98.945308,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Kiang Mor Condo": {
+"lat": 18.806118,
+"lng": 98.951716,
+"approx": true,
+"via": "kw:cmu"
+},
+"Kiengmor Condominium 1": {
+"lat": 18.777317,
+"lng": 98.946174,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Natara Exclusive Residences": {
+"lat": 18.777885,
+"lng": 98.946255,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"North 3 Condo": {
+"lat": 18.780158,
+"lng": 98.943294,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"One Plus Condo - Klongchon 3": {
+"lat": 18.78192,
+"lng": 98.943787,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"One Plus Condo Suan Dok": {
+"lat": 18.788712,
+"lng": 98.958542,
+"approx": true,
+"via": "kw:suandok"
+},
+"One Plus Klong Chon 2": {
+"lat": 18.803896,
+"lng": 98.95633,
+"approx": true,
+"via": "zone:Suthep / CMU"
+},
+"One Plus Nineteen 1-2": {
+"lat": 18.800416,
+"lng": 98.950043,
+"approx": true,
+"via": "zone:Suthep / CMU"
+},
+"One Plus Nineteen 4": {
+"lat": 18.800013,
+"lng": 98.953622,
+"approx": true,
+"via": "zone:Suthep / CMU"
+},
+"One Plus Suandok 1,2,3": {
+"lat": 18.791227,
+"lng": 98.964038,
+"approx": true,
+"via": "kw:suandok"
+},
+"Ping Plus Condo": {
+"lat": 18.778338,
+"lng": 98.945273,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Punna Residence 3": {
+"lat": 18.793474,
+"lng": 98.966937,
+"approx": true,
+"via": "kw:nimman"
+},
+"Punna Residence 3 @ CMU": {
+"lat": 18.805458,
+"lng": 98.954243,
+"approx": true,
+"via": "kw:cmu"
+},
+"Rooks Condotel": {
+"lat": 18.777961,
+"lng": 98.945975,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Ruankam Tower Condominium": {
+"lat": 18.77811,
+"lng": 98.946882,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"AtHomechiangmai Condotel": {
+"lat": 18.81179,
+"lng": 98.975714,
+"approx": true,
+"via": "kw:jetyod"
+},
+"Galae Thong Tower": {
+"lat": 18.785546,
+"lng": 98.997699,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Huay Kaew Condotel": {
+"lat": 18.804986,
+"lng": 98.961101,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Punna Residence 4 Chiang Mai": {
+"lat": 18.777006,
+"lng": 98.947774,
+"approx": true,
+"via": "kw:suthep_s"
+},
+"Baan Suan Greenery Hill": {
+"lat": 18.801318,
+"lng": 98.984627,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Bright Hill Condo Chiang Mai": {
+"lat": 18.805718,
+"lng": 98.984069,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Casa Condo Chang Phueak": {
+"lat": 18.80541,
+"lng": 98.98522,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Casa Condo Changpuak": {
+"lat": 18.806218,
+"lng": 98.980791,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Casa Condo Chiangmai": {
+"lat": 18.801796,
+"lng": 98.982157,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Chiangmai View Place 1": {
+"lat": 18.804918,
+"lng": 98.980391,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Convention Condominium": {
+"lat": 18.753122,
+"lng": 98.943873,
+"approx": true,
+"via": "kw:maehia"
+},
+"Green Tower Condo": {
+"lat": 18.803305,
+"lng": 98.984489,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Hinoki Condominium": {
+"lat": 18.805449,
+"lng": 98.982944,
+"approx": true,
+"via": "kw:changphueak"
+},
+"J.C. Hill Place Condominium": {
+"lat": 18.804102,
+"lng": 98.981231,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Kasa Verdana": {
+"lat": 18.805518,
+"lng": 98.9841,
+"approx": true,
+"via": "kw:changphueak"
+},
+"KN Town Condominium (Green Tower)": {
+"lat": 18.805645,
+"lng": 98.983166,
+"approx": true,
+"via": "zone:Chang Phueak"
+},
+"Lanna Nakorn Condotown": {
+"lat": 18.805599,
+"lng": 98.986338,
+"approx": true,
+"via": "zone:Chang Phueak"
+},
+"MOBIUS Condo": {
+"lat": 18.803518,
+"lng": 98.984577,
+"approx": true,
+"via": "zone:Chang Phueak"
+},
+"Moda Condominium": {
+"lat": 18.801544,
+"lng": 98.98338,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Mountain View Condominium": {
+"lat": 18.80725,
+"lng": 98.927431,
+"approx": true,
+"via": "kw:doisuthep"
+},
+"Nakhon Ping City View": {
+"lat": 18.801744,
+"lng": 98.980625,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Pansook Quality Condo": {
+"lat": 18.80172,
+"lng": 98.981803,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Ping Live Condo": {
+"lat": 18.801207,
+"lng": 98.981723,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Prime Square Condominium": {
+"lat": 18.805047,
+"lng": 98.982664,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Sabai Sabai Chiangmai": {
+"lat": 18.805822,
+"lng": 98.981031,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Seven Stars Condominium": {
+"lat": 18.805091,
+"lng": 98.983365,
+"approx": true,
+"via": "kw:changphueak"
+},
+"The Hill Park": {
+"lat": 18.802082,
+"lng": 98.985715,
+"approx": true,
+"via": "kw:changphueak"
+},
+"The Ivory": {
+"lat": 18.803195,
+"lng": 98.985499,
+"approx": true,
+"via": "kw:changphueak"
+},
+"The Next Jedyod 2": {
+"lat": 18.810949,
+"lng": 98.973589,
+"approx": true,
+"via": "kw:jetyod"
+},
+"The Resort Condominium": {
+"lat": 18.756836,
+"lng": 98.94111,
+"approx": true,
+"via": "kw:maehia"
+},
+"The Shine Condominium": {
+"lat": 18.803291,
+"lng": 98.983161,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Touch Hill Place": {
+"lat": 18.803725,
+"lng": 98.985708,
+"approx": true,
+"via": "kw:changphueak"
+},
+"TRAMS Condominium": {
+"lat": 18.800938,
+"lng": 98.983181,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Trams Condominium 1": {
+"lat": 18.801588,
+"lng": 98.981029,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Treasure Prime Condo": {
+"lat": 18.803978,
+"lng": 98.979885,
+"approx": true,
+"via": "kw:changphueak"
+},
+"Vieng Ping Condominium": {
+"lat": 18.806559,
+"lng": 99.002766,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Glory Condominium Chiang Mai": {
+"lat": 18.790154,
+"lng": 98.984182,
+"approx": true,
+"via": "kw:oldcity"
+},
+"Doi Ping Mansion": {
+"lat": 18.78638,
+"lng": 98.999895,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Suthep Hill House Condominium": {
+"lat": 18.801357,
+"lng": 98.956586,
+"approx": true,
+"via": "kw:cmu"
+},
+"City View Tower Condominium": {
+"lat": 18.810841,
+"lng": 99.01652,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"D Condo Nim": {
+"lat": 18.806987,
+"lng": 99.002266,
+"approx": true,
+"via": "kw:superhwy"
+},
+"My Hip Condo": {
+"lat": 18.804479,
+"lng": 99.014014,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"One Plus Business Park 1": {
+"lat": 18.805176,
+"lng": 99.016636,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"Punna Oasis 1": {
+"lat": 18.795863,
+"lng": 98.965876,
+"approx": true,
+"via": "kw:nimman"
+},
+"The Base Height Chiang Mai": {
+"lat": 18.792787,
+"lng": 98.999115,
+"approx": true,
+"via": "kw:watket"
+},
+"The Canale Condo by Mobius": {
+"lat": 18.807479,
+"lng": 99.013964,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"The Green City 2 Chiangmai": {
+"lat": 18.809768,
+"lng": 99.013824,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"The Issara Chiang Mai": {
+"lat": 18.808739,
+"lng": 99.01682,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"The Next 2": {
+"lat": 18.804462,
+"lng": 99.014132,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"The Next 3 Condo": {
+"lat": 18.809279,
+"lng": 99.000613,
+"approx": true,
+"via": "kw:superhwy"
+},
+"The Prio Signature Condo Chiangmai": {
+"lat": 18.807973,
+"lng": 99.013638,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"The Treasure Condominium by My Hip": {
+"lat": 18.808614,
+"lng": 99.012907,
+"approx": true,
+"via": "zone:Central Festival"
+},
+"Angket Pavillian Condo": {
+"lat": 18.802942,
+"lng": 99.004855,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"Arise Charoen Mueang": {
+"lat": 18.804041,
+"lng": 99.003888,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"Hillside Payap Condominium": {
+"lat": 18.8079,
+"lng": 99.006277,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Hillside Payap Condominium 7": {
+"lat": 18.801383,
+"lng": 98.960637,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Hillside Payap Condominium 8": {
+"lat": 18.801383,
+"lng": 98.960637,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Hillside Payap Condominium 9": {
+"lat": 18.801383,
+"lng": 98.960637,
+"approx": true,
+"via": "kw:huaykaew"
+},
+"Mekin Haus": {
+"lat": 18.808934,
+"lng": 99.006544,
+"approx": true,
+"via": "kw:superhwy"
+},
+"My Hip Condo 2-3-4": {
+"lat": 18.804832,
+"lng": 99.00454,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"Nakornping City View Condo": {
+"lat": 18.804864,
+"lng": 98.98566,
+"approx": true,
+"via": "kw:changphueak"
+},
+"One Plus Condo Kamthieng": {
+"lat": 18.807963,
+"lng": 99.001066,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"PP Condominium": {
+"lat": 18.80414,
+"lng": 99.003339,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"Prime Square @Super Nimman": {
+"lat": 18.804823,
+"lng": 98.983609,
+"approx": true,
+"via": "kw:changphueak"
+},
+"SR Complex (SR Condominium)": {
+"lat": 18.809368,
+"lng": 99.005701,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"The Jigsaw Condominium": {
+"lat": 18.806756,
+"lng": 99.004025,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"The Nine Thasala": {
+"lat": 18.808967,
+"lng": 99.003699,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"The Spring Loft": {
+"lat": 18.808889,
+"lng": 99.002629,
+"approx": true,
+"via": "kw:superhwy"
+},
+"The Treasure": {
+"lat": 18.803778,
+"lng": 99.00206,
+"approx": true,
+"via": "zone:Superhighway"
+},
+"The Unique at Ruamchok": {
+"lat": 18.805694,
+"lng": 99.002635,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Night Bazaar Condotel": {
+"lat": 18.788963,
+"lng": 99.002179,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"One Plus Nineteen": {
+"lat": 18.785141,
+"lng": 99.000934,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"One Plus Nineteen 3": {
+"lat": 18.783013,
+"lng": 98.999422,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Rimping Condominium": {
+"lat": 18.804887,
+"lng": 99.001808,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Supanich Condo": {
+"lat": 18.792966,
+"lng": 98.99821,
+"approx": true,
+"via": "kw:watket"
+},
+"Townhouse 2 chambres a Fa Ham": {
+"lat": 18.803982,
+"lng": 99.002605,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Townhouse 3 chambres a Fa Ham": {
+"lat": 18.806778,
+"lng": 99.007181,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Villa 6 chambres a Fa Ham": {
+"lat": 18.809291,
+"lng": 99.003934,
+"approx": true,
+"via": "kw:superhwy"
+},
+"Wararom Kaewnawarat 3-Bed House": {
+"lat": 18.792983,
+"lng": 98.999716,
+"approx": true,
+"via": "zone:Riverside"
+},
+"Baan Eua Arthorn Nong Hoi": {
+"lat": 18.771204,
+"lng": 99.000225,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"National Housing Authority Nong Hoi": {
+"lat": 18.769604,
+"lng": 99.001215,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"NHA Chiang Mai (Nhong Hoi)": {
+"lat": 18.76663,
+"lng": 99.002889,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"One Plus Mahidol": {
+"lat": 18.76854,
+"lng": 99.002281,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"One Plus Mahidol 5": {
+"lat": 18.770554,
+"lng": 99.002324,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"One Plus Nong Hoi (Business Park)": {
+"lat": 18.770147,
+"lng": 99.000869,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Su Condo": {
+"lat": 18.768236,
+"lng": 99.002092,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"The Rich Condo": {
+"lat": 18.766887,
+"lng": 99.006852,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Villa 4 chambres Nong Hoi": {
+"lat": 18.770858,
+"lng": 99.000607,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"3 Bedroom House at Pajaree Village": {
+"lat": 18.68882,
+"lng": 98.922416,
+"approx": true,
+"via": "kw:hangdong"
+},
+"3-BR House in Hang Dong": {
+"lat": 18.692454,
+"lng": 98.921758,
+"approx": true,
+"via": "kw:hangdong"
+},
+"3-BR House in Mae Hia": {
+"lat": 18.75932,
+"lng": 98.943655,
+"approx": true,
+"via": "kw:maehia"
+},
+"3-BR Villa close to Kad Farang Village": {
+"lat": 18.662518,
+"lng": 98.900527,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Ban Waen Pool Villa": {
+"lat": 18.668206,
+"lng": 98.898242,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Bungalow 3 chambres Koolpunt Ville 9": {
+"lat": 18.664894,
+"lng": 98.898942,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Family House at The Emperor": {
+"lat": 18.68944,
+"lng": 98.919794,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Japanese Style Pool Villa San Phak Wan": {
+"lat": 18.692354,
+"lng": 98.919925,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Lanna Thara Village Villa": {
+"lat": 18.68832,
+"lng": 98.91995,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch Baan Thanaboon": {
+"lat": 18.690432,
+"lng": 98.919994,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch Charisma Ville": {
+"lat": 18.689365,
+"lng": 98.919583,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 ch pet-friendly San Phak Wan": {
+"lat": 18.690243,
+"lng": 98.923541,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Maison 3 chambres Mu Ban Lanna Thara": {
+"lat": 18.688215,
+"lng": 98.917641,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison 3 chambres Pajaree Village": {
+"lat": 18.688258,
+"lng": 98.922777,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison 3 chambres pres Ratchapruek Road": {
+"lat": 18.687033,
+"lng": 98.923501,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison 4 chambres pres Lanna International": {
+"lat": 18.690421,
+"lng": 98.918953,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison 4 chambres Supalai Bella": {
+"lat": 18.690257,
+"lng": 98.918077,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison familiale 4 chambres The Emperor": {
+"lat": 18.687872,
+"lng": 98.917793,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Palm Springs Privato Ban Waen": {
+"lat": 18.662188,
+"lng": 98.902314,
+"approx": true,
+"via": "kw:banwaen"
+},
+"Pool villa Palm Springs Privato": {
+"lat": 18.686916,
+"lng": 98.921429,
+"approx": true,
+"via": "kw:hangdong"
+},
+"San Phak Wan Pool Villa": {
+"lat": 18.689677,
+"lng": 98.920715,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Villa moderne piscine Nong Khwai": {
+"lat": 18.687488,
+"lng": 98.921347,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Villa piscine 4 chambres World Club Land": {
+"lat": 18.691299,
+"lng": 98.92138,
+"approx": true,
+"via": "kw:hangdong"
+},
+"World Club Land Villa Nong Khwai": {
+"lat": 18.691411,
+"lng": 98.91805,
+"approx": true,
+"via": "zone:Hang Dong"
+},
+"Five Star 5-Bed Villa near Prem International School": {
+"lat": 18.916422,
+"lng": 98.937483,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Grande maison Rim Nuea 5 ch.": {
+"lat": 18.924319,
+"lng": 98.946375,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Maison 2 chambres Palm Spa Village": {
+"lat": 18.924965,
+"lng": 98.945192,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Maison campagne Mae Raem 2 ch.": {
+"lat": 18.915484,
+"lng": 98.935915,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Maison campagne Mae Raem 2 ch. 150m2": {
+"lat": 18.913907,
+"lng": 98.939341,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Maison campagne Rim Tai 2 ch.": {
+"lat": 18.924167,
+"lng": 98.94547,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Maison de caractere Don Kaeo 5 ch.": {
+"lat": 18.912674,
+"lng": 98.935808,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Maison Don Kaew Village 4 ch.": {
+"lat": 18.915087,
+"lng": 98.93618,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Maison familiale Rim Tai 4 ch.": {
+"lat": 18.925924,
+"lng": 98.944547,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Maison familiale San Pong 3 ch.": {
+"lat": 18.91335,
+"lng": 98.935377,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Maison familiale spacieuse Mae Sa 4 ch.": {
+"lat": 18.904861,
+"lng": 98.883849,
+"approx": true,
+"via": "kw:maesa"
+},
+"Maison Huai Sai 3 ch. 336m2": {
+"lat": 18.918966,
+"lng": 98.940188,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Maison Rim Tai 2 ch. 96m2": {
+"lat": 18.92383,
+"lng": 98.946337,
+"approx": true,
+"via": "kw:rimtai"
+},
+"The Hill Place - Maison 5 ch.": {
+"lat": 18.91783,
+"lng": 98.937339,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"Townhouse 2 chambres modernise Mae Rim": {
+"lat": 18.919379,
+"lng": 98.936675,
+"approx": true,
+"via": "kw:maerim"
+},
+"Detached Two-Bedroom House in San Na Meng": {
+"lat": 18.858647,
+"lng": 99.039448,
+"approx": true,
+"via": "kw:sansai"
+},
+"Karnkanok Ville 8": {
+"lat": 18.857466,
+"lng": 99.038485,
+"approx": true,
+"via": "kw:sansai"
+},
+"Lanna View Townhouse, San Phi Suea": {
+"lat": 18.830908,
+"lng": 99.020108,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Luxurious 6-Bed House Thanawan Village": {
+"lat": 18.86339,
+"lng": 99.04231,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Maison 4 chambres Siriporn 2 Nong Chom": {
+"lat": 18.861177,
+"lng": 99.038722,
+"approx": true,
+"via": "kw:sansai"
+},
+"Maison 4 chambres Thanaporn Park Home 5": {
+"lat": 18.858855,
+"lng": 99.041451,
+"approx": true,
+"via": "kw:sansai"
+},
+"Maison 4 chambres The Greenery Central": {
+"lat": 18.863063,
+"lng": 99.040314,
+"approx": true,
+"via": "kw:sansai"
+},
+"Maison de luxe 3 chambres Nong Chom": {
+"lat": 18.861917,
+"lng": 99.04275,
+"approx": true,
+"via": "kw:sansai"
+},
+"Modern Three-Bedroom Family Home in San Sai Luang": {
+"lat": 18.857907,
+"lng": 99.037464,
+"approx": true,
+"via": "kw:sansai"
+},
+"The Nordic House Pool Villa Chiangmai": {
+"lat": 18.86008,
+"lng": 99.043314,
+"approx": true,
+"via": "zone:San Sai"
+},
+"Baan Fah Luang Pool Villa": {
+"lat": 18.748131,
+"lng": 99.117779,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Charming 2BR House": {
+"lat": 18.747204,
+"lng": 99.119243,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Cozy Home at Baan Thanakrit": {
+"lat": 18.748312,
+"lng": 99.117728,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Baan Siriporn DonChan": {
+"lat": 18.742013,
+"lng": 99.116969,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Chiang Mai (San Kamphaeng) by NHA": {
+"lat": 18.744607,
+"lng": 99.118897,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House at Karnkanok Ville 13": {
+"lat": 18.744656,
+"lng": 99.120862,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House at Karnkanok Ville 9": {
+"lat": 18.74453,
+"lng": 99.116102,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Koolpunt Ville 15": {
+"lat": 18.742205,
+"lng": 99.120742,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at The Bliss Koolpunt Ville 16": {
+"lat": 18.745765,
+"lng": 99.118574,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House at The Bliss Koolpunt Ville 16 (340 m2)": {
+"lat": 18.744086,
+"lng": 99.116755,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House at The Esteem": {
+"lat": 18.74434,
+"lng": 99.115311,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at The Prego": {
+"lat": 18.746798,
+"lng": 99.117695,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House at Wararom Charoenmuang": {
+"lat": 18.744313,
+"lng": 99.115964,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"House in Pimpichada": {
+"lat": 18.748093,
+"lng": 99.118128,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Karnkanok 2 Fully Furnished House": {
+"lat": 18.742517,
+"lng": 99.117988,
+"approx": true,
+"via": "zone:San Kamphaeng"
+},
+"Spacious Family Home in San Kamphaeng (Mae Khue)": {
+"lat": 18.742773,
+"lng": 99.121059,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"3-BR Townhouse close to CentralFestival": {
+"lat": 18.809387,
+"lng": 99.01823,
+"approx": true,
+"via": "kw:central"
+},
+"Arise Condo At Mahidol": {
+"lat": 18.766506,
+"lng": 99.001108,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Belle maison 4 chambres Pa Daet": {
+"lat": 18.78239,
+"lng": 98.971679,
+"approx": true,
+"via": "zone:Autres"
+},
+"Chiangmai View Place": {
+"lat": 18.78191,
+"lng": 98.967517,
+"approx": true,
+"via": "zone:Autres"
+},
+"Chiangmai View Place 2": {
+"lat": 18.781918,
+"lng": 98.967191,
+"approx": true,
+"via": "zone:Autres"
+},
+"Grand Siritara": {
+"lat": 18.757377,
+"lng": 98.945304,
+"approx": true,
+"via": "kw:maehia"
+},
+"Green Ville Exclusive Residence": {
+"lat": 18.780992,
+"lng": 98.972608,
+"approx": true,
+"via": "zone:Autres"
+},
+"Karnkanok 19 Townhouse": {
+"lat": 18.787293,
+"lng": 98.997076,
+"approx": true,
+"via": "kw:nightbazaar"
+},
+"Le Chamonix": {
+"lat": 18.781556,
+"lng": 98.968372,
+"approx": true,
+"via": "zone:Autres"
+},
+"Mae Hia Luxury Modern Villa": {
+"lat": 18.753818,
+"lng": 98.945347,
+"approx": true,
+"via": "kw:maehia"
+},
+"Mahidol Condo": {
+"lat": 18.766655,
+"lng": 99.003708,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Maison 3 chambres Palm Springs Country Homes": {
+"lat": 18.796834,
+"lng": 98.966955,
+"approx": true,
+"via": "kw:nimman"
+},
+"Maison 3 chambres pres Hang Dong Road": {
+"lat": 18.688889,
+"lng": 98.917702,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison 3 chambres pres Mahidol Road": {
+"lat": 18.767798,
+"lng": 99.006747,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Maison 3 chambres Wararom Kaewnawarat": {
+"lat": 18.782348,
+"lng": 98.967957,
+"approx": true,
+"via": "zone:Autres"
+},
+"Maison 4 chambres non meublee Tha Sala": {
+"lat": 18.776819,
+"lng": 98.968105,
+"approx": true,
+"via": "zone:Autres"
+},
+"Nong Hoi Premier Villa": {
+"lat": 18.768639,
+"lng": 99.000205,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Pool Suite": {
+"lat": 18.754388,
+"lng": 98.942176,
+"approx": true,
+"via": "kw:maehia"
+},
+"Serene Lake North 8": {
+"lat": 18.757252,
+"lng": 98.946373,
+"approx": true,
+"via": "kw:maehia"
+},
+"Sereno Airport Condo": {
+"lat": 18.77719,
+"lng": 98.972686,
+"approx": true,
+"via": "zone:Autres"
+},
+"The Grand Parano": {
+"lat": 18.781796,
+"lng": 98.972481,
+"approx": true,
+"via": "zone:Autres"
+},
+"The Urbana+5": {
+"lat": 18.781289,
+"lng": 98.96786,
+"approx": true,
+"via": "zone:Autres"
+},
+"Townhouse 2 chambres Lanna View": {
+"lat": 18.8276,
+"lng": 99.021347,
+"approx": true,
+"via": "kw:sanphisuea"
+},
+"Townhouse 2 chambres Tha Sala": {
+"lat": 18.776996,
+"lng": 98.967074,
+"approx": true,
+"via": "zone:Autres"
+},
+"Townhouse 3 chambres Pruska Ville Don Chan": {
+"lat": 18.782564,
+"lng": 98.968275,
+"approx": true,
+"via": "zone:Autres"
+},
+"Townhouse 4 chambres Supalai Primo Mahidol": {
+"lat": 18.769119,
+"lng": 99.006165,
+"approx": true,
+"via": "kw:nonghoi"
+},
+"Villa de luxe 4 chambres Mae Hia": {
+"lat": 18.757019,
+"lng": 98.94151,
+"approx": true,
+"via": "kw:maehia"
+},
+"Vina Town Condo": {
+"lat": 18.779869,
+"lng": 98.971325,
+"approx": true,
+"via": "zone:Autres"
+},
+"5-BR Villa in Mae Hia": {
+"lat": 18.757033,
+"lng": 98.942984,
+"approx": true,
+"via": "kw:maehia"
+},
+"Luxurious 6-Bedroom House in Hang Dong": {
+"lat": 18.692025,
+"lng": 98.924133,
+"approx": true,
+"via": "kw:hangdong"
+},
+"Maison de luxe 6 chambres Ban Waen": {
+"lat": 18.662726,
+"lng": 98.899412,
+"approx": true,
+"via": "kw:banwaen"
+},
+"3-BR House in Mae Sa": {
+"lat": 18.902793,
+"lng": 98.884686,
+"approx": true,
+"via": "kw:maesa"
+},
+"5 Bedroom House near Prem International School": {
+"lat": 18.913045,
+"lng": 98.935703,
+"approx": true,
+"via": "kw:maerim"
+},
+"Cosy 2-Bedroom House at Palm Spa Village, Rim Tai": {
+"lat": 18.923366,
+"lng": 98.943379,
+"approx": true,
+"via": "kw:rimtai"
+},
+"Maison 5 chambres pres de Prem International": {
+"lat": 18.915014,
+"lng": 98.938628,
+"approx": true,
+"via": "kw:maerim"
+},
+"Maison bois de padouk Mae Sa 2 ch.": {
+"lat": 18.906079,
+"lng": 98.887798,
+"approx": true,
+"via": "kw:maesa"
+},
+"Maison bois Don Kaeo 3 ch.": {
+"lat": 18.916812,
+"lng": 98.935649,
+"approx": true,
+"via": "zone:Mae Rim"
+},
+"2-BR Townhouse in San Na Meng": {
+"lat": 18.857195,
+"lng": 99.039299,
+"approx": true,
+"via": "kw:sansai"
+},
+"Ban Pimuk Luxury House, Nong Chom": {
+"lat": 18.858146,
+"lng": 99.040777,
+"approx": true,
+"via": "kw:sansai"
+},
+"Luxurious 6-Bedroom House in Thanawan, San Sai": {
+"lat": 18.859775,
+"lng": 99.0408,
+"approx": true,
+"via": "kw:sansai"
+},
+"Maison de luxe 6 chambres Thanawan": {
+"lat": 18.857164,
+"lng": 99.041227,
+"approx": true,
+"via": "kw:sansai"
+},
+"2-BR Villa in Mae Khue": {
+"lat": 18.914712,
+"lng": 99.133051,
+"approx": true,
+"via": "kw:doisaket"
+},
+"Family House on 1 Rai Plot, San Kamphaeng": {
+"lat": 18.744485,
+"lng": 99.119494,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"House with Private Pool in San Kamphaeng": {
+"lat": 18.744982,
+"lng": 99.115761,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Maison 3 chambres Wararom Charoenmuang": {
+"lat": 18.741978,
+"lng": 99.119081,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Maison avec piscine privee San Kamphaeng": {
+"lat": 18.742261,
+"lng": 99.116985,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Maison familiale sur 1 Rai San Kamphaeng": {
+"lat": 18.741878,
+"lng": 99.116438,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Plover Cove Villa": {
+"lat": 18.916189,
+"lng": 99.137306,
+"approx": true,
+"via": "kw:doisaket"
+},
+"Villa moderne 4 chambres Karnkanok Ville 4": {
+"lat": 18.743258,
+"lng": 99.116835,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"Villa piscine 5 chambres San Kamphaeng": {
+"lat": 18.744197,
+"lng": 99.117184,
+"approx": true,
+"via": "kw:sankamphaeng"
+},
+"2-Bedroom Bungalow near 89 Plaza": {
+"lat": 18.684368,
+"lng": 99.038359,
+"approx": true,
+"via": "kw:saraphi"
+},
+"Brand New 3-Bedroom Townhouse at Nong Phueng": {
+"lat": 18.685203,
+"lng": 99.038758,
+"approx": true,
+"via": "kw:saraphi"
+},
+"Bungalow 2 chambres pres 89 Plaza": {
+"lat": 18.690217,
+"lng": 99.038123,
+"approx": true,
+"via": "kw:saraphi"
+},
+"Bungalow 3 chambres + grange a riz": {
+"lat": 18.780425,
+"lng": 98.969904,
+"approx": true,
+"via": "zone:Autres"
+},
+"Doi Saket Modern House San Pu Loei": {
+"lat": 18.912678,
+"lng": 99.133906,
+"approx": true,
+"via": "kw:doisaket"
+},
+"Don Kaeo Luxury Villa": {
+"lat": 18.776856,
+"lng": 98.966772,
+"approx": true,
+"via": "zone:Autres"
+},
+"Maison 3 chambres Ploenchit Collina": {
+"lat": 18.77877,
+"lng": 98.972499,
+"approx": true,
+"via": "zone:Autres"
+},
+"Maison 4 chambres Koolpuntville 15 Park Avenue": {
+"lat": 18.913745,
+"lng": 99.139072,
+"approx": true,
+"via": "kw:doisaket"
+},
+"Maison de caractere 5 chambres Don Kaeo": {
+"lat": 18.687505,
+"lng": 99.039008,
+"approx": true,
+"via": "kw:saraphi"
+},
+"Maison plain-pied 4 chambres avec piscine": {
+"lat": 18.780887,
+"lng": 98.970919,
+"approx": true,
+"via": "zone:Autres"
+},
+"Pa Pong Country Pool Villa": {
+"lat": 18.777298,
+"lng": 98.970996,
+"approx": true,
+"via": "zone:Autres"
+},
+"Talat Khwan Pool Villa": {
+"lat": 18.779413,
+"lng": 98.968851,
+"approx": true,
+"via": "zone:Autres"
+},
+"Townhouse 3 chambres Nong Phueng": {
+"lat": 18.685493,
+"lng": 99.035867,
+"approx": true,
+"via": "kw:saraphi"
+},
+"Verbena Villas": {
+"lat": 18.778504,
+"lng": 98.967479,
+"approx": true,
+"via": "zone:Autres"
+}
+}

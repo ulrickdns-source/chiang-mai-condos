@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Palm Springs Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 15000,
+    "rent_max": 25000,
+    "verdict": "Marque premium bien placee a Nimman, mais la note Google globale n'est pas verifiable ; rapport qualite-prix correct pour un nomade cherchant confort et proximite cafes/coworking."
+  },
+  {
+    "name": "Palm Springs Nimman Phoenix",
+    "google_rating": 4.5,
+    "google_reviews": 30,
+    "rent_min": 16000,
+    "rent_max": 22000,
+    "verdict": "Excellente note et immeuble recent a 300m de One Nimman : tres bon rapport qualite-prix pour un nomade digital sans voiture."
+  },
+  {
+    "name": "Palm Springs Nimman Fountain",
+    "google_rating": 4.2,
+    "google_reviews": 126,
+    "rent_min": 15000,
+    "rent_max": 20000,
+    "verdict": "Bonne note sur un gros volume d'avis et emplacement top pres de Maya, mais murs fins et bruit d'avions : bon rapport qualite-prix si on evite les etages exposes."
+  },
+  {
+    "name": "Palm Springs Nimman Parlor",
+    "google_rating": 4.3,
+    "google_reviews": null,
+    "rent_min": 17000,
+    "rent_max": 20000,
+    "verdict": "Piscine rooftop avec vue et unites modernes energie-efficientes : rapport qualite-prix solide pour un nomade qui veut du standing central."
+  },
+  {
+    "name": "The Nimman by Palm Springs",
+    "google_rating": 4.3,
+    "google_reviews": 57,
+    "rent_min": 13000,
+    "rent_max": 18000,
+    "verdict": "Le plus ancien de la gamme mais central et bien note : rapport qualite-prix interessant pour un budget maitrise malgre quelques avis sur l'entretien."
+  },
+  {
+    "name": "Punna Residence @ Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 12000,
+    "rent_max": 18000,
+    "verdict": "Valeur sure des expats en plein Nimman (Soi 6), note Google globale non verifiable, mais bon rapport qualite-prix pour la localisation et la piscine."
+  },
+  {
+    "name": "Punna Residence 1 @ Nimman",
+    "google_rating": 4.0,
+    "google_reviews": 23,
+    "rent_min": 12000,
+    "rent_max": 18000,
+    "verdict": "Emplacement imbattable au coeur de Nimman avec vue Doi Suthep, mais murs fins qui plombent la note : rapport qualite-prix moyen pour qui teletravaille et veut du calme."
+  },
+  {
+    "name": "Punna Residence 2 @ Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 12000,
+    "rent_max": 18000,
+    "verdict": "Jumeau de Punna 1 pres de CMU avec piscine saltwater et sauna, note Google non verifiable ; rapport qualite-prix correct pour l'acces cafes/universite."
+  },
+  {
+    "name": "Punna Residence 4 @ CMU",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 10000,
+    "rent_max": 15000,
+    "verdict": "Option la plus abordable pres de CMU, note Google non verifiable, mais bon rapport qualite-prix pour un nomade a petit budget acceptant un cadre plus etudiant."
+  },
+  {
+    "name": "The Bliss Hotel Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 9000,
+    "rent_max": 16000,
+    "verdict": "Hotel-appart propre et economique a 4 min de Maya (pas de note Google verifiee) : bon rapport qualite-prix en sejour mensuel malgre le bruit des avions."
+  },
+  {
+    "name": "Rueankham Tower",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 8000,
+    "rent_max": 14000,
+    "verdict": "Immeuble ancien mais tres central pres de Maya/CMU, note Google non verifiable ; rapport qualite-prix attractif pour un nomade qui privilegie le prix sur le standing."
+  }
+]

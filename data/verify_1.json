@@ -1,0 +1,90 @@
+[
+  {
+    "name": "The Astra Condominium",
+    "google_rating": 4.3,
+    "google_reviews": 813,
+    "rent_min": 15000,
+    "rent_max": 30000,
+    "verdict": "Excellent emplacement pres du Night Bazaar et grosse tour bien equipee (piscine rooftop, gym, coworking), un bon rapport qualite-prix pour un nomade qui veut du confort en centre-ville."
+  },
+  {
+    "name": "Astra Sky River",
+    "google_rating": 4.2,
+    "google_reviews": 611,
+    "rent_min": 16000,
+    "rent_max": 32000,
+    "verdict": "Tour recente avec rooftop panoramique spectaculaire et cadre propre, correct pour un nomade mais matelas durs et loyers un peu au-dessus de la moyenne."
+  },
+  {
+    "name": "The Nimmana",
+    "google_rating": 4.2,
+    "google_reviews": 220,
+    "rent_min": 18000,
+    "rent_max": 35000,
+    "verdict": "L'un des plus beaux condos de Nimman avec grande piscine et gestion soignee, ideal pour un nomade qui privilegie le style et l'emplacement, mais on paie le prestige du quartier."
+  },
+  {
+    "name": "Supalai Monte @ Viang",
+    "google_rating": 4.7,
+    "google_reviews": 3,
+    "rent_min": 11000,
+    "rent_max": 20000,
+    "verdict": "Grande tour bien equipee collee a Central Chiangmai avec loyers raisonnables, tres bon rapport qualite-prix pour un nomade (note Google fiable mais sur peu d'avis)."
+  },
+  {
+    "name": "Twin Peaks Condominium",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 15000,
+    "rent_max": 28000,
+    "verdict": "Petit condo boutique tres bien tenu et central pres du Night Bazaar, bon choix calme pour un nomade mais parc vieillissant et peu d'unites disponibles."
+  },
+  {
+    "name": "The Unique at Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 14000,
+    "rent_max": 25000,
+    "verdict": "Petit condo style Lanna en plein Nimman a deux pas de Maya, pratique pour un nomade qui veut tout a pied, mais immeuble ancien (2014) et unites limitees."
+  },
+  {
+    "name": "The Vidi Condominium",
+    "google_rating": 4.1,
+    "google_reviews": 79,
+    "rent_min": 12000,
+    "rent_max": 20000,
+    "verdict": "Residence moderne et calme a Santitham a 8 min a pied de Nimman/Maya, excellent rapport qualite-prix pour un nomade cherchant Nimman moins cher."
+  },
+  {
+    "name": "The Star Hill Condo",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 13000,
+    "rent_max": 25000,
+    "verdict": "Condo style resort avec piscine et jacuzzi pres de Maya, agreable pour un nomade mais ambiance parfois location touristique et note Google non confirmee."
+  },
+  {
+    "name": "Sky Breeze Condo",
+    "google_rating": 4.3,
+    "google_reviews": 62,
+    "rent_min": 12000,
+    "rent_max": 22000,
+    "verdict": "Piscine d'eau salee, batiment non-fumeur securise et vue Doi Suthep pres de l'universite, tres bon rapport qualite-prix pour un nomade malgre le bruit des avions."
+  },
+  {
+    "name": "Himma Garden Condominium",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 13000,
+    "rent_max": 25000,
+    "verdict": "Complexe verdoyant avec grande piscine et sauna vers Chang Phueak, cadre agreable et calme pour un nomade mais un peu excentre et note Google non confirmee."
+  },
+  {
+    "name": "The Empire Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 14000,
+    "rent_max": 26000,
+    "verdict": "Immeuble propre et bien place sur Nimmanhaemin Road, pratique pour un nomade voulant le coeur de Nimman, mais mobilier vieillissant et bruit d'avions a prevoir."
+  }
+]

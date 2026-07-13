@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Hillside 1 Condominium",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 12000,
+    "rent_max": 25000,
+    "verdict": "Emplacement Nimman/Suthep imbattable mais bâtiment vieillissant sans piscine ni gym : correct pour un nomade priorisant la localisation plutôt que le confort."
+  },
+  {
+    "name": "Hillside 2 Condominium",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 10000,
+    "rent_max": 22000,
+    "verdict": "Pile sur Nimman avec 7-Eleven au rez-de-chaussée, mais parking limité et pas de piscine/gym : bon rapport localisation/prix, faible sur les équipements."
+  },
+  {
+    "name": "Hillside 3 Condominium",
+    "google_rating": 4.1,
+    "google_reviews": 73,
+    "rent_min": 12000,
+    "rent_max": 25000,
+    "verdict": "Meilleur des Hillside pour un nomade : coeur de Nimman, piscine, gym et coworking/coffee shop sur place, bon rapport qualite-prix malgre un bâti ancien."
+  },
+  {
+    "name": "Hillside 4 Condominium",
+    "google_rating": 3.9,
+    "google_reviews": 170,
+    "rent_min": 9000,
+    "rent_max": 18000,
+    "verdict": "Le plus grand et le moins cher, deux piscines et gym, mais ambiance condotel bruyante et WiFi peu fiable : rapport qualite-prix moyen pour télétravailler."
+  },
+  {
+    "name": "Dcondo Campus Resort",
+    "google_rating": 4.5,
+    "google_reviews": 133,
+    "rent_min": 8000,
+    "rent_max": 12000,
+    "verdict": "Excellent rapport qualite-prix Sansiri : loyers bas, piscine/gym, cadre calme et vert près de CMU, idéal pour un nomade à petit budget."
+  },
+  {
+    "name": "Dcondo Sign",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 6000,
+    "rent_max": 12000,
+    "verdict": "Très bon rapport qualite-prix : immense piscine, coworking lounge, gestion Plus Property et Central Festival à 4 min à pied pour des loyers doux."
+  },
+  {
+    "name": "D Condo Nim",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 9500,
+    "rent_max": 25000,
+    "verdict": "Piscine, gym et clubhouse à 200 m de Central Festival avec bon accès transports : solide pour un nomade, un peu excentré du coeur Nimman."
+  },
+  {
+    "name": "Escent Chiangmai",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 9000,
+    "rent_max": 18000,
+    "verdict": "High-rise récent (2018) avec piscine sur le toit, sauna et vues : équipements premium à prix raisonnable, mais quartier Fa Ham moins central."
+  },
+  {
+    "name": "Escent Ville Chiangmai",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 8000,
+    "rent_max": 16000,
+    "verdict": "Neuf (2019) et à 350 m de Central Festival avec piscine et gym : très bon rapport qualite-prix pour un nomade voulant du moderne bien situé."
+  },
+  {
+    "name": "Nakornping Condominium",
+    "google_rating": 4.3,
+    "google_reviews": 94,
+    "rent_min": 8000,
+    "rent_max": 18000,
+    "verdict": "Bien géré et propre, piscine, à quelques minutes à pied de la vieille ville et de Nimman : très bon rapport qualite-prix (éviter la face autoroute bruyante)."
+  },
+  {
+    "name": "103 Condominium Nimman",
+    "google_rating": null,
+    "google_reviews": null,
+    "rent_min": 8000,
+    "rent_max": 16000,
+    "verdict": "Immeuble d'apparence vieillotte mais chambres correctes, WiFi rapide et emplacement Nimman imbattable : bon plan budget sans piscine ni gym."
+  }
+]

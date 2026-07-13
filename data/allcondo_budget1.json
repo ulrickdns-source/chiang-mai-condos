@@ -1,0 +1,80 @@
+[
+  {
+    "name": "J.C. Hill Place Condominium",
+    "district": "Chang Phueak",
+    "zone": "Suthep / CMU",
+    "year_completed": 2009,
+    "rent_min": 7000,
+    "rent_max": 7000,
+    "bedrooms": "Studio",
+    "google_rating": null,
+    "google_reviews": null,
+    "developer": null,
+    "source": "https://perfecthomes.co.th/condos-for-rent-in-chiang-mai/"
+  },
+  {
+    "name": "Kiang Mo Condominium",
+    "district": "Suthep",
+    "zone": "Suthep / CMU",
+    "year_completed": null,
+    "rent_min": 7500,
+    "rent_max": 15000,
+    "bedrooms": "Studio",
+    "google_rating": null,
+    "google_reviews": null,
+    "developer": null,
+    "source": "https://www.thailand-property.com/condo/26147/kiang-mo-condominium"
+  },
+  {
+    "name": "Dcondo Campus Resort Chiang Mai",
+    "district": "Suthep",
+    "zone": "Suthep / CMU",
+    "year_completed": 2015,
+    "rent_min": 8500,
+    "rent_max": 11000,
+    "bedrooms": "Studio",
+    "google_rating": null,
+    "google_reviews": null,
+    "developer": "Sansiri",
+    "source": "https://www.thailand-property.com/condos-for-rent/chiang-mai/studio"
+  },
+  {
+    "name": "Chom Doi Condominium",
+    "district": "Suthep",
+    "zone": "Suthep / CMU",
+    "year_completed": 2009,
+    "rent_min": 9500,
+    "rent_max": null,
+    "bedrooms": null,
+    "google_rating": null,
+    "google_reviews": null,
+    "developer": null,
+    "source": "https://www.thailand-property.com/condo/15570/chom-doi-condominium"
+  },
+  {
+    "name": "The Trio Condominium",
+    "district": "Chang Phueak",
+    "zone": "Nimman",
+    "year_completed": 2008,
+    "rent_min": 10000,
+    "rent_max": 10000,
+    "bedrooms": "Studio",
+    "google_rating": null,
+    "google_reviews": null,
+    "developer": "Pruksa Real Estate",
+    "source": "https://chiangmaiopenrealty.com/category/type/condominium/"
+  },
+  {
+    "name": "Hillside 4 Condominium",
+    "district": "Suthep",
+    "zone": "Suthep / CMU",
+    "year_completed": null,
+    "rent_min": 10000,
+    "rent_max": 10000,
+    "bedrooms": "Studio",
+    "google_rating": null,
+    "google_reviews": null,
+    "developer": null,
+    "source": "https://perfecthomes.co.th/hillside-4-condominium/"
+  }
+]

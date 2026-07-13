@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Condos Chiang Mai</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<style>
+  :root{
+    --bg:#f5f6f8; --card:#fff; --ink:#0f141c; --ink2:#1c2530; --mut:#6b7684; --mut2:#8b94a1;
+    --line:#e8ebf0; --line2:#dde1e8;
+    --acc:#4f46e5; --acc-d:#4338ca; --acc-soft:#eef0fe;
+    --emerald:#059669; --amber:#d97706; --amber-soft:#fef3e2;
+    --shadow:0 1px 2px rgba(15,20,28,.04),0 4px 16px rgba(15,20,28,.05);
+    --shadow-h:0 8px 20px rgba(15,20,28,.09),0 20px 44px rgba(15,20,28,.12);
+    --r:16px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:15px/1.55 "Inter",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;letter-spacing:-.005em}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1340px;margin:0 auto;padding:0 22px}
+  .ic{width:16px;height:16px;flex:none;vertical-align:middle}
+
+  /* ---------- HEADER ---------- */
+  header{background:var(--ink);color:#fff;border-bottom:1px solid #0a0e14}
+  header .wrap{display:flex;align-items:center;justify-content:space-between;gap:22px;padding:22px 22px}
+  .brand{display:flex;align-items:center;gap:14px;min-width:0}
+  .logo{width:44px;height:44px;border-radius:12px;flex:none;display:grid;place-items:center;
+    background:linear-gradient(140deg,#6366f1,#4338ca);box-shadow:0 2px 10px rgba(79,70,229,.4),inset 0 1px 0 rgba(255,255,255,.18)}
+  .logo svg{width:24px;height:24px;color:#fff}
+  .brand h1{margin:0;font-size:20px;font-weight:650;letter-spacing:-.02em}
+  .brand .sub{color:#9aa4b2;font-size:13px;margin-top:2px}
+  .stats{display:flex;gap:26px;flex:none}
+  .stat{text-align:right}
+  .stat b{display:block;font-size:22px;font-weight:680;line-height:1;letter-spacing:-.03em}
+  .stat span{font-size:11px;color:#8b94a3;text-transform:uppercase;letter-spacing:.07em;font-weight:500}
+
+  /* ---------- TOOLBAR ---------- */
+  .bar{position:sticky;top:0;z-index:1000;background:rgba(245,246,248,.88);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+  .bar .wrap{display:flex;flex-wrap:wrap;gap:9px;align-items:center;padding:12px 22px}
+  .search{flex:1;min-width:230px;position:relative;display:flex;align-items:center}
+  .search .ic{position:absolute;left:13px;color:var(--mut2)}
+  .search input{width:100%;border:1px solid var(--line2);background:#fff;border-radius:11px;padding:11px 13px 11px 40px;font:inherit;font-size:14px;color:var(--ink)}
+  .search input:focus{outline:none;border-color:var(--acc);box-shadow:0 0 0 3px var(--acc-soft)}
+  select{border:1px solid var(--line2);background:#fff;border-radius:11px;padding:11px 12px;font:inherit;font-size:13.5px;color:var(--ink);cursor:pointer}
+  .budget{display:flex;align-items:center;gap:5px;background:#fff;border:1px solid var(--line2);border-radius:11px;padding:3px 11px}
+  .budget input{border:0;width:60px;padding:8px 0;font:inherit;font-size:13.5px;color:var(--ink);text-align:center}
+  .budget input:focus{outline:none}
+  .budget .u{font-size:12px;color:var(--mut2);font-weight:600}
+  .chk{display:inline-flex;align-items:center;gap:7px;font-size:13px;color:var(--mut);background:#fff;border:1px solid var(--line2);border-radius:11px;padding:9px 12px;cursor:pointer;user-select:none}
+  .chk input{accent-color:var(--acc);width:15px;height:15px}
+  .chk:has(input:checked){color:var(--acc-d);border-color:var(--acc);background:var(--acc-soft)}
+
+  /* ---------- ZONES ---------- */
+  .zones{display:flex;gap:7px;flex-wrap:wrap;padding:16px 0 2px}
+  .chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line2);background:#fff;color:var(--ink2);
+    border-radius:999px;padding:7px 13px;font-size:13px;cursor:pointer;transition:.13s;font-weight:500}
+  .chip:hover{border-color:#c4cad4}
+  .chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+  .chip .dot{width:8px;height:8px;border-radius:50%;flex:none}
+  .chip .n{opacity:.5;font-size:11.5px;font-weight:600}
+  .chip.on .n{opacity:.7}
+
+  .meta-line{color:var(--mut);font-size:13px;padding:13px 2px 2px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .meta-line b{color:var(--ink);font-weight:600}
+  .meta-line .sep{opacity:.4}
+
+  /* ---------- MAP ---------- */
+  .mapwrap{margin:14px 0 0;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:#fff;box-shadow:var(--shadow)}
+  .maphead{display:flex;align-items:center;gap:10px;padding:14px 17px}
+  .maphead h2{margin:0;font-size:14.5px;font-weight:640;display:flex;align-items:center;gap:8px}
+  .maphead h2 .ic{color:var(--acc)}
+  .maphead .sub{color:var(--mut2);font-size:12.5px}
+  .maphead .btns{margin-left:auto;display:flex;gap:7px}
+  .maphead button{border:1px solid var(--line2);background:#fff;border-radius:9px;padding:7px 13px;font:inherit;font-size:12.5px;cursor:pointer;color:var(--ink2);font-weight:500}
+  .maphead button:hover{border-color:var(--acc);color:var(--acc)}
+  #map{height:440px;width:100%}
+  .legend{display:flex;flex-wrap:wrap;gap:6px 15px;padding:11px 17px;border-top:1px solid var(--line);font-size:11.5px;color:var(--mut)}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .legend i{width:9px;height:9px;border-radius:50%}
+  .leaflet-popup-content{margin:12px 14px;font:13px/1.45 "Inter",system-ui,sans-serif}
+  .pop h4{margin:0 0 4px;font-size:14px;font-weight:640}
+  .pop .pz{color:var(--mut);font-size:12px}
+  .pop .pp{color:var(--emerald);font-weight:700;margin:5px 0}
+  .pop a{color:var(--acc);font-weight:600;display:inline-flex;align-items:center;gap:5px;margin-top:3px}
+
+  /* ---------- FACEBOOK ---------- */
+  details.fb{margin:14px 0 0;background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
+  details.fb summary{cursor:pointer;padding:14px 17px;font-weight:600;font-size:14px;list-style:none;display:flex;align-items:center;gap:9px}
+  details.fb summary::-webkit-details-marker{display:none}
+  details.fb summary .ic{color:#1877f2}
+  details.fb summary .chev{margin-left:auto;color:var(--mut2);transition:.2s}
+  details.fb[open] summary .chev{transform:rotate(180deg)}
+  .fbgrid{display:flex;flex-wrap:wrap;gap:8px;padding:0 17px 16px}
+  .fbgrid a{font-size:12.5px;background:#1877f2;color:#fff;border-radius:9px;padding:8px 13px;font-weight:500;display:inline-flex;align-items:center;gap:6px}
+  .fbgrid a.alt{background:var(--acc-soft);color:var(--acc-d)}
+  .fbgrid a .ic{width:13px;height:13px}
+  .fbnote{padding:0 17px 8px;color:var(--mut);font-size:12.5px}
+
+  /* ---------- GRID / CARDS ---------- */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(288px,1fr));gap:20px;margin:22px 0 60px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow);transition:.17s;display:flex;flex-direction:column}
+  .card:hover{transform:translateY(-3px);box-shadow:var(--shadow-h);border-color:var(--line2)}
+  .ph{position:relative;aspect-ratio:16/10;overflow:hidden;background:#eef1f5}
+  .ph img{width:100%;height:100%;object-fit:cover;display:block;transition:.45s ease}
+  .card:hover .ph img{transform:scale(1.05)}
+  .ph .fallback{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px}
+  .ph .fallback svg{width:40px;height:40px;color:rgba(255,255,255,.9);opacity:.92}
+  .ph .fallback .fbtxt{font-size:11px;color:rgba(255,255,255,.85);text-transform:uppercase;letter-spacing:.1em;font-weight:600}
+  .ztag{position:absolute;left:11px;top:11px;display:inline-flex;align-items:center;gap:6px;background:rgba(15,20,28,.72);color:#fff;
+    border-radius:8px;padding:5px 10px;font-size:11.5px;font-weight:600;backdrop-filter:blur(6px)}
+  .ztag i{width:7px;height:7px;border-radius:50%}
+  .rate{position:absolute;right:11px;top:11px;display:inline-flex;align-items:center;gap:5px;background:#fff;border-radius:9px;
+    padding:5px 9px;font-size:12.5px;font-weight:700;box-shadow:0 2px 10px rgba(15,20,28,.18)}
+  .rate .ic{width:13px;height:13px;color:var(--amber)}
+  .rate .rev{font-weight:500;color:var(--mut);font-size:11.5px}
+  .rate.few{background:var(--amber-soft)}
+  .rate.few .rev{color:var(--amber)}
+  .rate.none{background:rgba(255,255,255,.85);color:var(--mut2);font-weight:600;font-size:11px}
+  .rate.none .ic{color:var(--mut2)}
+  .newbadge{position:absolute;left:11px;bottom:11px;z-index:3;background:linear-gradient(135deg,#4f46e5,#7c3aed);color:#fff;font-size:11px;font-weight:700;letter-spacing:.03em;padding:5px 10px 5px 9px;border-radius:8px;box-shadow:0 3px 12px rgba(79,70,229,.5);display:inline-flex;align-items:center;gap:6px;text-transform:uppercase}
+  .newbadge::before{content:"";width:6px;height:6px;border-radius:50%;background:#fff;animation:npulse 1.6s infinite}
+  @keyframes npulse{0%{box-shadow:0 0 0 0 rgba(255,255,255,.75)}70%{box-shadow:0 0 0 7px rgba(255,255,255,0)}100%{box-shadow:0 0 0 0 rgba(255,255,255,0)}}
+  .card.isnew{outline:2px solid var(--acc);outline-offset:-2px}
+  .card.isnew:hover{outline-color:var(--acc-d)}
+
+  .body{padding:14px 15px 15px;display:flex;flex-direction:column;gap:9px;flex:1}
+  .card h3{margin:0;font-size:16px;font-weight:640;line-height:1.28;letter-spacing:-.01em}
+  .meta{display:flex;flex-wrap:wrap;gap:4px 12px;color:var(--mut);font-size:12.5px}
+  .meta span{display:inline-flex;align-items:center;gap:5px}
+  .meta .ic{width:13px;height:13px;color:var(--mut2)}
+  .price{font-size:17px;font-weight:720;color:var(--emerald);letter-spacing:-.02em}
+  .price small{font-size:11.5px;color:var(--mut);font-weight:500;letter-spacing:0}
+  .price .na{color:var(--mut2);font-weight:600;font-size:13.5px}
+  .desc{font-size:12.8px;color:#4a5563;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;flex:1}
+  .foot{display:flex;align-items:center;justify-content:space-between;gap:8px;border-top:1px solid var(--line);padding-top:11px;margin-top:2px}
+  .beds{font-size:12px;color:var(--mut);display:inline-flex;align-items:center;gap:6px}
+  .beds .ic{width:14px;height:14px;color:var(--mut2)}
+  .mapbtn{font-size:12.5px;color:var(--acc-d);font-weight:600;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border-radius:9px;background:var(--acc-soft);transition:.12s}
+  .mapbtn:hover{background:#e2e5fd}
+  .mapbtn .ic{width:13px;height:13px}
+
+  .empty{grid-column:1/-1;text-align:center;color:var(--mut);padding:70px 0}
+  footer{border-top:1px solid var(--line);padding:24px 0 56px;color:var(--mut);font-size:12.5px;text-align:center;line-height:1.75}
+  footer b{color:var(--ink2)}
+  .toTop{position:fixed;right:22px;bottom:22px;background:var(--ink);color:#fff;border:0;width:44px;height:44px;border-radius:12px;
+    cursor:pointer;box-shadow:var(--shadow-h);display:none;z-index:1100;place-items:center}
+  .toTop svg{width:18px;height:18px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <div class="logo" id="logo"></div>
+      <div>
+        <h1>Condos & Maisons Chiang Mai</h1>
+        <div class="sub">Nimman · Suthep · Hang Dong · Mae Rim & alentours — condos et maisons/villas</div>
+      </div>
+    </div>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="search" id="searchWrap">
+      <input id="q" type="text" placeholder="Rechercher un bien, un quartier, un promoteur…" />
+    </div>
+    <select id="ptype">
+      <option value="all">Tous les biens</option>
+      <option value="condo">Condos</option>
+      <option value="house">Maisons / villas</option>
+    </select>
+    <div class="budget">
+      <span class="u">฿</span>
+      <input id="bmin" type="text" value="3000" />
+      <span style="color:var(--mut2)">–</span>
+      <input id="bmax" type="text" value="200000" />
+    </div>
+    <select id="sort">
+      <option value="rating">Trier : Note Google</option>
+      <option value="year">Trier : Plus récents</option>
+      <option value="priceAsc">Trier : Prix croissant</option>
+      <option value="priceDesc">Trier : Prix décroissant</option>
+      <option value="name">Trier : Nom (A→Z)</option>
+      <option value="zone">Trier : Zone</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="onlyRecent" /> Récents 2020+</label>
+    <label class="chk"><input type="checkbox" id="onlyPhoto" /> Avec photo</label>
+    <label class="chk"><input type="checkbox" id="onlyRating" /> Notés Google</label>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="zones" id="zones"></div>
+
+  <div class="meta-line" id="metaLine"></div>
+
+  <div class="mapwrap" id="mapwrap">
+    <div class="maphead">
+      <h2><span id="mapicon"></span> Carte des biens</h2>
+      <span class="sub" id="mapsub"></span>
+      <div class="btns">
+        <button id="mapFit">Recentrer</button>
+        <button id="mapToggle">Masquer</button>
+      </div>
+    </div>
+    <div id="map"></div>
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <details class="fb">
+    <summary><span id="fbicon"></span> Annonces fraîches sur Facebook
+      <span style="color:var(--mut);font-weight:500;font-size:12.5px">— groupes & recherches préremplis</span>
+      <span class="chev" id="chevicon"></span></summary>
+    <div class="fbnote">Le scraping FB n'est pas fiable/autorisé — un clic ouvre le bon groupe ou la recherche prête à l'emploi.</div>
+    <div class="fbgrid" id="fbLinks"></div>
+  </details>
+
+  <div class="grid" id="grid"></div>
+
+  <footer>
+    Base locale · <b>condos + maisons/villas</b> · portails immobiliers (DDproperty, Hipflat, FazWaz, Thailand-Property, Renthub, PerfectHomes) · carte OpenStreetMap.<br>
+    Notes = <b>Google Maps</b> quand disponibles (jamais inventées). Épingles précises au quartier. Prix = fourchettes mensuelles indicatives, à confirmer auprès de l'agent.
+  </footer>
+</div>
+<button class="toTop" id="toTop"></button>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="data.js"></script>
+<script>
+/* ---------- icons (Lucide-style, inline SVG) ---------- */
+const P={
+  building:'<path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/><path d="M10 6h4M10 10h4M10 14h4M10 18h4"/>',
+  pin:'<path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/>',
+  bed:'<path d="M2 4v16"/><path d="M2 8h18a2 2 0 0 1 2 2v10"/><path d="M2 17h20"/><path d="M6 8V6a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v2"/>',
+  cal:'<rect x="3" y="4" width="18" height="18" rx="2"/><path d="M8 2v4M16 2v4M3 10h18"/>',
+  search:'<circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/>',
+  ext:'<path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>',
+  map:'<path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/>',
+  fb:'<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>',
+  chev:'<path d="m6 9 6 6 6-6"/>',
+  up:'<path d="m18 15-6-6-6 6"/>'
+};
+function icon(n,cls){
+  const fill=(n==='star')?'currentColor':'none';
+  const d=(n==='star')?'<path d="M12 2.5l2.9 6 6.6.6-5 4.4 1.5 6.5L12 17.8 6 20l1.5-6.5-5-4.4 6.6-.6z"/>':P[n];
+  return `<svg class="ic ${cls||''}" viewBox="0 0 24 24" fill="${fill}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
+}
+
+const ZONE_ORDER=["Nimman","Santitham","Chang Phueak","Huay Kaew","Jet Yod","Old City","Suthep / CMU","Doi Suthep","Central Festival","Superhighway","Riverside","Nong Hoi","Hang Dong","Mae Rim","San Sai","San Kamphaeng","Autres"];
+const ZCOL={"Nimman":"#ef4444","Santitham":"#f59e0b","Chang Phueak":"#eab308","Huay Kaew":"#84cc16","Jet Yod":"#10b981","Old City":"#14b8a6","Suthep / CMU":"#3b82f6","Doi Suthep":"#6366f1","Central Festival":"#a855f7","Superhighway":"#ec4899","Riverside":"#06b6d4","Nong Hoi":"#f97316","Hang Dong":"#0ea5e9","Mae Rim":"#22c55e","San Sai":"#d946ef","San Kamphaeng":"#f43f5e","Autres":"#64748b"};
+
+const data=(window.CONDOS||[]).map((c,i)=>({...c,id:i}));
+const meta=window.CONDOS_META||{};
+/* ---- historique NOUVEAUTÉS (persistant, localStorage) ----
+   Un bien "is_new" affiche le badge « Nouveauté » jusqu'à ce que l'utilisateur
+   clique dessus au moins une fois ; le clic est mémorisé et survit aux rechargements. */
+const ACK_KEY="cmc_ack_v1";
+let ack=new Set();
+try{ack=new Set(JSON.parse(localStorage.getItem(ACK_KEY)||"[]"));}catch(e){}
+function saveAck(){try{localStorage.setItem(ACK_KEY,JSON.stringify([...ack]));}catch(e){}}
+const isNew=c=>!!c.is_new && !ack.has(c.name);
+function acknowledge(c){ if(c && c.is_new && !ack.has(c.name)){ ack.add(c.name); saveAck(); return true; } return false; }
+const st={q:"",bmin:3000,bmax:200000,ptype:"all",sort:"rating",zones:new Set(),onlyPhoto:false,onlyRating:false,onlyRecent:false};
+const fmt=n=>(n||0).toLocaleString("fr-FR");
+const mapsUrl=c=>"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(c.name+", Chiang Mai, Thailand");
+const hash=s=>{let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return h;};
+function priceHtml(c){
+  const a=c.rent_min,b=c.rent_max;
+  if(a==null&&b==null) return '<span class="na">Prix sur demande</span>';
+  if(a!=null&&b!=null&&a!==b) return fmt(a)+' – '+fmt(b)+' <small>฿/mois</small>';
+  if(a!=null&&b!=null) return fmt(a)+' <small>฿/mois</small>';
+  if(a!=null) return 'dès '+fmt(a)+' <small>฿/mois</small>';
+  return "jusqu'à "+fmt(b)+' <small>฿/mois</small>';
+}
+
+/* static icons */
+document.getElementById("logo").innerHTML=icon("building");
+document.getElementById("mapicon").innerHTML=icon("map");
+document.getElementById("fbicon").innerHTML=icon("fb");
+document.getElementById("chevicon").innerHTML=icon("chev");
+document.getElementById("searchWrap").insertAdjacentHTML("afterbegin",icon("search"));
+document.getElementById("toTop").innerHTML=icon("up");
+
+/* stats */
+const withR=data.filter(c=>c.google_rating!=null).length, withI=data.filter(c=>c.image_url).length, withY=data.filter(c=>c.year_completed).length;
+const nCondo=data.filter(c=>(c.type||"condo")==="condo").length, nHouse=data.filter(c=>c.type==="house").length;
+document.getElementById("stats").innerHTML=
+  `<div class="stat"><b>${nCondo}</b><span>Condos</span></div>`+
+  `<div class="stat"><b>${nHouse}</b><span>Maisons</span></div>`+
+  `<div class="stat"><b>${withR}</b><span>Notés Google</span></div>`+
+  `<div class="stat"><b>${withI}</b><span>Avec photo</span></div>`;
+
+/* facebook */
+const FB=[
+  ["Groupe · CM Houses/Condos for Rent","https://www.facebook.com/groups/chiangmaihousesforrent/",0],
+  ["Groupe · Chiang Mai Friends","https://www.facebook.com/groups/chiangmaifriends/",0],
+  ["Recherche · « condo for rent »","https://www.facebook.com/search/groups/?q=Chiang%20Mai%20condo%20for%20rent",1],
+  ["Recherche · « Nimman rent »","https://www.facebook.com/search/groups/?q=Nimman%20condo%20rent",1],
+  ["Posts · « condo for rent Nimman »","https://www.facebook.com/search/posts/?q=condo%20for%20rent%20Nimman%20Chiang%20Mai",1],
+  ["Marketplace · locations","https://www.facebook.com/marketplace/category/propertyrentals",1],
+];
+document.getElementById("fbLinks").innerHTML=FB.map(f=>`<a class="${f[2]?'alt':''}" href="${f[1]}" target="_blank" rel="noopener">${f[0]} ${icon("ext")}</a>`).join("");
+
+/* zones */
+function typeBase(){return st.ptype==="all"?data:data.filter(c=>(c.type||"condo")===st.ptype);}
+function zoneCounts(){const m={};typeBase().forEach(c=>m[c.zone]=(m[c.zone]||0)+1);return m;}
+function renderZones(){
+  const ct=zoneCounts(),present=ZONE_ORDER.filter(z=>ct[z]);
+  let h=`<div class="chip ${st.zones.size===0?'on':''}" data-z="__all">Toutes <span class="n">${typeBase().length}</span></div>`;
+  h+=present.map(z=>`<div class="chip ${st.zones.has(z)?'on':''}" data-z="${z}"><span class="dot" style="background:${ZCOL[z]}"></span>${z} <span class="n">${ct[z]}</span></div>`).join("");
+  const el=document.getElementById("zones");el.innerHTML=h;
+  el.querySelectorAll(".chip").forEach(ch=>ch.onclick=()=>{
+    const z=ch.dataset.z;
+    if(z==="__all")st.zones.clear();
+    else{st.zones.has(z)?st.zones.delete(z):st.zones.add(z);}
+    renderZones();render(true);
+  });
+}
+document.getElementById("legend").innerHTML=ZONE_ORDER.map(z=>`<span><i style="background:${ZCOL[z]}"></i>${z}</span>`).join("");
+
+function filtered(){
+  let a=data.filter(c=>{
+    if(st.ptype!=="all" && (c.type||"condo")!==st.ptype)return false;
+    if(st.zones.size && !st.zones.has(c.zone))return false;
+    if(st.onlyPhoto && !c.image_url)return false;
+    if(st.onlyRating && c.google_rating==null)return false;
+    if(st.onlyRecent && !(c.year_completed>=2020))return false;
+    if(c.rent_min!=null && c.rent_min>st.bmax)return false;
+    if(c.rent_max!=null && c.rent_max<st.bmin)return false;
+    if(st.q){const hay=(c.name+" "+c.zone+" "+(c.area||"")+" "+(c.desc||"")+" "+(c.developer||"")+" "+(c.bedrooms||"")).toLowerCase();
+      if(!hay.includes(st.q.toLowerCase()))return false;}
+    return true;
+  });
+  const s=st.sort;
+  a.sort((x,y)=>{
+    if(s==="rating")return (y.google_rating||-1)-(x.google_rating||-1)||(y.google_reviews||0)-(x.google_reviews||0)||(y.image_url?1:0)-(x.image_url?1:0);
+    if(s==="year")return (y.year_completed||0)-(x.year_completed||0)||(y.google_rating||0)-(x.google_rating||0);
+    if(s==="priceAsc")return (x.rent_min==null?9e9:x.rent_min)-(y.rent_min==null?9e9:y.rent_min);
+    if(s==="priceDesc")return (y.rent_max||0)-(x.rent_max||0);
+    if(s==="name")return x.name.localeCompare(y.name);
+    if(s==="zone")return ZONE_ORDER.indexOf(x.zone)-ZONE_ORDER.indexOf(y.zone)||(y.google_rating||0)-(x.google_rating||0);
+    return 0;
+  });
+  return a;
+}
+
+/* ---------- MAP ---------- */
+let map,markersLayer;
+function initMap(){
+  map=L.map("map",{scrollWheelZoom:false}).setView([18.796,98.975],13);
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
+    {attribution:'&copy; OpenStreetMap &copy; CARTO',maxZoom:19,subdomains:'abcd'}).addTo(map);
+  markersLayer=L.layerGroup().addTo(map);
+  map.on("click",()=>map.scrollWheelZoom.enable());
+}
+function rateTxt(c){
+  if(c.google_rating==null) return '<span class="pz">Non noté sur Google</span>';
+  const rev=c.google_reviews!=null?' · '+c.google_reviews+' avis':'';
+  return '<span style="color:#d97706;font-weight:700">★ '+c.google_rating.toFixed(1)+'</span><span class="pz">'+rev+'</span>';
+}
+function updateMap(list,fit){
+  if(!map)return;markersLayer.clearLayers();const pts=[];
+  list.forEach(c=>{
+    if(c.lat==null||c.lng==null)return;pts.push([c.lat,c.lng]);
+    const m=L.circleMarker([c.lat,c.lng],{radius:7,color:"#fff",weight:1.5,fillColor:ZCOL[c.zone]||"#64748b",
+      fillOpacity:c.geo_approx?0.6:0.95,dashArray:c.geo_approx?"2,2":null});
+    m.bindPopup('<div class="pop"><h4>'+c.name+'</h4><div class="pz">'+c.zone+(c.year_completed?' · '+c.year_completed:'')+(c.geo_approx?' · approx.':'')+'</div>'+
+      '<div class="pp">'+priceHtml(c).replace(/<small>|<\/small>/g,'')+'</div><div>'+rateTxt(c)+'</div>'+
+      '<a href="'+mapsUrl(c)+'" target="_blank" rel="noopener">Google Maps '+icon("ext")+'</a></div>');
+    markersLayer.addLayer(m);
+  });
+  document.getElementById("mapsub").textContent=pts.length+" épinglés";
+  if(fit&&pts.length){try{map.fitBounds(pts,{padding:[40,40],maxZoom:15});}catch(e){}}
+}
+
+/* ---------- CARDS ---------- */
+function rateBadge(c){
+  if(c.google_rating==null) return '<div class="rate none">'+icon("star")+'—</div>';
+  const few=c.google_reviews!=null&&c.google_reviews<10;
+  const rev=c.google_reviews!=null?'<span class="rev">· '+c.google_reviews+'</span>':'';
+  const t=few?'Seulement '+c.google_reviews+' avis Google':(c.google_reviews||'')+' avis Google';
+  return '<div class="rate '+(few?'few':'')+'" title="'+t+'">'+icon("star")+c.google_rating.toFixed(1)+rev+'</div>';
+}
+function photo(c){
+  const col=ZCOL[c.zone]||"#64748b";
+  const grad='linear-gradient(145deg,'+col+'22,'+col+'55)';
+  const fb=disp=>'<div class="fallback" style="'+disp+'background:'+grad+'">'+icon("building")+'<span class="fbtxt">Photo à venir</span></div>';
+  if(c.image_url) return '<img src="'+c.image_url+'" loading="lazy" alt="'+c.name+'" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\';">'+fb('display:none;');
+  return fb('');
+}
+function render(fit){
+  const a=filtered();
+  const nc=a.filter(c=>(c.type||"condo")==="condo").length, nh=a.filter(c=>c.type==="house").length;
+  const nn=a.filter(isNew).length;
+  document.getElementById("metaLine").innerHTML=
+    '<b>'+a.length+'</b> biens affichés <span class="sep">·</span> '+
+    '<b>'+nc+'</b> condos <span class="sep">·</span> '+
+    '<b>'+nh+'</b> maisons <span class="sep">·</span> '+
+    (nn?'<b style="color:var(--acc-d)">'+nn+'</b> nouveauté'+(nn>1?'s':'')+' <span class="sep">·</span> ':'')+
+    '<b>'+a.filter(c=>c.image_url).length+'</b> avec photo <span class="sep">·</span> '+
+    'MàJ '+(meta.lastUpdated||"—");
+  updateMap(a,fit);
+  const g=document.getElementById("grid");
+  if(!a.length){g.innerHTML='<div class="empty">Aucun bien ne correspond à ces filtres.</div>';return;}
+  g.innerHTML=a.map(c=>{
+    const metaBits=[];
+    metaBits.push('<span>'+((c.type||"condo")==="house"?"🏠 Maison":"🏢 Condo")+'</span>');
+    metaBits.push('<span>'+icon("pin")+(c.area||c.zone)+'</span>');
+    if(c.year_completed) metaBits.push('<span>'+icon("cal")+c.year_completed+'</span>');
+    const nw=isNew(c);
+    return '<div class="card'+(nw?' isnew':'')+'" data-id="'+c.id+'">'+
+      '<div class="ph">'+photo(c)+
+        '<div class="ztag"><i style="background:'+ZCOL[c.zone]+'"></i>'+c.zone+'</div>'+rateBadge(c)+
+        (nw?'<div class="newbadge">Nouveauté</div>':'')+'</div>'+
+      '<div class="body">'+
+        '<h3>'+c.name+'</h3>'+
+        '<div class="meta">'+metaBits.join("")+(c.developer?'<span>'+c.developer+'</span>':'')+'</div>'+
+        '<div class="price">'+priceHtml(c)+'</div>'+
+        '<div class="desc">'+(c.desc||"")+'</div>'+
+        '<div class="foot"><span class="beds">'+icon("bed")+(c.bedrooms||"n.c.")+'</span>'+
+          '<a class="mapbtn" href="'+mapsUrl(c)+'" target="_blank" rel="noopener">'+icon("map")+'Maps</a></div>'+
+      '</div></div>';
+  }).join("");
+}
+
+/* wiring */
+document.getElementById("q").oninput=e=>{st.q=e.target.value;render(false);};
+document.getElementById("ptype").onchange=e=>{st.ptype=e.target.value;st.zones.clear();renderZones();render(true);};
+/* clic sur une carte "nouveauté" -> on retire le badge et on mémorise (persistant) */
+document.getElementById("grid").addEventListener("click",e=>{
+  const card=e.target.closest(".card"); if(!card)return;
+  const c=data[+card.dataset.id]; if(!c)return;
+  if(acknowledge(c)){
+    // retrait immédiat du badge sur la carte cliquée (feedback instantané)
+    const b=card.querySelector(".newbadge"); if(b)b.remove();
+    card.classList.remove("isnew");
+    // maj différée du compteur (n'interfère pas avec l'ouverture éventuelle de Maps)
+    setTimeout(()=>render(false),0);
+  }
+});
+document.getElementById("bmin").oninput=e=>{st.bmin=+e.target.value||0;render(false);};
+document.getElementById("bmax").oninput=e=>{st.bmax=+e.target.value||9e9;render(false);};
+document.getElementById("sort").onchange=e=>{st.sort=e.target.value;render(false);};
+document.getElementById("onlyPhoto").onchange=e=>{st.onlyPhoto=e.target.checked;render(false);};
+document.getElementById("onlyRating").onchange=e=>{st.onlyRating=e.target.checked;render(false);};
+document.getElementById("onlyRecent").onchange=e=>{st.onlyRecent=e.target.checked;render(true);};
+document.getElementById("mapFit").onclick=()=>render(true);
+document.getElementById("mapToggle").onclick=e=>{
+  const mp=document.getElementById("map"),lg=document.getElementById("legend");
+  const hidden=mp.style.display==="none";
+  mp.style.display=hidden?"block":"none";lg.style.display=hidden?"flex":"none";
+  e.target.textContent=hidden?"Masquer":"Afficher";
+  if(hidden&&map){setTimeout(()=>{map.invalidateSize();render(true);},50);}
+};
+const tt=document.getElementById("toTop");
+window.onscroll=()=>{tt.style.display=window.scrollY>600?"grid":"none";};
+tt.onclick=()=>window.scrollTo({top:0,behavior:"smooth"});
+
+initMap();renderZones();render(true);
+</script>
+</body>
+</html>
