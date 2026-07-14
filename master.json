@@ -385,7 +385,7 @@
   "nomad_score": 5,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzL2I0M2ZkYjQ0LWFiNTUtNDI1Yy1iZDc3LTE4OTc3N2NiODM2ZS82MzAwMTZjYS1hNzNkLTQ5ZDctYWE0MS1iODhlYjRlYWNiMGEuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/4-bedroom-house-for-sale-or-rent-in-huai-sai-chiang-mai_9506661",
   "type": "house"
  },
@@ -415,7 +415,7 @@
   "nomad_score": 5,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIzMS05MDc3LTdkMzMtYmE5Zi1lYTE5MTZkMDIyODYvMjJiMDQ3MzY3ZDlkNTU1OWNkYTg5NjhmNGQyODU5NTk1NjczOGU2MTlkM2YyNGQzMzhmYTEwNWU4Y2NiZWZhYi53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-house-for-rent-in-summit-green-valley-mae-sa-chiang-mai_31779c3808fb-a0fe-66c2-2290-86e5d089",
   "type": "house"
  },
@@ -825,6 +825,21 @@
   "type": "condo"
  },
  {
+  "name": "S Condominium Nimman",
+  "zone": "Nimman",
+  "area": "près Suan Dok / Nimman",
+  "rent_min": 10000,
+  "rent_max": 18000,
+  "bedrooms": "1BR (58-60m²), 2BR (64-66m²)",
+  "desc": "Condo boutique 7 étages primé (48 unités, 1,25 rai), piscine eau salée, fitness, sécurité 24h. À quelques minutes de Nimman.",
+  "nomad_score": 4,
+  "google_rating": null,
+  "google_reviews": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2019/02/Banner-S-Condo-Post.jpg",
+  "source": "https://perfecthomes.co.th/s-condominium-chiangmai/",
+  "type": "condo"
+ },
+ {
   "name": "Sky Breeze Condo",
   "zone": "Nimman",
   "area": "Huay Kaew Soi 3",
@@ -1120,7 +1135,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-SUT108-6.jpg.jpg",
   "source": "https://perfecthomes.co.th/property/4-bed-family-home-within-established-development-at-suthep/",
   "type": "house"
  },
@@ -1257,6 +1272,21 @@
   "google_reviews": null,
   "image_url": "https://perfecthomes.co.th/wp-content/uploads/2020/09/Punna-Residence-4-5-Banner-website-Header_11zon.jpg",
   "source": "https://www.fazwaz.com/projects/thailand/chiang-mai/mueang-chiang-mai/suthep/punna-residence-5",
+  "type": "condo"
+ },
+ {
+  "name": "The Cosy Huay Kaew",
+  "zone": "Huay Kaew",
+  "area": "Huay Kaew Rd (10 min à pied de Maya/Nimman)",
+  "rent_min": 14000,
+  "rent_max": 15000,
+  "bedrooms": "Studio 35m²",
+  "desc": "Résidence appart-services/coliving : mobilier intégré, kitchenette, piscine, gym, ménage hebdo, wifi rapide, CCTV, vues montagne. À 10 min à pied de Maya/Nimman.",
+  "nomad_score": 4,
+  "google_rating": null,
+  "google_reviews": null,
+  "image_url": "https://cdn.prod.website-files.com/6545e77ad6654ce29d2389cc/654c9d97544659a9c870becc_the-cosy-huay-kaew-3.jpg",
+  "source": "https://www.monthlychiangmai.com/property/the-cosy-huay-kaew",
   "type": "condo"
  },
  {
@@ -1690,7 +1720,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://bcdn.renthub.in.th/listing_picture/202107/20210731/nvwqTZAmvqEvS8PFHhyE.jpg",
   "source": "https://www.renthub.in.th/en/house-for-rent-chiang-mai-peaceful-area-baannoi-nornmuan",
   "type": "house"
  },
@@ -1750,7 +1780,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWRlN2ZhLTdiNDctNzU4YS1hZTc3LTRlZDNmNDczYjc2OC8wMTlkZTdmYi1kY2ViLTczODQtYTdhNy1iODNiNTgzMGQ1N2IuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-sale-or-rent-in-chang-khlan-chiang-mai_132e625a6cb5-22bf-f142-25e2-fa2bc089",
   "type": "house"
  },
@@ -2290,7 +2320,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIwN2U3ZDlmNy01ZDZiLTRiMDEtYjAxYi04ZmNmNWZjODYxMTMvMDdlN2Q5ZjctNWQ2Yi00YjAxLWIwMWItOGZjZjVmYzg2MTEzXzRkOTNkMWZhLTJlZjUtNGUyZS04ZTQxLTYyNDEyMjJhOGE5OS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
   "source": "https://www.thailand-property.com/houses-for-rent/chiang-mai/mae-rim",
   "type": "house"
  },
@@ -2320,7 +2350,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIwN2U3ZDlmNy01ZDZiLTRiMDEtYjAxYi04ZmNmNWZjODYxMTMvMDdlN2Q5ZjctNWQ2Yi00YjAxLWIwMWItOGZjZjVmYzg2MTEzXzRkOTNkMWZhLTJlZjUtNGUyZS04ZTQxLTYyNDEyMjJhOGE5OS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
   "source": "https://www.thailand-property.com/houses-for-rent/chiang-mai/mae-rim",
   "type": "house"
  },
@@ -2350,7 +2380,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTlmMjhhYy04MGY3LTcxYzgtOWI0ZS05Y2ZhNDI5MDMzMzEvODgwOGU4ZGUzMjRlOGNlNzhjYjU1NzQ0MGYyMzM5M2RkNmE4YTc5ZGQyZGRiNWM2NTQzOGU2ZTFlMjRmOTU4OS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-house-for-rent-in-mae-sa-chiang-mai_86669075fad0-b5e0-1d82-2a91-df17a089",
   "type": "house"
  },
@@ -2365,7 +2395,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyZS01YzVmLTc3ZDYtYjljMC0xM2M4ZmYxMmE4NjYvYzUwMmM0NzA0ODViODk5MGFlODQ0MjhhMTVhZGJkMTU2ZDk2MzE1ZjBhZjQ2NWY2NmRlMTFhMzJhNDJhOTE1OC53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-house-for-rent-in-the-maerim-river-huai-sai-chiang-mai_331f78aa1d68-9d0e-3c22-a4d4-b7e5d089",
   "type": "house"
  },
@@ -2815,7 +2845,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWY1MDU5LWIzMDAtNzIxYi04ODAxLTQ0ZTVhMjc2YmNjZC8wMTlmNTA2ZC04N2NhLTczODQtYWQ1YS1kNmMwMTU5ODkzNzEuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-house-for-sale-or-rent-in-chae-chang-chiang-mai_cdde327f4b55-8911-e872-996e-0494a089",
   "type": "house"
  },
@@ -2830,7 +2860,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGI0NC0yMGRhLTc4MGQtYmRkZi1hNWRhYzQ5MjljMmQvODhlNDkyMGM2OTVhNTZlYWI1MjgwY2JlNzVmZWU2MGIyOTA0M2Y4MzJhZTA5MWRhYTEzYmJhNGViNmE4YjgyNS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-house-for-sale-or-rent-in-san-klang-chiang-mai_c7d0705dfc4f-acce-c912-fc97-55e5d089",
   "type": "house"
  },
@@ -2875,7 +2905,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2OC1jZmE4LTc2MmQtOTMwYi03OGEwNDlkMTdiNDcvMjIwZGI3YjYyYTQ2MTc3Njg0ZTI5ZWU5YjUxZWQzY2UxYTBmZDY0OWZjZDAxOTE4ZTY4Mzk5YWExNjk4NzlmZC5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/3-bedroom-house-for-rent-in-san-pu-loei-chiang-mai_25e28c059f12-e960-c732-1fad-136ab089",
   "type": "house"
  },
@@ -2935,7 +2965,7 @@
   "nomad_score": 4,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2YS04M2QxLTdjNWMtYWNmMS0xODliODE2MWMxZjgvYjlkNWU4MTk2NjdhOTM0ZWQ2ZTVkMzJlOTM3NGVjMjM0ZjdiMGRiODFiMzdiMzRlMDMyODI1YTY2NjgwMGU1Ni5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/3-bedroom-house-for-rent-in-san-pu-loei-chiang-mai_1a8d8381e018-8adf-d4d2-8c61-f36ab089",
   "type": "house"
  },
@@ -3190,7 +3220,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img2.propertyscout.co.th/OgBL0K4T54EJ71lXgxu_70QWDEnwHLdNyT4z7lUqi_E/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC8xMjQ3OS9iNjU2ZGI1NDEzZTc5ODRiZjc3MTBlZmYxMzRmOTA1OS53ZWJw.webp",
   "source": "https://www.fazwaz.com/projects/thailand/chiang-mai/mueang-chiang-mai/suthep/the-nimman-by-palm-spring",
   "type": "condo"
  },
@@ -3844,7 +3874,7 @@
   "zone": "Chang Phueak",
   "area": "Chang Phueak",
   "rent_min": 60000,
-  "rent_max": 68000,
+  "rent_max": 60000,
   "bedrooms": "",
   "desc": "Condominium · livré 2025",
   "nomad_score": 3,
@@ -4495,7 +4525,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://bcdn.propertyhub.in.th/pictures/202108/20210827/tWSKX7qbHQAtFCEVbqYz.jpg?width=2080&height=800",
   "source": "https://www.fazwaz.com/projects/thailand/chiang-mai/mueang-chiang-mai/nong-pa-khrang/hillside-payap-condominium-9",
   "type": "condo"
  },
@@ -4945,7 +4975,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllODc5YS01MjIyLTcwZDctOTJiNy1jZTE1MTcyZjdkYjEvOTg0Mjk0ZmRlYjI5NDk0MTExOWZkNjI2MWU4OGNkYTE1OWY1YzQyMTZmNjY3YjRkN2ZhN2IxMjcwY2I2N2U4Ni5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-sale-or-rent-in-nong-hoi-chiang-mai_8ec2a72848bd-2e70-2c92-7774-f021b089",
   "type": "house"
  },
@@ -5020,7 +5050,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyYy1hNDRiLTdiMjEtODMxYy1hODI1MGM5ODhkZmQvYWE2OTMwNzQxYWE0ZGFkYjc0ZGQ3NDM3MTA2MGVhZTIxOWMzZDBiNTljOTlkYmMyZGRiM2FhNmY4ZGJlZWUwNi53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-villa-for-sale-or-rent-in-ban-waen-chiang-mai_cac110d9471f-d861-87e2-e55f-d7e5d089",
   "type": "house"
  },
@@ -5035,7 +5065,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/04/Properties-in-Chiangmai-KP9030-1.jpg.jpg",
   "source": "https://perfecthomes.co.th/property/3-bedroom-bungalow-to-rent-at-koolpunt-ville-9/",
   "type": "house"
  },
@@ -5065,7 +5095,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWY1NTkyLWQxYzItNzI2Yi04MWUzLTQwNWNiNGU3NGNmZC8wMTlmNTU5My1hMjRjLTcxOTAtODc1Mi1mNDlhYTUyNzAxMmIuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-san-phak-wan-chiang-mai_cad52b5ed495-6b81-e372-7d8c-7044a089",
   "type": "house"
  },
@@ -5080,7 +5110,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGI0MC04MzI4LTdmMjgtOTdjNS03YjcwZTc1ZjcxOTYvY2ZmZTRlNTI1MjJlMTBjYjI0MzUwYzk1N2YzZWU0Y2U5YmE0OWY4MTRlYzExNTA1OTc5ODQxMmE2Y2Y0OWY3MS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-lanna-thara-village-hang-dong-chiang-mai_3082a42b92e2-4d20-17a2-1761-95e5d089",
   "type": "house"
  },
@@ -5140,7 +5170,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2023/04/Properties-in-Chiangmai-LNT041-1.jpg.jpg",
   "source": "https://perfecthomes.co.th/property/house-to-rent-lanna-thara-chiang-mai/",
   "type": "house"
  },
@@ -5170,7 +5200,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/06/Townhouse-to-rent-at-Nong-Khwai-1.jpg",
   "source": "https://perfecthomes.co.th/property/3-bedroom-house-rent-off-ratchapruek-road/",
   "type": "house"
  },
@@ -5185,7 +5215,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2024/03/House-for-rent-hang-dong-14.jpg",
   "source": "https://perfecthomes.co.th/property/4-bedroom-house-to-rent-near-lanna-international/",
   "type": "house"
  },
@@ -5200,7 +5230,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2023/01/House-to-rent-at-Mae-Jo-San-Sai-11-780x600.jpg",
   "source": "https://perfecthomes.co.th/property/4-bedroom-family-home-at-supalai-bella/",
   "type": "house"
  },
@@ -5215,7 +5245,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2025/08/House-Rentals-Chiang-Mai-18-7.jpg",
   "source": "https://perfecthomes.co.th/property/family-style-4-bedroom-house-rent-emperor/",
   "type": "house"
  },
@@ -5230,7 +5260,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOTc2MjQ2LWQ2MDItNzA5NS1hYjQ4LTUzNjM3YmM4NTNjMS8wMTk3NjI0Yy00NzlhLTczMDMtODM0Ni1kMjU3N2UwYTVjZGEuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-villa-for-sale-or-rent-in-ban-waen-chiang-mai_8d641de26364-15ef-4092-793c-35732089",
   "type": "house"
  },
@@ -5260,7 +5290,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIzMS1kMGY0LTc0ZTUtYTk3Yi01N2RjYzliZmU4NWMvMzBkNjM3NGM4OGE1ZWFlMzkzZDJmOTA5MGYwZTQ4OGVmNTgwOGNhY2Q4N2JiYWE0NDI4MjY4ZmVjNzZmMWRiNC53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-san-phak-wan-chiang-mai_d41bae0ddc24-e20f-4b52-5a9c-86e5d089",
   "type": "house"
  },
@@ -5275,7 +5305,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWNkMGU1LWI4NjMtNzQ3MS05YWY1LTRlMmMwODI1ZmE5YS8wMTlkNzA4MC0wNDljLTcyODgtYTMzOS04ZDE0NDczNTg5MjEuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-sale-or-rent-in-nong-khwai-chiang-mai_f0fa4719d7b5-4af0-8252-631e-4b9cd089",
   "type": "house"
  },
@@ -5305,7 +5335,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyMi04YmQ2LTc1ZDktYTYzNS0zODA5YTViYTMwNmMvMzgwZmUyNmE3MGY3YzE1MWUwNjc4ZmYzMWMwY2VhYzM1OWY5MTMyYTRlYjJlMGRkNmNjOTA2NDM4MTdhZTVlZS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-world-club-land-nong-khwai-chiang-mai_d396fe4f0916-463f-0c42-3ce1-77e5d089",
   "type": "house"
  },
@@ -5530,7 +5560,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-11-1.jpg",
   "source": "https://perfecthomes.co.th/property/modernised-2-bed-townhouse-mae-rim/",
   "type": "house"
  },
@@ -5605,7 +5635,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-21.jpg",
   "source": "https://perfecthomes.co.th/property/siriporn-2-nong-chom-4-bed-house-rent/",
   "type": "house"
  },
@@ -5620,7 +5650,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/06/Perfect-Homes-Tanaporn-Lake-Homes-86.jpg",
   "source": "https://perfecthomes.co.th/property/4-bedroom-house-thanaporn-park-home-5/",
   "type": "house"
  },
@@ -5635,7 +5665,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2024/10/San-Sai-Houses-to-Rent-09-780x780.jpg",
   "source": "https://perfecthomes.co.th/property/4-bedroom-house-to-rent-the-greenery-central/",
   "type": "house"
  },
@@ -5650,7 +5680,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2023/12/Ban-Pimuk-San-Sai-4.jpg",
   "source": "https://perfecthomes.co.th/property/superb-luxury-house-to-rent-at-nong-chom-san-san/",
   "type": "house"
  },
@@ -5695,7 +5725,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIzMC05MDkzLTc1M2QtOWQ0Ni1lOTUzNjYzNDI2MTAvNWFiMzJhMDVjZjNhN2ExMTM2YjkwZWJlMGM2MjA2MjM4YzQyNzE2ZjM2MmM4MTIyYzA4YjEyN2I1MmY4Yjc4NC53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-villa-for-sale-or-rent-in-baan-fah-luang-san-klang-chiang-mai_98375633640b-35c0-c642-6090-96e5d089",
   "type": "house"
  },
@@ -5725,7 +5755,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyYy02NGQzLTcwNGYtOTJjYS02MWIwYzZmN2M3YzMvYmZlMmFlNjQ1MDJkZTA5NDkwMDdkMmFlYTA2YWUzOWYyMGMxZGU1ZWNkZTk2Y2RlOTBiYmI2ZTA3MDgxZmJjNS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-house-for-sale-or-rent-in-baan-thanakrit-san-pu-loei-chiang-mai_6d2d2a3d9e83-fd70-a592-6c53-d7e5d089",
   "type": "house"
  },
@@ -5785,7 +5815,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2Zi05NDBkLTc5NjctYWRjNS01NjgyMDg1YjBjNjEvZTUzMDNjOTgxZWEyNjY4ZGNlNzYzYmRjNGQ4Yzk1YjdjMzJmYTcxY2M0ZGU0NGJmYmMzODgxNzhiNDFlNWVmMC5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-house-for-rent-in-san-klang-chiang-mai_83d9e4197134-4dcf-2302-c950-a36ab089",
   "type": "house"
  },
@@ -5830,7 +5860,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIxYi05MGExLTcxMDktOTI2Zi02NjljZjEwOTg4NTgvMzQzZDRhZDk1ZTZjMzQ2ZDA5NGQ4MzhlNmNmZDE0OTUxNzQ1YjIxNTFjZjBhNTVmZWIzODRjNDJlNzk3YTRjNy5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-house-for-sale-or-rent-in-the-bliss-koolpunt-ville-16-san-kamphaeng-chiang-mai_1411098ad033-a370-0982-8f90-e8e5d089",
   "type": "house"
  },
@@ -5905,7 +5935,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2Ny1iNjYwLTdkOWItODU3Mi0yZjVmYjJmNWIzMjYvZTgxMTlmOGMyNDc3N2ZiMzA5NmViZWYyZmY3MGIyMTNkNjdlMWM2NDFiMGI5ZDhkM2U4YjRiZWFlZjBmYTZkMi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/3-bedroom-house-for-rent-in-san-pu-loei-chiang-mai_376e4a7ea4a7-7241-e0c2-933e-236ab089",
   "type": "house"
  },
@@ -5965,7 +5995,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2019/09/Ping-Doi-Village-Pa-Daet-Chiang-Mai-1.jpg",
   "source": "https://perfecthomes.co.th/property/beautiful-4-bedroom-house-to-rent/",
   "type": "house"
  },
@@ -6070,7 +6100,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWY0ZjYyLWU4MjUtNzBkNi1hOWE5LTFmNWUxZmI1Y2NhMC8wMTlmNGY3My0xNjIzLTcwM2ItYTE1OS0wMGNiZTAyMTA1N2YuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-mae-hia-chiang-mai_9fdd4ea8b4a8-0f0f-3c92-471b-73a5a089",
   "type": "house"
  },
@@ -6115,7 +6145,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/06/House-to-rent-at-Pa-Daet-4-780x780.jpg",
   "source": "https://perfecthomes.co.th/property/partly-furnished-3-bedroom-house-near-hang-dong-road/",
   "type": "house"
  },
@@ -6130,7 +6160,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/06/House-to-rent-at-Pa-Daet-Chiang-Mai-15.jpg",
   "source": "https://perfecthomes.co.th/property/partly-furnished-3-bedroom-house-near-mahidol-road/",
   "type": "house"
  },
@@ -6145,7 +6175,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2026/04/Chiang-Mai-houses-to-rent-15.jpg",
   "source": "https://perfecthomes.co.th/property/wararom-kaewnawarat-3-bed-house-rent/",
   "type": "house"
  },
@@ -6160,7 +6190,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2022/06/House-for-rent-in-Chiang-Mai-1.jpg",
   "source": "https://perfecthomes.co.th/property/unfurnished-4-bedroom-house-for-rent-non-estate/",
   "type": "house"
  },
@@ -6175,7 +6205,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllODc5YS01MjIyLTcwZDctOTJiNy1jZTE1MTcyZjdkYjEvOTg0Mjk0ZmRlYjI5NDk0MTExOWZkNjI2MWU4OGNkYTE1OWY1YzQyMTZmNjY3YjRkN2ZhN2IxMjcwY2I2N2U4Ni5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-sale-or-rent-in-nong-hoi-chiang-mai_8ec2a72848bd-2e70-2c92-7774-f021b089",
   "type": "house"
  },
@@ -6265,7 +6295,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-1.jpg",
   "source": "https://perfecthomes.co.th/property/two-bedroom-town-house-lanna-view-san-phi-suea/",
   "type": "house"
  },
@@ -6280,7 +6310,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2025/03/Properties-in-Chiangmai-SARA039-1.jpg.jpg",
   "source": "https://perfecthomes.co.th/property/2-bedroom-townhouse-to-rent-at-tha-sala/",
   "type": "house"
  },
@@ -6295,7 +6325,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2025/09/Chiang-Mai-Houses-to-Rent-07-780x675.jpg",
   "source": "https://perfecthomes.co.th/property/3-bedroom-townhouse-at-ban-pruska-ville-big-c-don-chan/",
   "type": "house"
  },
@@ -6310,7 +6340,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2025/05/Rent-at-Supalai-Primo-Chiang-Mai-1.jpg",
   "source": "https://perfecthomes.co.th/property/4-bedroom-townhouse-supalai-primo-mahidol/",
   "type": "house"
  },
@@ -6325,7 +6355,7 @@
   "nomad_score": 3,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWY0ZjYyLWU4MjUtNzBkNi1hOWE5LTFmNWUxZmI1Y2NhMC8wMTlmNGY3My0xNjIzLTcwM2ItYTE1OS0wMGNiZTAyMTA1N2YuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-mae-hia-chiang-mai_9fdd4ea8b4a8-0f0f-3c92-471b-73a5a089",
   "type": "house"
  },
@@ -6445,7 +6475,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2025/12/Properties-in-Chiangmai-MR149-4.jpg.jpg",
   "source": "https://perfecthomes.co.th/property/five-star-5-bedroom-house-to-rent-near-prem-international-school/",
   "type": "house"
  },
@@ -6595,7 +6625,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2025/03/Houses-to-rent-in-Chiang-Mai-17.jpg",
   "source": "https://perfecthomes.co.th/property/3-bed-house-to-rent-wararom-charoenmuang/",
   "type": "house"
  },
@@ -6625,7 +6655,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2023/12/House-Rentals-Chiang-Mai-19.jpg",
   "source": "https://perfecthomes.co.th/property/unfurnished-house-to-rent-on-1-rai-plot/",
   "type": "house"
  },
@@ -6655,7 +6685,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllNDhmMC1lNmQzLTdjZDItYTliMy02Y2U5ODIyMDE3MzAvY2ZkODEyMDUyMDZiMWEyNGI1OTQ5NTMzZDdhZTgwZjYwZWQxY2IyNWIxMmVjMTkzN2E0ZjcwMjIxY2EzY2NhZi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-rent-in-karnkanok-ville-4-san-kamphaeng-chiang-mai_962897710bd3-6e0f-7cd2-6c3b-9a15b089",
   "type": "house"
  },
@@ -6670,7 +6700,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIzMC05MDkzLTc1M2QtOWQ0Ni1lOTUzNjYzNDI2MTAvNWFiMzJhMDVjZjNhN2ExMTM2YjkwZWJlMGM2MjA2MjM4YzQyNzE2ZjM2MmM4MTIyYzA4YjEyN2I1MmY4Yjc4NC53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-villa-for-sale-or-rent-in-baan-fah-luang-san-klang-chiang-mai_98375633640b-35c0-c642-6090-96e5d089",
   "type": "house"
  },
@@ -6715,7 +6745,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2024/08/Houses-to-Rent-Chiang-Mai-1.jpg",
   "source": "https://perfecthomes.co.th/property/near-89-plaza-two-bedroom-bungalow-rent/",
   "type": "house"
  },
@@ -6730,7 +6760,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2019/03/House-to-rent-with-Rice-Barn-Chiang-Mai-1-780x533.jpg",
   "source": "https://perfecthomes.co.th/property/3-bedroom-bungalow-with-1-bedroom-rice-barn/",
   "type": "house"
  },
@@ -6745,7 +6775,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOWJjNzMzLWMzNTMtNzY2ZC04NmM0LTM1NjAyOTdhNmZkOS8wMTliYzczNi0zNmJlLTcyYjMtOWEzYy02NzQyNzc3ZTI0MTMuanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-sale-or-rent-in-san-pu-loei-chiang-mai_0ca3f2079346-5d31-c332-646d-662de089",
   "type": "house"
  },
@@ -6760,7 +6790,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIxZC0wZmY2LTdhNTgtYjE1NC1kZDJjMDhmZDZhMTgvYjY0NDc1ZDUzYzMyZGY1ZjlkM2RmNzlkNDE5M2M5ZmM0ODcwZWRhZWE3YmM5MmJkZTQxMjAzNGI3ZGM0MjE1Ny5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/5-bedroom-villa-for-sale-or-rent-in-don-kaeo-chiang-mai_18f3ca19d7cc-548e-14f2-3aa9-c8e5d089",
   "type": "house"
  },
@@ -6775,7 +6805,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2024/05/Properties-in-Chiangmai-SANK124-12.jpg.jpg",
   "source": "https://perfecthomes.co.th/property/spacious-3-bed-house-at-ploenchit-collina/",
   "type": "house"
  },
@@ -6850,7 +6880,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOTNjM2QzLTc1MGMtNzExZS04N2JiLWVhMGQxOTAxMDFhYy8wMTkzYzQwYi03MTlmLTcxYTEtYjlmNy1lZTkyZGFhOTI5ZjguanBnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
   "source": "https://www.thailand-property.com/ads/4-bedroom-villa-for-sale-or-rent-in-talat-khwan-chiang-mai_df898908c9fb-ee21-b882-d942-6c6d6089",
   "type": "house"
  },
@@ -6865,7 +6895,7 @@
   "nomad_score": 2,
   "google_rating": null,
   "google_reviews": null,
-  "image_url": null,
+  "image_url": "https://perfecthomes.co.th/wp-content/uploads/2026/04/House-for-rent-Chiang-mai-5-1.jpg",
   "source": "https://perfecthomes.co.th/property/brand-new-3-bedroom-townhouse-at-nong-phueng/",
   "type": "house"
  },

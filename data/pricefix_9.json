@@ -1,0 +1,20 @@
+[
+{"name":"The Nimman By Palm Springs","rent_min":13500,"rent_max":16000,"price_note":"Studio/1BR ~13,5-16k฿/mois (LiveinCM 16k, Thailand-Property 13,5-15k, Perfect Homes 15k)"},
+{"name":"Punna Residence 1 @Nimman","rent_min":9000,"rent_max":45000,"price_note":"Studio ~8-14k, 2BR jusqu'à ~45k฿/mois (Superagent, Perfect Homes/Hipflat USD418-1645)"},
+{"name":"Punna Residence @ Nimman","rent_min":14000,"rent_max":45000,"price_note":"1BR ~14-21k, 2BR ~45k฿/mois (Hipflat USD418-1645, Perfect Homes)"},
+{"name":"Dcondo Rin","rent_min":9500,"rent_max":25000,"price_note":"Studio 9,5-12k, 2BR 24-25k฿/mois (Hipflat, Thailand-Property)"},
+{"name":"One Plus Klong Chon (Nimman)","rent_min":10000,"rent_max":13000,"price_note":"1BR ~10-13k฿/mois (Hipflat 12-13k, LiveinCM/s2chiangmai 10-11k)"},
+{"name":"Rawee Waree Residence","rent_min":15000,"rent_max":26000,"price_note":"1BR 15-16k, jusqu'à ~26k฿/mois (Hipflat USD462-770, PropertyHub/Thailand-Property)"},
+{"name":"The Wing Place Condo","rent_min":11000,"rent_max":15000,"price_note":"1BR ~11-15k฿/mois (Perfect Homes 15k, Thailand-Property/ddproperty 11-12k)"},
+{"name":"Bright Hill Condo Chiang Mai","rent_min":25000,"rent_max":27000,"price_note":"1BR ~25-27k฿/mois (Thailand-Property 25k, Hipflat 27k)"},
+{"name":"Doi Ping Mansion","rent_min":12000,"rent_max":24000,"price_note":"1BR 12-16k (rénové), grandes unités jusqu'à ~24k฿/mois (Perfect Homes, Thailand-Property)"},
+{"name":"Impress Town Condominium","rent_min":7000,"rent_max":9000,"price_note":"Studio ~7-9k฿/mois (FazWaz USD245≈8k, Perfect Homes 7-9k)"},
+{"name":"Mekin Haus","rent_min":22000,"rent_max":40000,"price_note":"1BR 22-28k, 2BR ~40k฿/mois (Hipflat, ddproperty/asia.villas USD841)"},
+{"name":"North 5 Condo","rent_min":null,"rent_max":null,"price_note":"non vérifié (aucun loyer publié, fetch FazWaz 403)"},
+{"name":"One Plus Nineteen 3","rent_min":null,"rent_max":null,"price_note":"non vérifié (pas de prix distinct du projet ; sibling One Plus 19 ~9-15k)"},
+{"name":"Punna Residence 3","rent_min":10000,"rent_max":20000,"price_note":"Studio/1BR dès 10k (RentHub), jusqu'à ~20k฿/mois (Thailand-Property/Hipflat USD608)"},
+{"name":"SR Complex (SR Condominium)","rent_min":9000,"rent_max":16000,"price_note":"Studio/1BR dès 9k, 2BR ~16k฿/mois (Thailand-Property, FazWaz USD471)"},
+{"name":"The Issara Chiang Mai","rent_min":10000,"rent_max":24000,"price_note":"Studio 10-14k, jusqu'à 24k฿/mois (Thailand-Property, Hipflat/FazWaz USD284-749)"},
+{"name":"The Spring Loft","rent_min":13000,"rent_max":37000,"price_note":"1BR dès 13k, 2BR 35-37k฿/mois (Thailand-Property, FazWaz/property-hua-hin USD1100)"},
+{"name":"Green Ville Exclusive Residence","rent_min":null,"rent_max":null,"price_note":"non vérifié (aucun loyer publié pour le projet Chiang Mai)"}
+]

@@ -1,7 +1,26 @@
 #!/usr/bin/env python3
 # Fusionne master.json + enrich_*.json -> data.js (window.CONDOS)
-import json, glob, os, re, unicodedata, datetime
+import json, glob, os, re, unicodedata, datetime, base64
 from collections import Counter
+
+def upscale_photo(u):
+    """thailand-property : monte les vignettes 490px à 780px (taille max servie par le CDN)."""
+    if not isinstance(u,str) or "img.thailand-property.com/" not in u: return u
+    try:
+        b64=u.rsplit("/",1)[1]
+        d=json.loads(base64.b64decode(b64+"="*(-len(b64)%4)))
+        rz=d.get("edits",{}).get("resize",{})
+        w=rz.get("width")
+        if w and w<780:
+            rz["width"]=780; rz["height"]=520; rz["fit"]="cover"  # variante exacte servie par le CDN
+            nb=base64.b64encode(json.dumps(d,separators=(",",":")).encode()).decode().rstrip("=")
+            return "https://img.thailand-property.com/"+nb
+    except Exception: return u
+    return u
+
+def is_ugly(u):
+    """bandeaux d'agence perfecthomes (overlay texte) = moches -> à écarter si mieux dispo."""
+    return isinstance(u,str) and "perfecthomes.co.th" in u and re.search(r"banner", u, re.I) is not None
 
 TODAY = datetime.date.today().isoformat()
 
@@ -22,6 +41,18 @@ master = json.load(open(os.path.join(BASE,"master.json")))
 by_name = {x["name"]: x for x in master}
 by_norm = {norm(x["name"]): x for x in master}
 
+# fallback année/promoteur depuis condos_master.json (lecture seule ; ne touche pas master.json)
+try:
+    cm = json.load(open(os.path.join(BASE,"condos_master.json")))
+    cm_by = {norm(x["name"]): x for x in cm}
+    for x in master:
+        src = cm_by.get(norm(x["name"]))
+        if not src: continue
+        if not x.get("year_completed") and src.get("year_completed"): x["year_completed"]=src["year_completed"]
+        if not x.get("developer") and src.get("developer"): x["developer"]=src["developer"]
+except Exception as e:
+    print("WARN condos_master:", e)
+
 # coordonnées (géocodage)
 geo = {}
 gc = os.path.join(DATA,"geocode_cache.json")
@@ -37,6 +68,7 @@ for x in master:
 
 # applique l'enrichissement (match exact puis normalise)
 for f in sorted(glob.glob(os.path.join(DATA,"enrich_*.json"))):
+    if "hqfix" in os.path.basename(f): continue   # traité séparément (remplacement)
     try: arr = json.load(open(f))
     except Exception as e: print("skip",f,e); continue
     for e in arr:
@@ -50,6 +82,43 @@ for f in sorted(glob.glob(os.path.join(DATA,"enrich_*.json"))):
             except: pass
         if not m.get("image_url") and isinstance(e.get("image_url"),str) and e["image_url"].startswith("http") and not e["image_url"].lower().endswith(".svg"):
             m["image_url"] = e["image_url"]
+        # galerie de photos
+        if isinstance(e.get("photos"),list):
+            good=[u for u in e["photos"] if isinstance(u,str) and u.startswith("http") and not u.lower().endswith(".svg")]
+            if good:
+                m["photos"] = list(dict.fromkeys((m.get("photos") or []) + good))
+        # liens facebook / site officiel
+        if not m.get("facebook") and isinstance(e.get("facebook"),str) and e["facebook"].startswith("http"):
+            m["facebook"] = e["facebook"]
+        if not m.get("website") and isinstance(e.get("website"),str) and e["website"].startswith("http"):
+            m["website"] = e["website"]
+
+# ---- remplacement de photos moches (data/enrich_hqfix_*.json) : remplace la galerie ----
+for f in sorted(glob.glob(os.path.join(DATA,"enrich_hqfix_*.json"))):
+    try: arr = json.load(open(f))
+    except Exception as e: print("skip",f,e); continue
+    for e in arr:
+        m = by_name.get(e.get("name")) or by_norm.get(norm(e.get("name","")))
+        if not m: continue
+        good=[u for u in (e.get("photos") or []) if isinstance(u,str) and u.startswith("http") and not u.lower().endswith(".svg")]
+        if good:
+            m["photos"]=good           # remplace par la galerie propre
+            m["image_url"]=good[0]      # nouvelle vignette
+
+# ---- correction de prix double-source (data/pricefix_*.json) : override rent + note ----
+for f in sorted(glob.glob(os.path.join(DATA,"pricefix_*.json"))):
+    try: arr = json.load(open(f))
+    except Exception as e: print("skip",f,e); continue
+    for e in arr:
+        m = by_name.get(e.get("name")) or by_norm.get(norm(e.get("name","")))
+        if not m: continue
+        applied=False
+        try:
+            if e.get("rent_min") is not None: m["rent_min"]=int(e["rent_min"]); applied=True
+            if e.get("rent_max") is not None: m["rent_max"]=int(e["rent_max"]); applied=True
+        except: pass
+        if e.get("price_note"): m["price_note"]=e["price_note"]
+        if applied: m["price_verified"]=True
 
 # garde-fou : une image réutilisée par trop d'immeubles = générique -> on retire
 imgc = Counter(x["image_url"] for x in master if x.get("image_url"))
@@ -57,6 +126,18 @@ GENERIC = {u for u,c in imgc.items() if c >= 4}
 for x in master:
     if x.get("image_url") in GENERIC:
         x["image_url"] = None
+    # galerie unifiée : image principale en tête, sans génériques, dédupliquée
+    photos = x.get("photos") or []
+    if x.get("image_url") and x["image_url"] not in photos:
+        photos = [x["image_url"]] + photos
+    photos = [upscale_photo(p) for p in dict.fromkeys(photos) if p not in GENERIC]
+    # écarte les bandeaux d'agence si de vraies photos existent à côté
+    clean = [p for p in photos if not is_ugly(p)]
+    photos = clean if clean else photos
+    x["photos"] = photos[:8]
+    x["image_url"] = upscale_photo(x["image_url"]) if x.get("image_url") else (photos[0] if photos else None)
+    if x.get("image_url") and x["image_url"] not in x["photos"] and x["photos"]:
+        x["image_url"] = x["photos"][0]
     # bornes note
     if x.get("google_rating") is not None and not (0 < x["google_rating"] <= 5):
         x["google_rating"]=None; x["google_reviews"]=None
@@ -97,7 +178,7 @@ def keyf(x):
 master.sort(key=keyf)
 
 # écrit data.js
-fields = ["name","zone","area","rent_min","rent_max","bedrooms","desc","nomad_score","google_rating","google_reviews","image_url","source","lat","lng","geo_approx","year_completed","developer","type","first_seen","is_new"]
+fields = ["name","zone","area","rent_min","rent_max","price_note","price_verified","bedrooms","desc","nomad_score","google_rating","google_reviews","image_url","photos","facebook","website","source","lat","lng","geo_approx","year_completed","developer","type","first_seen","is_new"]
 def clean(x):
     d={k:(x.get(k) if x.get(k) not in ("",) else None) for k in fields}
     # loyer 0 = inconnu -> null (sinon filtré comme < budget et affiché « – 0 ฿ »)

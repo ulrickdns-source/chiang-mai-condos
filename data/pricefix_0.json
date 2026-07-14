@@ -1,0 +1,21 @@
+[
+  {"name":"Pansook The Urban Condo","rent_min":10000,"rent_max":16000,"price_note":"10k–16k (Thailand-Property studio/1BR 10k–15k, Hipflat 1BR ~16k)"},
+  {"name":"Sky Breeze Condo","rent_min":15000,"rent_max":75000,"price_note":"15k–75k (Thailand-Property 1BR 15k–penthouse 75k, DotProperty/FazWaz confirm)"},
+  {"name":"Chom Doi Condominium 2","rent_min":16000,"rent_max":50000,"price_note":"16k–50k (Hipflat 16k–50k, DDproperty 1BR 22k / 2BR 45k)"},
+  {"name":"The Empire Nimman","rent_min":null,"rent_max":null,"price_note":"1 source seulement (Hipflat only, serviced apartment)"},
+  {"name":"Galare Thong Tower","rent_min":9800,"rent_max":45000,"price_note":"9.8k–45k (Thailand-Property 9.8k–45k, Hipflat/DotProperty)"},
+  {"name":"Palm Springs Nimman Royal","rent_min":16000,"rent_max":18000,"price_note":"16k–18k 1BR (Thailand-Property 16-18k, PropertyHub 1BR 18k)"},
+  {"name":"The Bliss Hotel & Residence","rent_min":6500,"rent_max":19000,"price_note":"6.5k–19k (RentHub STD 6.5k/2BR 19k, theblisschiangmai STD 6.5k/2BR 19k)"},
+  {"name":"Twin Peaks","rent_min":16000,"rent_max":58000,"price_note":"16k–58k (FazWaz 15,999–57,999, property-hua-hin 1BR ~31k)"},
+  {"name":"Casa Condo Chiangmai","rent_min":6000,"rent_max":8000,"price_note":"6k–8k (PropertyHub 6k, DDproperty 1BR 32sqm 8k)"},
+  {"name":"Glory Condominium Chiang Mai","rent_min":null,"rent_max":null,"price_note":"non vérifié (aucun loyer mensuel, seulement vente ~2.79M฿ et nuitée)"},
+  {"name":"Kasa Verdana","rent_min":30000,"rent_max":110000,"price_note":"30k–110k (Thailand-Property 30k–110k, Hipflat 35k–70k)"},
+  {"name":"Mountain View Condominium","rent_min":13999,"rent_max":21999,"price_note":"14k–22k (Thailand-Property 13,999–21,999, Hipflat 1BR 15k)"},
+  {"name":"One Plus Condo Kamthieng","rent_min":9500,"rent_max":9500,"price_note":"9.5k 1BR (Thailand-Property 9.5k, Propertyhub/FazWaz 9.5k)"},
+  {"name":"Pansook Quality Condo","rent_min":12000,"rent_max":19000,"price_note":"12k–19k (Hipflat 13k–18k, Thailand-Property/KaiBaanThai 12k–19k)"},
+  {"name":"Punna Residence Oasis","rent_min":8500,"rent_max":16000,"price_note":"8.5k–16k (Hipflat 8.5k–13.9k, Thailand-Property 12k–16k)"},
+  {"name":"Supanich Condo","rent_min":10000,"rent_max":30000,"price_note":"10k–30k (Hipflat 10k–22k, Thailand-Property 2BR 74m² 30k, FazWaz 1BR 15k)"},
+  {"name":"The Next 2","rent_min":8000,"rent_max":22000,"price_note":"8k–22k (Thailand-Property ~8.4k–23k, Hipflat 18k–22k)"},
+  {"name":"The Unique at Ruamchok","rent_min":13000,"rent_max":18000,"price_note":"13k–18k (Hipflat 13k, Thailand-Property/FazWaz 15k–18.9k)"},
+  {"name":"One Plus Mahidol","rent_min":10000,"rent_max":11000,"price_note":"~10k (Livinginsider 1BR 10k, Hipflat/FazWaz ~10k–10.6k)"}
+]

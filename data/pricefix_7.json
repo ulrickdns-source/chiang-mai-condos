@@ -1,0 +1,20 @@
+[
+  {"name":"The Siri Condominium","rent_min":18000,"rent_max":25000,"price_note":"FazWaz dès ฿18k; Nomad Rental ~฿25k (1-2BR). Nimman."},
+  {"name":"Hillside 3 Condominium","rent_min":8900,"rent_max":32000,"price_note":"DDproperty ฿9.5k-32k; Hipflat ฿8.9k-32k (studio à 2BR)."},
+  {"name":"Palm Springs Nimman","rent_min":12000,"rent_max":27000,"price_note":"Thailand-Property/Hipflat ฿12k-27k; liveincm 1BR ฿16-18k."},
+  {"name":"D Condo Sign","rent_min":8500,"rent_max":28000,"price_note":"Thailand-Property ฿9k-27k; Hipflat ฿8.5k-28k (studio à 2BR)."},
+  {"name":"One Plus Jed Yod Condo","rent_min":9000,"rent_max":18000,"price_note":"Thailand-Property/KaiBaanThai ฿10-15k; DDproperty 2BR ฿18k; Hipflat ฿9-17k."},
+  {"name":"Punna Residence Oasis 1","rent_min":8500,"rent_max":13900,"price_note":"DDproperty + Thailand-Property + FazWaz ฿8.5k-13.9k (studio à 3BR)."},
+  {"name":"The Unique at Koomuang","rent_min":13500,"rent_max":55000,"price_note":"Thailand-Property + Hipflat ฿13.5k-55k; DDproperty 1BR ฿15-25k. Old City."},
+  {"name":"Baan Eua Arthorn Nong Hoi","rent_min":null,"rent_max":null,"price_note":"1 source (Thailand-Property ~฿8k, logement social NHA), non vérifié."},
+  {"name":"Convention Condominium","rent_min":null,"rent_max":null,"price_note":"Sources divergentes: Thailand-Property ~฿9.5-10k vs FazWaz ฿17-32k. Non vérifié."},
+  {"name":"Hinoki Condominium","rent_min":13000,"rent_max":35000,"price_note":"Thailand-Property dès ฿13k; KaiBaanThai/FazWaz ฿14k-35k."},
+  {"name":"Live @ Nimman","rent_min":20000,"rent_max":26000,"price_note":"Hipflat + Thailand-Property ฿20k-26k; FazWaz 1BR 70m² ~฿25k."},
+  {"name":"NHA Chiang Mai (Nhong Hoi)","rent_min":null,"rent_max":null,"price_note":"Aucun listing prix projet (FazWaz/KaiBaanThai). Non vérifié."},
+  {"name":"One Plus Nineteen","rent_min":9000,"rent_max":15000,"price_note":"Thailand-Property/FazWaz ฿9k-15k; KaiBaanThai idem. Chang Khlan."},
+  {"name":"Punna Oasis 1","rent_min":8500,"rent_max":13900,"price_note":"= Punna Residence Oasis 1. DDproperty + Thailand-Property + FazWaz ฿8.5k-13.9k."},
+  {"name":"Sereno Airport Condo","rent_min":null,"rent_max":null,"price_note":"1 source loyer (perfecthomes studio ~฿9.5k; mention ฿21k non recoupée). Non vérifié."},
+  {"name":"The Hill Park","rent_min":8500,"rent_max":20000,"price_note":"Thailand-Property ฿8.5k-20k; FazWaz/perfecthomes 1BR ฿18k. Chang Phueak."},
+  {"name":"The Rich Condo","rent_min":7000,"rent_max":13000,"price_note":"Hipflat ฿7k-13k; Thailand-Property/FazWaz ฿10k-13k; ennxo/livinginsider ฿7-7.5k."},
+  {"name":"Vina Town Condo","rent_min":8300,"rent_max":9000,"price_note":"FazWaz/Thailand-Property/108siam ฿8.3k-9.3k (surtout 1BR). Pa Daet."}
+]

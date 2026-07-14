@@ -1,0 +1,353 @@
+[
+  {
+    "name": "The Astra",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2022/08/The-Astra-Condo-Banner-website-Header-1.jpg",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiJhYWE1Y2QzZS1hNWEzLTRjZTEtYWVhYy1lZDg1MTgwMDc3MjkvYWFhNWNkM2UtYTVhMy00Y2UxLWFlYWMtZWQ4NTE4MDA3NzI5XzliYTFlZWYxLTUwOTgtNGQ1MC05NDNiLTE2YTc0MTJmMzViMy5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiJhYWE1Y2QzZS1hNWEzLTRjZTEtYWVhYy1lZDg1MTgwMDc3MjkvYWFhNWNkM2UtYTVhMy00Y2UxLWFlYWMtZWQ4NTE4MDA3NzI5XzUxMTg4YTM4LTBiODctNDVkMy04N2ZkLTc3ZTIzNzk4OTU5YS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiJhYWE1Y2QzZS1hNWEzLTRjZTEtYWVhYy1lZDg1MTgwMDc3MjkvYWFhNWNkM2UtYTVhMy00Y2UxLWFlYWMtZWQ4NTE4MDA3NzI5X2NjZDg3Mzg1LWYxYzQtNDRlMi1iY2NjLWI0MjlhN2M5MGJlZC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Punna Residence Nimman / Oasis",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI3MTAxMGE5Mi1kMGU5LTQyNTMtYjFmNS02OWFlYTllZTdkMGMvNzEwMTBhOTItZDBlOS00MjUzLWIxZjUtNjlhZWE5ZWU3ZDBjXzcwM2Y3ZGQ3LWZjNGYtNDhmOC04Yjg5LWZkZmY5ODI4NzQxNi5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIzZDlhMzg2MC0zMzVkLTRjZmYtYTgwNi0zMzc2MzJmYzBmNjMvM2Q5YTM4NjAtMzM1ZC00Y2ZmLWE4MDYtMzM3NjMyZmMwZjYzXzY5MWY0OGQ5LTk2ZTYtNDE1OS1hNTJkLWYwZGQwOTJlMTA4Mi5wbmciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIzZDlhMzg2MC0zMzVkLTRjZmYtYTgwNi0zMzc2MzJmYzBmNjMvM2Q5YTM4NjAtMzM1ZC00Y2ZmLWE4MDYtMzM3NjMyZmMwZjYzX2UwOGQwYTM4LWZlMTctNDQ2MC04OGIwLTI3MDBhNGM3MWIwMS5wbmciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIzZDlhMzg2MC0zMzVkLTRjZmYtYTgwNi0zMzc2MzJmYzBmNjMvM2Q5YTM4NjAtMzM1ZC00Y2ZmLWE4MDYtMzM3NjMyZmMwZjYzXzk4NjQxMjQ3LWEzODUtNGE3OC1hYzY2LTgwZWZkYWNlODE4Yi5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Impeccable Architect-Designed Pool House at Lake View Park 2",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2024/12/Chiang-Mai-Perfect-Homes-House-Rentals-19-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/12/Chiang-Mai-Perfect-Homes-House-Rentals-09-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/12/Chiang-Mai-Perfect-Homes-House-Rentals-06-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/12/Chiang-Mai-Perfect-Homes-House-Rentals-13-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/12/Chiang-Mai-Perfect-Homes-House-Rentals-11-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/12/Chiang-Mai-Perfect-Homes-House-Rentals-03-1.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Supalai Monte 2",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2017/04/Supalai-Monte-Banner-website-Header-1.jpg",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI5MDdhNmJlZC1jNGUyLTQxN2YtODEzMC0zYmFhNGQ2MzlkYWIvOTA3YTZiZWQtYzRlMi00MTdmLTgxMzAtM2JhYTRkNjM5ZGFiXzBkZTUwOGU4LWY5ZGQtNDUzMS1iZGU0LWY3NDI0ZTU5NDBmYi5wbmciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI5MDdhNmJlZC1jNGUyLTQxN2YtODEzMC0zYmFhNGQ2MzlkYWIvOTA3YTZiZWQtYzRlMi00MTdmLTgxMzAtM2JhYTRkNjM5ZGFiXzM0OTA5NzVkLTg5MTktNGJhNi04ZjZlLWE1YTU3MjNmNDMwNy5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI5MDdhNmJlZC1jNGUyLTQxN2YtODEzMC0zYmFhNGQ2MzlkYWIvOTA3YTZiZWQtYzRlMi00MTdmLTgxMzAtM2JhYTRkNjM5ZGFiX2I2MzJlYTllLWY0YjItNGEzOS04NTk5LTc2NmEwYzA5NzJhMy5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "3 BR Cozy Cottage House at Baan Nonnipa",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyMS0xNGIzLTc1MGItYmQ2My1hYzlkYzAzMDVjMGEvZmFmMWE3MmQzYTg0N2I5ZTM2Y2I3ZjAyZjc3ZTczYWE1NDhkYjU0ODc2MDZlODNmYTlhYjRkMjA2ZmE0ZWQ4Ni5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyMS0xNGIzLTc1MGItYmQ2My1hYzlkYzAzMDVjMGEvMjk3YWE3YWQ5MzFmMzBmOTM3ODI3NWYzYzBmYjM4MmQzMGNkOWUwOTA4MzIzYmU1YTQ0ZTk1Y2IxNWUyZGJjYS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIyMS0xNGIzLTc1MGItYmQ2My1hYzlkYzAzMDVjMGEvYTcxNWYzYjM1YjllOGJiOGE0YWU4NTk5ZTNlY2RiNTJlZmI1MmVmNDdiMDA2MGY0YWE4MWYzZjUzZDI5NzQ1ZC53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ=="
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Bungalow 3 chambres Canal Road Suthep",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2025/01/House-for-rent-in-Suthep-15.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/01/House-for-rent-in-Suthep-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/01/House-for-rent-in-Suthep-2.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/01/House-for-rent-in-Suthep-3.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/01/House-for-rent-in-Suthep-13.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/01/House-for-rent-in-Suthep-14.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Hill Park Condo 2",
+    "photos": [
+      "https://bcdn.propertyhub.in.th/pictures/202408/20240828/fx751AjVo5Gf6aLBVGMz.jpg?width=1040&height=800",
+      "https://bcdn.propertyhub.in.th/pictures/202408/20240828/MrdTFKR52yYHRUcgpF44.jpg?width=528&height=392",
+      "https://bcdn.propertyhub.in.th/pictures/202408/20240828/NZhtbogCKooMiks5fKdE.jpg?width=528&height=392",
+      "https://bcdn.propertyhub.in.th/pictures/202408/20240828/YRwwYhpsBKhuW9SHJS5r.jpg?width=528&height=392",
+      "https://bcdn.propertyhub.in.th/pictures/202408/20240828/gD47HaTxbZ5Edo4xdUsv.jpg?width=528&height=392"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Karnkanok 19 Townhouse (Mahidol Rd)",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-KK19003-6.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-KK19003-2.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-KK19003-12.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-KK19003-9.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-KK19003-1.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/04/undefined-Chiangmai-KK19003-5.jpg.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Maison 3 chambres a Suthep",
+    "photos": [
+      "https://img2.propertyscout.co.th/abrGMUOdsG3Ojwx7jjLOs1kzMXheMqN79YYYPpNqpOw/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5NDE3NTgvMDAyMzZlNDdiYWU2OTExYmM4NTM3NzljZGIwN2M4MzUuanBn.webp",
+      "https://img2.propertyscout.co.th/Z2AYH_OrKUfRMee4dD1cncCFuLHoQfRb5Uz1nU5Uqmg/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5NDE3NTgvNzA2YzJmZTE3MTkxMWY3MzI4MTVhMWJhMTE5ZjZkMzQuanBn.webp",
+      "https://img2.propertyscout.co.th/3D7w-sMkJBqZl0AdUGu04DvmiWrDEq0_f6Ek_hG8Yjw/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5NDE3NTgvNGEwNzMyYmZkMGMzN2FjNjM1NWE0ZjE1OWJhNTdkZmYuanBn.webp",
+      "https://img2.propertyscout.co.th/By0b1NLf_h4-0RRWdEIuB0GEA7jtXBICbsja6K4Eo-A/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5NDE3NTgvYzc1MWE2NGEzOTYwOWU3OGNlY2M3YTg1ZTU4YTc5NTguanBn.webp",
+      "https://img2.propertyscout.co.th/HltV-pHxiWtJQSpLBp8LcGLYzQR1z7i3enhxxVt_Sj0/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5NDE3NTgvNmE2ZDQ2MGJlN2I0MTMyZDFlYzE0MmE5OTFkNTg5YmQuanBn.webp"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Modern Thai Style 4 Bedroom House at The Greenery Villa",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2Yy05MjdkLTdmMWItYjRlZS03Y2FiZGEwN2VjYmQvYjVmYjFiNjg2MjI2MWVkMTg2YWIwYmU1ZmRhMTdmMjhlNzNiZmZjNDBjYzE3ODA3NzUzYTBkYjliMGIyNjhmMi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2Yy05MjdkLTdmMWItYjRlZS03Y2FiZGEwN2VjYmQvNGRhYTE0MjE1N2Y3NmQxOTYxMTdjZjQ4NDY4Yjc3MDQzYWQzZmE5MjFkZDUwNWE3NmUzNzEyNWFiNDlhMmI1Zi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2Yy05MjdkLTdmMWItYjRlZS03Y2FiZGEwN2VjYmQvZmJhOTQzYzk5NzZiMGM1YzI5ZjlkYWI2N2E3ODQ4M2U3YTFjMjkwZDkyODQzYTIxOTFmZTFkNDU0NTM5YjIwMi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ=="
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Pool Villa 4 ch Koolpunt Ville 9",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTlkMWYzNi0wNDI4LTcwNDQtYjI1NS1hZDU3MjliZDg3YWEvYTQ4YmUwMDJlYzMwMWE3YmUxMzA1N2IzNzI0ZGU5YzQyZmQ1Y2FmMTQ3Y2FiZmYwYzE0YWJmYjgwZTE4NDU3OS53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTlkMWYzNi0wNDI4LTcwNDQtYjI1NS1hZDU3MjliZDg3YWEvYWNhOTk2YjUwNDAxOGJmNDYzZWVjMTZlMTU3YWYyZThiZTc3N2M1NWZlYjE2OTM1ZjU4NDcxMjM3ZTk4ODNhZC5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTlkMWYzNi0wNDI4LTcwNDQtYjI1NS1hZDU3MjliZDg3YWEvOWFjOTRjOTc1N2FmNjBjNWM3YTAwODRmYmIwZWRlZDg1MWM0MDk3NzAzNWRkNDYwMTcyMjUxNzRlZGQ3NWZiMi53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ=="
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Spacious 5-Bed House at Thanaporn Park Home 5",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2ZC0yYmJhLTdlMDItYTU4My1hNTQwMmY5NzA1YmYvNDk5NjE3ZmFhNTQ0YmZmOTViNzI4YThlYjBkOGZmMmVjNDNhNDJhZjMyYmExYjA1YjMwYzVmNjhjZWNhODRlYS5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2ZC0yYmJhLTdlMDItYTU4My1hNTQwMmY5NzA1YmYvNTQyODVjNjkxOWMxODg3ZmQ5YWY4NzgyNWY3ZWJkNTE1ODUzMTljNzA0NjQ4NGU1NWNhOTMzM2M3MDlhMjdhNC5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllZjM2ZC0yYmJhLTdlMDItYTU4My1hNTQwMmY5NzA1YmYvNWI0MGU2NGRhYTJiNGFkNzU4OWM1M2MyYzI3MGExYTQ3MTBmMTQ1OTdjNjE1NTIxMjY4NTRkNDdkZTNkODU1OC5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ=="
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Townhouse 3 chambres proche Old City",
+    "photos": [
+      "https://img2.propertyscout.co.th/rGyKA0Hmguqc-LdIB4VzZcznI9vQoYj-YwVWjfUgx8c/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ4NDExOTkvMTg2NmMwMDZkZTJmZTE2ZDg0ZGFlMTFmYmE2YmU2YzcuanBn.webp",
+      "https://img2.propertyscout.co.th/dMTkMJNijTVCQNR4sxdNyiFWzzjoFni7XoUmnS52kT8/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ4NDExOTkvNzU3ZWY1YzM4YTRkNGViNmNkOTEyYTUzZTUzMjFhMDMuanBn.webp",
+      "https://img2.propertyscout.co.th/vpbnu_L-mzXgaoxPWAuOft_7JFKzqSvi0Yy_kxBM6kM/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ4NDExOTkvZGU0YzViYjIwYTVhZWNlNGI5NjFhYTVlNGEzNDAyOTQuanBn.webp",
+      "https://img2.propertyscout.co.th/4qzA_RPzGXNuyP0XjSuV7SvCh0WigQZckon-0Mlg3oI/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ4NDExOTkvNjAyOWVjYWIwNjc2ZDc2Yzc3ZmE0ODBiNTQzMTM0YjAuanBn.webp",
+      "https://img2.propertyscout.co.th/k48rh0C96PU0TYdVKSSYiY6m77lWw9v8fwUrC6r46MM/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ4NDExOTkvOWY0MmRmZWQ5ODUxNDJhZDdiMDM4Njk2OTU0NWMwNmQuanBn.webp"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Retraite nature Rim Tai 3 ch.",
+    "photos": [],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "3-BR House in Mae Hia",
+    "photos": [
+      "https://img2.propertyscout.co.th/SaDrE4qjbiJQNfAZGl6qYPiDul1fpmajDy7n5iOOBOc/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTUwMDgwMzAvYzRkMTA5Y2RmNGQ3MjM2ZTUxY2ZlZDc0ZGIxYWZjMTMuanBn.webp",
+      "https://img2.propertyscout.co.th/Qt2l_0DkK03GqYs2-j-_hz-ZDi8bBqWdssvLnt_46g8/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTUwMDgwMzAvMGM0ZjU3Y2I5MDNkOGJhNTgzOTlkMTNmODY4NDE5MzIuanBn.webp",
+      "https://img2.propertyscout.co.th/whDWElxfqp9is5lt-EhWV3w-6_j5BWqfoa5rkbRGli8/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTUwMDgwMzAvZWQ0NTBjNThiZjRjZTdiY2ZiZmY0ZGEwMDk3NDQxNmQuanBn.webp",
+      "https://img2.propertyscout.co.th/lNMLvKv8QDUj4y5gtgN5WYcN6KaE2jeSF4zFKe1qE3A/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTUwMDgwMzAvOGQ1YzdkMDA5YTcxZjgxYTkzMzM0NGZkNjM3MDNhNzA4LmpwZw.webp",
+      "https://img2.propertyscout.co.th/mfAPCHgsSGh9EECcRh7ecdaFDT3eayCGzB7K2KIkY4s/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTUwMDgwMzAvYjZmNzZhMTA2YWM4OTQ3N2JhNjM4Njk5MzNlYWJlMjQuanBn.webp"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Chayayon Condo",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyY2QzY2E2Mi0yZTg5LTRlZmYtYWJjNC1jZjI3YjdiNjBmYmUvMmNkM2NhNjItMmU4OS00ZWZmLWFiYzQtY2YyN2I3YjYwZmJlX2M0Y2ZjYTJmLWMyYjUtNDNjMS05OGU0LTEyMTkxYzk4NmUyZC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyY2QzY2E2Mi0yZTg5LTRlZmYtYWJjNC1jZjI3YjdiNjBmYmUvMmNkM2NhNjItMmU4OS00ZWZmLWFiYzQtY2YyN2I3YjYwZmJlX2M1NjRhZGJiLWQzNGItNDhlYi1iN2Y2LWRiOWM5NDA0NTBhZC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyY2QzY2E2Mi0yZTg5LTRlZmYtYWJjNC1jZjI3YjdiNjBmYmUvMmNkM2NhNjItMmU4OS00ZWZmLWFiYzQtY2YyN2I3YjYwZmJlXzQ0MDc3NTNlLWEzZjktNDEzNy04YWNmLWI5ZDBjNGUyYmViZS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Glory Condominium Chiang Mai",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI4ZTEzMzhiZC0zZjQxLTRhYmMtODdkYi0zZTgzYjhiY2I2NjcvOGUxMzM4YmQtM2Y0MS00YWJjLTg3ZGItM2U4M2I4YmNiNjY3XzFiNTk5YWViLTcwNzItNGJiYS1iODdhLTJhNmIyYTYwN2YyYi5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI4ZTEzMzhiZC0zZjQxLTRhYmMtODdkYi0zZTgzYjhiY2I2NjcvOGUxMzM4YmQtM2Y0MS00YWJjLTg3ZGItM2U4M2I4YmNiNjY3XzdiMDgyNzE3LTM3MTItNGM5Yi05MDgwLWIzNmVjODMzNTkzYS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI4ZTEzMzhiZC0zZjQxLTRhYmMtODdkYi0zZTgzYjhiY2I2NjcvOGUxMzM4YmQtM2Y0MS00YWJjLTg3ZGItM2U4M2I4YmNiNjY3XzFhNmZiOTBjLTgzNjgtNDM3YS1iYTM4LWUwMWYwYmM3M2M3YS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "House at Wararom Charoenmuang",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGI0MS1jMDRlLTcwNzctYTc4Ni00NmQwOGE1MTU4YzMvODBmOTE3YmQ4YWYwMjQ5ZmEyYTJjMDFkMDFjNWRmNWIzOWQ5MGM0YmNjNGQ0MjA3MDNlZTBmZGY3Y2ZhMzk1Zi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGI0MS1jMDRlLTcwNzctYTc4Ni00NmQwOGE1MTU4YzMvYWIwODBhMjMwNjhmNzFmNDkxMGFkZjllYzNiMzZkOGJhMmJjMGI1ODdkZDk1ODM1NmEwNWE5YmZlMTdmMzdjYy5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGI0MS1jMDRlLTcwNzctYTc4Ni00NmQwOGE1MTU4YzMvOTRiMGU0NDI2NDUxZmE2NDlmZjdiYTE2NjMxOTAxOTMwNzQwZjEwZmIxMGJiN2MwYzdmMmI2NjM5N2I3ZmQ1MC53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ=="
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Lanna View Townhouse, San Phi Suea",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-1.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-20.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-22.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-23.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-25.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2026/06/Properties-in-Chiangmai-SPS058-26.jpg.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Mountain View Condominium",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2017/07/Banner-Mountain-View-Condo-Final-Post.jpg",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyOTgyNTcwZS1iNzNhLTQ5ZDAtYmE5MS1lYmNmMzYyNDhhYTEvMjk4MjU3MGUtYjczYS00OWQwLWJhOTEtZWJjZjM2MjQ4YWExXzZlNzllMzExLTEwZmItNGI4Ny05ZDFlLWQ1NDIyNTM5MDdhYS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyOTgyNTcwZS1iNzNhLTQ5ZDAtYmE5MS1lYmNmMzYyNDhhYTEvMjk4MjU3MGUtYjczYS00OWQwLWJhOTEtZWJjZjM2MjQ4YWExX2MzYjEyMDRlLWU0NjItNDZhMi05MzhjLTUzMWI4OWQ4NTY3My5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyOTgyNTcwZS1iNzNhLTQ5ZDAtYmE5MS1lYmNmMzYyNDhhYTEvMjk4MjU3MGUtYjczYS00OWQwLWJhOTEtZWJjZjM2MjQ4YWExXzhmNGU5ZTRjLTc0MDAtNGQ1Yi1iMjlhLTAzNWEwN2NmN2QxZi5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "One Plus Jed Yod 1",
+    "photos": [
+      "https://photosrp.thailand-property.com/1.0-TH-0-PJ-18326-18512802006304ab6dc1dee-1-348-196/one-plus-condo-jed-yod.jpg",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyNDkzNzMyOC1kMTE5LTRkOWMtYjVmOC0zYjMxNDAwMjBmNWEvMjQ5MzczMjgtZDExOS00ZDljLWI1ZjgtM2IzMTQwMDIwZjVhXzYxMjcwNWM4LWZiNjItNDEzNi1hN2I1LTZkZDEwMWQ5MjlhZC5wbmciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyNDkzNzMyOC1kMTE5LTRkOWMtYjVmOC0zYjMxNDAwMjBmNWEvMjQ5MzczMjgtZDExOS00ZDljLWI1ZjgtM2IzMTQwMDIwZjVhXzlkNGZiMjM1LTM0MTAtNDFlMS1iNDM2LWQyN2E0YmMzMzE4My5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIyNDkzNzMyOC1kMTE5LTRkOWMtYjVmOC0zYjMxNDAwMjBmNWEvMjQ5MzczMjgtZDExOS00ZDljLWI1ZjgtM2IzMTQwMDIwZjVhXzU3NTg0ZWUwLTgxZTEtNDQ4NC1hYWU3LTRkNzAxMTdiZjk1ZC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Pool villa Palm Springs Privato",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2025/05/Properties-in-Chiangmai-HD323-10.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/05/Properties-in-Chiangmai-HD323-16.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/05/Properties-in-Chiangmai-HD323-13.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/05/Properties-in-Chiangmai-HD323-11.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/05/Properties-in-Chiangmai-HD323-12.jpg.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2025/05/Properties-in-Chiangmai-HD323-1.jpg.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Sabai Sabai Chiangmai",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiJiMTI0MzY4Zi0wZGFhLTRlZWYtYjQ4OC0yYzQ1NGQyMTdlMjIvYjEyNDM2OGYtMGRhYS00ZWVmLWI0ODgtMmM0NTRkMjE3ZTIyX2FlZTQ4MzMxLWUwODYtNDVjYy04ZTQxLTAwZjEwM2U0NmQ4Zi5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NzgwLCJoZWlnaHQiOjUyMCwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiJiMTI0MzY4Zi0wZGFhLTRlZWYtYjQ4OC0yYzQ1NGQyMTdlMjIvYjEyNDM2OGYtMGRhYS00ZWVmLWI0ODgtMmM0NTRkMjE3ZTIyXzIxODg3MTM5LTFmOTctNGRiNC1hYWY3LTY3M2UxMTgyODJkOC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiJiMTI0MzY4Zi0wZGFhLTRlZWYtYjQ4OC0yYzQ1NGQyMTdlMjIvYjEyNDM2OGYtMGRhYS00ZWVmLWI0ODgtMmM0NTRkMjE3ZTIyX2NhYjI2MjM2LTM4ZDYtNGFkMi1iMTQ2LWI1MWJmYjUxNGUwYS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "The Green City 2 Chiangmai",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIzMjFiZjRiZi1lOWNmLTRmOGEtYTJiYi1kY2E2YzVmZmM2ZWIvMzIxYmY0YmYtZTljZi00ZjhhLWEyYmItZGNhNmM1ZmZjNmViX2Y3ZjQ0Y2JjLWE2MjctNGFmNC04MDg4LTIyOWNlZjc2ZmM2ZS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIzMjFiZjRiZi1lOWNmLTRmOGEtYTJiYi1kY2E2YzVmZmM2ZWIvMzIxYmY0YmYtZTljZi00ZjhhLWEyYmItZGNhNmM1ZmZjNmViXzYyMDMxMWJmLTg4NmEtNGU5MC04NzRhLTQzZDVkZThlODc5OC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiIzMjFiZjRiZi1lOWNmLTRmOGEtYTJiYi1kY2E2YzVmZmM2ZWIvMzIxYmY0YmYtZTljZi00ZjhhLWEyYmItZGNhNmM1ZmZjNmViX2Y1NmJmNDk2LTkwMjgtNDNhMC1hYzk1LTdiOTNhZWRkNjVjZi5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "The Shine Condominium",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI2MjExMzVmNS1jNDNkLTRmN2YtODAxYS01YTI4MTAyM2U1ZGMvNjIxMTM1ZjUtYzQzZC00ZjdmLTgwMWEtNWEyODEwMjNlNWRjXzE4OTZiN2JkLWNmNGItNDJlYS1iNzFmLTBlOTUxYjI3YmQ3Yy5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NDkwLCJoZWlnaHQiOjMyNSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI2MjExMzVmNS1jNDNkLTRmN2YtODAxYS01YTI4MTAyM2U1ZGMvNjIxMTM1ZjUtYzQzZC00ZjdmLTgwMWEtNWEyODEwMjNlNWRjXzA1NDZkYmEwLTcwYjctNGU1NS1iYmNlLTI0ZmI0MDY5Y2FmYS5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1wcm9qZWN0cy1hZG1pbi1pbWFnZXMiLCJrZXkiOiI2MjExMzVmNS1jNDNkLTRmN2YtODAxYS01YTI4MTAyM2U1ZGMvNjIxMTM1ZjUtYzQzZC00ZjdmLTgwMWEtNWEyODEwMjNlNWRjX2M4ZDVmZGY3LTI3OWMtNDIyZS1iZDlmLTc4NzlhYjFmODI4ZC5qcGciLCJicmFuZCI6InRoYWlsYW5kcHJvcGVydHkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6Mjc1LCJoZWlnaHQiOjE1NSwiZml0IjoiY292ZXIifX19"
+    ],
+    "facebook": null,
+    "website": "https://shinecondominium.com/"
+  },
+  {
+    "name": "Villa 6 chambres a Fa Ham",
+    "photos": [
+      "https://img2.propertyscout.co.th/dzVvH3rUijy5VSlqMAuwWBvpef59YuGW8zy3zqwL4-c/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC8yOTcyNDY0L2U4Y2U2NTBhMTlkNzNlNTg4ODBiMTQ0OTU1NjYzYjdhLmpwZw.webp",
+      "https://img2.propertyscout.co.th/xoehxPmzEt5zB0daiYLpUUVHuzzlRZI61I7y4pN0HFs/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC8yOTcyNDY0LzEzN2EyMmUwMzg3OGVkZDNkNDIzNjI1NDQzN2M3ZmVhLmpwZw.webp",
+      "https://img2.propertyscout.co.th/uyGeGsMWL05V4G7G8-0YftXaVccEHvfvUvJT4HPTr8Q/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC8yOTcyNDY0LzU2NDIzYmRhMzcxNjQ1Y2Y2Nzc2MGRjNjUzYjE1NjcwLmpwZw.webp",
+      "https://img2.propertyscout.co.th/U7ChADRxUhxD0u9R9PZBM8398GfGahCgFVGPQZRZmL8/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC8yOTcyNDY0LzU4ZmQ5NDU4OTY2M2ZmNTI5ZDRmZDNmNjk1YTMyNTAzLmpwZw.webp",
+      "https://img2.propertyscout.co.th/ytQ8uOqxZ6pG7-E3gSo0Y0_YDQgzuR3zZADMTvVetOA/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC8yOTcyNDY0L2NkOTEyNzFmY2Y5YmM5MDBkYThlNWZjYWQzNjUyNWIyLmpwZw.webp"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "House at The Bliss Koolpunt Ville 16 (340 m2)",
+    "photos": [
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIxYi05MGExLTcxMDktOTI2Zi02NjljZjEwOTg4NTgvMzQzZDRhZDk1ZTZjMzQ2ZDA5NGQ4MzhlNmNmZDE0OTUxNzQ1YjIxNTFjZjBhNTVmZWIzODRjNDJlNzk3YTRjNy5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjQ5MCwiaGVpZ2h0IjozMjUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIxYi05MGExLTcxMDktOTI2Zi02NjljZjEwOTg4NTgvNWEyMzEzZmU5OGIzMjI0ZjUwYmQ3NjgxODA4ZDBmMzY4MmZiMDExMTg1ZmIzYjE2OTQ2ZTI3YjI3YWFjZDg3Zi53ZWJwIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ==",
+      "https://img.thailand-property.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTljNGIxYi05MGExLTcxMDktOTI2Zi02NjljZjEwOTg4NTgvMjBmZThjOTc3MDljNTcwNmJmMGI0ZmJkZjY3ODMxYTIxNzRiMWExNDE3NDAyNWUzMjllYmVkMzIxNWFmNjkwZi5qcGVnIiwiYnJhbmQiOiJ0aGFpbGFuZHByb3BlcnR5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsLCJyZXNpemUiOnsid2lkdGgiOjI3NSwiaGVpZ2h0IjoxNTUsImZpdCI6ImNvdmVyIn19fQ=="
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Maison 4 chambres Siriporn 2 Nong Chom",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-21.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-6.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-23.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-3.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-22.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2024/01/San-Sai-house-to-rent-16.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Maison Huai Sai 3 ch. 336m2",
+    "photos": [],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Townhouse 2 chambres modernise Mae Rim",
+    "photos": [
+      "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-11-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-10-1.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-8-2.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-6-2.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-7-2.jpg",
+      "https://perfecthomes.co.th/wp-content/uploads/2022/06/Houses-to-rent-Chiang-Mai-9-1.jpg"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "5-BR Villa in Mae Hia",
+    "photos": [
+      "https://img2.propertyscout.co.th/7bOm1dd_qBN44INVMPubSaSKYXtCAxg2-SKchYzZXyQ/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5MjkyMzgvNDYxMjRhOWJmN2VjYTliZGNmNWQ1ZDE2YmM1ZWU3YTcuanBn.webp",
+      "https://img2.propertyscout.co.th/OQzixASzINFq2bqwDZ8CVCFpoyNgtwfeQPM_-ToNIuA/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5MjkyMzgvOWI3YzQ2MWVhOTUwMzE3NjljODFiY2ZlNWEwNDVhMGQuanBn.webp",
+      "https://img2.propertyscout.co.th/zrZS0e4i1feh7SnZJZtPDp5tyodTFA2apZBNL9fct_s/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5MjkyMzgvMWNkMzU1NTM3MjNiY2RmM2U0YjFiN2IzNTBkNDhiYzEuanBn.webp",
+      "https://img2.propertyscout.co.th/u8SgqTOB9v3YJ4kjoOmuFT50zC3mZBygkNRoLkKEuVg/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ5MjkyMzgvNzA0NzBjMjUwY2YxOGQ2MmM5YzFjYTU3MWRmOTczNTguanBn.webp"
+    ],
+    "facebook": null,
+    "website": null
+  },
+  {
+    "name": "Plover Cove Villa",
+    "photos": [
+      "https://img2.propertyscout.co.th/FUOHyRKaYVWI9B6doi9nX5gIIz73SMlXqPOFNSMzlY4/wm:0.6:so:0:50:0.3/rs:fit:1200/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ0ODQ5NDMvNDI2NTAzYWE0NTI1ZThjNjY3NDIxYjBkZjczMTVhZjQuanBn.webp",
+      "https://img2.propertyscout.co.th/1QkK3VtLpi6SJEDgLUD7ZMI4v0XBv3JBogJCfgYriMg/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ0ODQ5NDMvNDYyOTk1YzljODA1MDQ1YjIyZWVmMWJhYjk2MGZlNTEuanBn.webp",
+      "https://img2.propertyscout.co.th/5-3iL9lV6JYK_PQDlmd8a5I_PDP6bcgp7xQYYWZQb4Y/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ0ODQ5NDMvMWQ4NTBmYTVhZmJlMjRiMmMzNTU3ZGQxYjljM2M1MjYuanBn.webp",
+      "https://img2.propertyscout.co.th/h5sRLRSDVnkGfk600yYg3DmEHq8vlg77ujHsVPuMDGw/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ0ODQ5NDMvMGJkMDkyMWRlOGI4YmJkYTk2ZmU3OGExZjc3OGQ0OGIuanBn.webp",
+      "https://img2.propertyscout.co.th/OMVHnEbJicK534xyw1wKekIEIy-IhS7-LbHpkPl_ZhM/wm:0.6:so:0:50:0.3/rs:fit:400/q:70/aHR0cHM6Ly9mbGV4c3RheS1pbWFnZXMuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbS9pbWFnZXMvcHJvZC9saW5rLTQ0ODQ5NDMvMTJhYzY3ZmMwNTI4ZjAzODVmMGJjMTg5MmQ1YzFmYzUuanBn.webp"
+    ],
+    "facebook": null,
+    "website": null
+  }
+]

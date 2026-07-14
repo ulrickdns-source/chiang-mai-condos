@@ -1,0 +1,21 @@
+[
+  {"name":"Dcondo Campus Resort Chiang-Mai","rent_min":8500,"rent_max":11000,"price_note":"Studio ~8500฿, 1BR ~11000฿. FazWaz 254-329$≈8600-11200฿ + annonces 10-11k฿ (Hipflat)."},
+  {"name":"The Nimmana","rent_min":12000,"rent_max":35000,"price_note":"Studio 12-13k, 2BR/corner 25-35k. Livinginsider + PropertyHub/FazWaz (ancien max 54k corrigé)."},
+  {"name":"Hillside Plaza & Condotel 4","rent_min":10000,"rent_max":30000,"price_note":"Studio 10-14k, 2BR 24-30k. FazWaz + Perfect Homes/Thailand-Property."},
+  {"name":"103 Condominium","rent_min":12000,"rent_max":17000,"price_note":"Studio 12k (Perfect Homes), jusqu'à ~17k. FazWaz 354-668 SGD≈9-17k฿."},
+  {"name":"Hillside 2 Condominium","rent_min":11000,"rent_max":37000,"price_note":"Studio 11-13k, jusqu'à 37k. Hipflat + Thailand-Property/FazWaz."},
+  {"name":"Promt Condo Chiangmai","rent_min":14000,"rent_max":28000,"price_note":"1BR ~14-15k (FazWaz 418-450$), unité premium 28k (Thailand-Property/Dot Property)."},
+  {"name":"The Cosy Huay Kaew","rent_min":null,"rent_max":null,"price_note":"1 source (MonthlyChiangMai ~14000฿/mois, studio 35sqm) ; non recoupé."},
+  {"name":"Angket Pavillian Condo","rent_min":8500,"rent_max":15000,"price_note":"Studio 8500, 1BR 11k, 2BR 15k. Perfect Homes + PropertyScout/FazWaz."},
+  {"name":"Chiangmai View Place","rent_min":8000,"rent_max":29000,"price_note":"Studio ~8k, 1BR 65sqm 29k. Thailand-Property + FazWaz/Hipflat."},
+  {"name":"Hillside Payap Condominium","rent_min":15000,"rent_max":35000,"price_note":"Range 15-35k (Payap 7). Thailand-Property + Hipflat ; anciennes annonces Perfect Homes plus basses."},
+  {"name":"Kiengmor Condominium 1","rent_min":7500,"rent_max":null,"price_note":"Studio 34sqm ~7500฿ (ddproperty + Thailand-Property) ; pas d'unité plus grande vérifiée."},
+  {"name":"Nakhon Ping City View","rent_min":8500,"rent_max":19000,"price_note":"1BR ~8500, jusqu'à 19k. Thailand-Property + KaiBaanThai/ddproperty (ancien min 14k corrigé)."},
+  {"name":"One Plus Jed Yod 1 & 2","rent_min":10000,"rent_max":18000,"price_note":"1BR 10-13.5k, 2BR 12.5-18k. Thailand-Property + Perfect Homes/ddproperty (ancien min 18k corrigé)."},
+  {"name":"Pool Suite","rent_min":17000,"rent_max":28000,"price_note":"Studio à 2BR 17-28k. Thailand-Property + FazWaz/Hipflat."},
+  {"name":"Rouenkam Tower Condominium","rent_min":12000,"rent_max":28000,"price_note":"1BR 12-20k, 2BR 28k. Thailand-Property + PropertyScout/ddproperty."},
+  {"name":"The Base Height Chiang Mai","rent_min":14000,"rent_max":32000,"price_note":"Studio à 2BR 14-32k. Thailand-Property + Hipflat/FazWaz."},
+  {"name":"The Nimman by Palm Spring","rent_min":13500,"rent_max":16000,"price_note":"1BR 13.5-16k. Thailand-Property + Perfect Homes/Live in CM."},
+  {"name":"TRAMS Condominium","rent_min":11000,"rent_max":12000,"price_note":"1BR 11-12k. Dot Property + Thailand-Property ; bâtiment surtout 1BR."},
+  {"name":"Palm Springs Place","rent_min":null,"rent_max":null,"price_note":"1 source (Hipflat, projet villas Nong Hoi 852-1370$≈29-47k฿) ; nom ambigu, non recoupé."}
+]

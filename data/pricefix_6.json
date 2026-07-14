@@ -1,0 +1,20 @@
+[
+  {"name":"Peaks Garden","rent_min":18000,"rent_max":55000,"price_note":"1BR ~฿19-25k, plus grandes unités jusqu'à ฿55k/mois (Thailand-Property + FazWaz)"},
+  {"name":"Mountain Front Condominium","rent_min":25000,"rent_max":33000,"price_note":"1BR ~฿25-26k, 2BR ฿30-33k/mois (Hipflat/108siam + KaiBaanThai)"},
+  {"name":"One Plus Huay Kaew","rent_min":12000,"rent_max":15000,"price_note":"1BR 35sqm ฿12k, autres unités jusqu'à ฿15k/mois (Hipflat + RentHub)"},
+  {"name":"Casa Condo Changpurk","rent_min":10000,"rent_max":12000,"price_note":"฿10-12k/mois bail 1 an (RentHub + Perfect Homes)"},
+  {"name":"Natura Green Residence","rent_min":25000,"rent_max":60000,"price_note":"1BR dès ฿25-32k, 2BR jusqu'à ฿60k/mois (FazWaz + Thailand-Property/Perfect Homes)"},
+  {"name":"Punna Residence 5","rent_min":14000,"rent_max":55000,"price_note":"฿14k (1BR) à ฿55k/mois; 2BR ~฿25-30k (FazWaz/KaiBaanThai + Thailand-Property)"},
+  {"name":"The Next Jedyod","rent_min":12000,"rent_max":null,"price_note":"1BR 35sqm ฿12k/mois (LivingInsider + Hipflat/FazWaz $360); max grandes unités non vérifié"},
+  {"name":"AtHomechiangmai Condotel","rent_min":5500,"rent_max":8000,"price_note":"condotel ฿5.5-8k/mois (standard ฿5k, deluxe ฿7.5k) (RentHub + Perfect Homes)"},
+  {"name":"City View Tower Condominium","rent_min":8000,"rent_max":null,"price_note":"studio 33sqm ฿8-10k/mois (PropertyHub + Perfect Homes); 1BR non vérifié"},
+  {"name":"Hillside Payap Condominium 9","rent_min":9000,"rent_max":10500,"price_note":"1BR 33sqm ฿9-10.5k/mois ($274-305) (Hipflat + PropertyScout/FazWaz)"},
+  {"name":"Le Chamonix","rent_min":17000,"rent_max":28500,"price_note":"1-2BR ฿17-29k/mois ($501-838) (KaiBaanThai + FazWaz)"},
+  {"name":"National Housing Authority Nong Hoi","rent_min":null,"rent_max":null,"price_note":"non vérifié: uniquement prix de vente (฿530k-710k) trouvés, pas de loyer sur 2 sources"},
+  {"name":"One Plus Klongchon","rent_min":10000,"rent_max":13000,"price_note":"studio/1BR ฿10-13k/mois (Hipflat + PropertyScout/Thailand-Property)"},
+  {"name":"Prime Square Condominium","rent_min":10000,"rent_max":13000,"price_note":"studio ~฿10k, 1BR ฿13k/mois (Thailand-Property + Perfect Homes/PropertyHub)"},
+  {"name":"Serene Lake North 8","rent_min":11000,"rent_max":35000,"price_note":"studio/1BR ฿11-16k, plus grandes jusqu'à ฿35k/mois (KaiBaanThai/Thailand-Property + FazWaz)"},
+  {"name":"The Green City 2 Chiangmai","rent_min":10000,"rent_max":20000,"price_note":"1BR ฿10-12.5k, jusqu'à ฿20k/mois ($367) (Thailand-Property/KaiBaanThai + FazWaz)"},
+  {"name":"The Resort Condominium","rent_min":24000,"rent_max":28000,"price_note":"฿24-28k/mois ($728-849) (Thailand-Property + Hipflat)"},
+  {"name":"Vieng Ping Condominium","rent_min":14000,"rent_max":27000,"price_note":"studio/1BR dès ฿14-20k, 2BR ฿26-27k/mois ($428-634) (FazWaz + Thailand-Property/PropertyHub)"}
+]

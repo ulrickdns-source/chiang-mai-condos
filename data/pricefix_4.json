@@ -1,0 +1,21 @@
+[
+  {"name":"Palm Springs Nimman Phoenix","rent_min":14000,"rent_max":18000,"price_note":"1BR/studio dès ~฿14k, 2BR jusqu'à ฿18k. Hipflat ฿17-18k + FazWaz USD410-546 (~฿14-18,6k)."},
+  {"name":"Palm Springs Nimman Fountain","rent_min":15000,"rent_max":20000,"price_note":"1-2BR ฿15-20k/mois. Hipflat ฿16-20k + FazWaz USD449-598 (~฿15,3-20,3k)."},
+  {"name":"D Vieng Santitham","rent_min":11000,"rent_max":22000,"price_note":"Studio/1BR dès ฿11k, plus grandes ฿22k. DDproperty + Thailand-Property/Hipflat (฿11-22k)."},
+  {"name":"103 Condominium 2","rent_min":9000,"rent_max":17000,"price_note":"1BR/studio ฿9-12k, max ฿17k. Hipflat ฿9-17k + PropertyScout/DDproperty (studio ฿12k)."},
+  {"name":"Himma Garden Condominium","rent_min":12000,"rent_max":27999,"price_note":"1BR dès ฿12k, 2BR jusqu'à ฿28k. Hipflat ฿12-27,999k + DDproperty (2BR ฿23k)."},
+  {"name":"Punna Oasis 2","rent_min":16000,"rent_max":52000,"price_note":"Studio/1BR dès ฿16k ; haut de gamme ฿52-60k. Hipflat ฿16-60k + FazWaz USD458-1528 (~฿15,6-52k)."},
+  {"name":"The Embassy House Condominium Chiang Mai","rent_min":28000,"rent_max":34000,"price_note":"2-3BR grandes surfaces. FazWaz USD833-1018 (~฿28,3-34,6k) + PropertyScout (3BR ฿32k)."},
+  {"name":"Arise Charoen Mueang","rent_min":15000,"rent_max":30000,"price_note":"1BR dès ฿15-18k, jusqu'à ฿30k. Hipflat/Thailand-Property ฿15-30k + DDproperty (1BR ฿16-18k)."},
+  {"name":"Chiangmai View Place 2","rent_min":12000,"rent_max":13000,"price_note":"1BR/2BR ~฿12-13k/mois. FazWaz USD359 (~฿12k) + Hipflat (~฿13k)."},
+  {"name":"Hillside Payap Condominium 7","rent_min":15000,"rent_max":35000,"price_note":"Studio dès ฿15-19k, plus grandes ฿35k. Thailand-Property/Hipflat ฿15-35k + listing studio USD552 (~฿18,8k)."},
+  {"name":"KN Town Condominium (Green Tower)","rent_min":null,"rent_max":null,"price_note":"1 source (DDproperty) : 1BR ฿12k, ~฿12-14k. Non recoupé sur 2e portail."},
+  {"name":"Nakornping City View Condo","rent_min":8500,"rent_max":19000,"price_note":"Studio/1BR dès ฿8,5k, max ฿19k. Hipflat ฿8,5-19k + USD260-581 (Thailand-Property/Dot Property)."},
+  {"name":"One Plus Jed Yod 3","rent_min":10000,"rent_max":15000,"price_note":"1BR ฿13-13,5k, fourchette ฿10-15k. Thailand-Property/Hipflat ฿10-15k + Perfect Homes."},
+  {"name":"PP Condominium","rent_min":4000,"rent_max":8500,"price_note":"Studios ฿4-6k, 1BR/duplex jusqu'à ฿8,5k. FazWaz ฿5,5-8,5k + Perfect Homes (studios ฿4-6k)."},
+  {"name":"Ruankam Tower Condominium","rent_min":12000,"rent_max":28000,"price_note":"1BR dès ฿12-13,4k, 2BR jusqu'à ฿28k. Thailand-Property/Hipflat ฿12-28k + FazWaz USD413-1140."},
+  {"name":"The Canale Condo by Mobius","rent_min":9000,"rent_max":27000,"price_note":"1BR dès ฿9-10k, plus grandes ฿27k. Hipflat/Thailand-Property ฿10-27k + PropertyScout (USD309-834)."},
+  {"name":"The Nine Thasala","rent_min":null,"rent_max":null,"price_note":"Non vérifié : seulement prix de vente (฿3,6-4,55M) trouvés, aucun loyer mensuel sur 2 sources."},
+  {"name":"Trams Condominium 1","rent_min":11000,"rent_max":12000,"price_note":"Studio/1BR ฿11-12k/mois. Thailand-Property/Dot Property (1BR ฿11k, dès ฿12k) + Perfect Homes."},
+  {"name":"Stylish Condominium","rent_min":null,"rent_max":null,"price_note":"Non vérifié : aucun loyer mensuel recoupé sur 2 sources pour ce projet précis."}
+]

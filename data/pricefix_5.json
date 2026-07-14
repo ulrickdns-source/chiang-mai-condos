@@ -1,0 +1,20 @@
+[
+  {"name":"The Sky Chiangmai","rent_min":null,"rent_max":null,"price_note":"Non vérifié : seule source Nomad Rental (location nomade court séjour), aucun loyer ฿/mois long terme confirmé sur portails immo (Hipflat/FazWaz)."},
+  {"name":"The Trio Condominium","rent_min":11000,"rent_max":22000,"price_note":"Studio ~11-13k, 2BR 60sqm ~22k (Thailand-Property + DDproperty/Hipflat)."},
+  {"name":"Escent Chiangmai","rent_min":9500,"rent_max":20000,"price_note":"Studio 24sqm ~9,5k, 1BR 31-35sqm 13-15k, max ~20k (Hipflat + Thailand-Property/FazWaz)."},
+  {"name":"Casa Condo @ CMU","rent_min":9000,"rent_max":16000,"price_note":"1BR 29-30sqm ~9k, 2BR 44sqm 16k (PropertyHub + PerfectHomes)."},
+  {"name":"Nakornping Condo Huay Kaew","rent_min":12000,"rent_max":35000,"price_note":"Studio ~12,8k / vue haute 12k, max ~35k (Thailand-Property + Hipflat/PerfectHomes)."},
+  {"name":"Punna Residence 4 @ CMU","rent_min":8000,"rent_max":15000,"price_note":"Studio 40sqm 8-12k (contrat 1 an), max ~15k (Livinginsider + Hipflat/ChiangmaiOpenRealty)."},
+  {"name":"The Next 1 Condo","rent_min":8500,"rent_max":null,"price_note":"Studio/1BR 33sqm ~8,5k (PerfectHomes + Hipflat) ; plus grande unité non vérifiée."},
+  {"name":"Arise Condo At Mahidol","rent_min":11000,"rent_max":20000,"price_note":"Studio/1BR 26-32sqm 12k, 2BR 20k (Thailand-Property + Hipflat/WaiEstate)."},
+  {"name":"Chomdoi Condotel","rent_min":9500,"rent_max":28000,"price_note":"Studio 37sqm ~12k, fourchette 9,5-28k (PerfectHomes + Thailand-Property/PropertyScout)."},
+  {"name":"Hillside Payap Condominium 8","rent_min":13000,"rent_max":20000,"price_note":"Studio 32sqm ~13k, 2BR ~18-20k / USD548 (Thailand-Property + PerfectHomes/FazWaz)."},
+  {"name":"Lanna Nakorn Condotown","rent_min":6500,"rent_max":7500,"price_note":"1BR 35sqm ~6,3-7,4k (USD186-217) (FazWaz + Thailand-Property/DotProperty)."},
+  {"name":"Natara Exclusive Residences","rent_min":17000,"rent_max":40000,"price_note":"Studio 17k, grandes unités 70-142sqm jusqu'à ~40k (USD1,220) (PerfectHomes + Thailand-Property/FazWaz)."},
+  {"name":"One Plus Klong Chon 2","rent_min":10000,"rent_max":13000,"price_note":"1BR 30sqm 10k, jusqu'à ~13k (Livinginsider + KaiBaanThai/Thailand-Property)."},
+  {"name":"Prime Square @Super Nimman","rent_min":12000,"rent_max":13000,"price_note":"1BR 29,8sqm ~12-13k (PerfectHomes + Hipflat/DDproperty)."},
+  {"name":"Sabai Sabai Chiangmai","rent_min":25000,"rent_max":45000,"price_note":"1BR long terme ~25k, jusqu'à 45k (USD1,120) (Thailand-Property/KaiBaanThai + FazWaz)."},
+  {"name":"The Grand Parano","rent_min":10000,"rent_max":12000,"price_note":"~10-12k (USD309-370) (Thailand-Property + FazWaz/Hipflat)."},
+  {"name":"The Prio Signature Condo Chiangmai","rent_min":12000,"rent_max":35000,"price_note":"1BR 12-15k, 2BR 58sqm 25k, max ~35k (Thailand-Property + FazWaz/DDproperty)."},
+  {"name":"Treasure Prime Condo","rent_min":null,"rent_max":null,"price_note":"Non vérifié : aucun loyer ฿/mois listé pour Treasure Prime (Chang Phueak Soi 5) ; à ne pas confondre avec 'The Treasure' (Nong Pa Khrang)."}
+]

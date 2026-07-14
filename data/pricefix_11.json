@@ -1,0 +1,20 @@
+[
+  {"name":"Palm Springs Nimman Parlor","rent_min":12000,"rent_max":17000,"price_note":"1BR 31-41m² ~฿15-17k. Thailand-Property ฿12k-17k; Live in CM/DDproperty listings ฿15-17k."},
+  {"name":"Srithana Condominium 2","rent_min":6800,"rent_max":55000,"price_note":"Studio→3BR. Thailand-Property ฿6,8k-55k; Perfect Homes ฿9k-35k."},
+  {"name":"The Bliss Hotel Nimman","rent_min":6500,"rent_max":19000,"price_note":"Serviced/mensuel: STD ฿6,5k, 1BR ฿15k, 2BR ฿19k. Nomad Rental + RentHub/rentforlong."},
+  {"name":"Escent Ville Chiangmai","rent_min":9000,"rent_max":25000,"price_note":"Studio ฿9-12k, 2BR ฿25k. Hipflat ฿7,5k-26k; Thailand-Property/listings."},
+  {"name":"Palm Springs Nimman Areca","rent_min":15000,"rent_max":18000,"price_note":"1BR 32m² only, ฿15k (1an)-18k (court). Live in CM + Propertyhub."},
+  {"name":"S Condominium Nimman","rent_min":10000,"rent_max":27000,"price_note":"Perfect Homes ฿10k-18k; Hipflat/DDproperty 1-2BR 58-66m² ~$728-849 (฿23k-27k)."},
+  {"name":"Tree Boutique Condo @Nimman","rent_min":13000,"rent_max":22000,"price_note":"1BR $386-645/mo (~฿13k-22k) KaiBaanThai/asia.villas; Hipflat ฿10k-20k."},
+  {"name":"Casa Condo Changpuak","rent_min":6000,"rent_max":12000,"price_note":"Studio/1BR ฿6k-12k. RentHub + Perfect Homes."},
+  {"name":"Galae Thong Tower","rent_min":7500,"rent_max":45000,"price_note":"Studio ฿7,5k (Perfect Homes) → grandes unités ฿45k (Thailand-Property ฿9,8k-45k)."},
+  {"name":"Karnkanok 3 Condo Jed Yod Greenery Hill","rent_min":11000,"rent_max":23000,"price_note":"Studio 45m² ฿11k, 1BR ฿23k. FazWaz ฿11k-23k + Perfect Homes."},
+  {"name":"Moda Condominium","rent_min":12000,"rent_max":40000,"price_note":"1BR ฿17-22k, 2BR ฿40k. Thailand-Property ฿12k-40k + Perfect Homes/Hipflat."},
+  {"name":"One Plus Condo - Klongchon 3","rent_min":12000,"rent_max":25000,"price_note":"1BR 31-37m². Thailand-Property ฿12k-24,999 + FazWaz/Hipflat."},
+  {"name":"One Plus Suandok 1,2,3","rent_min":12000,"rent_max":15000,"price_note":"1BR ฿12-13k. Perfect Homes + Hipflat/Thailand-Property."},
+  {"name":"Punna Residence 4 Chiang Mai","rent_min":8000,"rent_max":15000,"price_note":"Studio/1BR près CMU. Livinginsider studio ฿8k; DDproperty/Thailand-Property ฿10k-15k."},
+  {"name":"Su Condo","rent_min":null,"rent_max":null,"price_note":"non vérifié — FazWaz projet sans annonce de loyer, aucune 2e source de prix mensuel"},
+  {"name":"The Jigsaw Condominium","rent_min":18000,"rent_max":30000,"price_note":"DDproperty/PropertyHub ฿20k-30k; Livinginsider 2BR 83m² ฿18k."},
+  {"name":"The Treasure Condominium by My Hip","rent_min":10000,"rent_max":23000,"price_note":"Studio 35m² ฿14k, 2BR 80m² ฿23k. PropertyHub/DDproperty ฿10k-23k."},
+  {"name":"North 3 Condo","rent_min":10000,"rent_max":36000,"price_note":"FazWaz $307-1077/mo (~฿10,4k-36,6k); Hipflat 3BR ฿35k."}
+]

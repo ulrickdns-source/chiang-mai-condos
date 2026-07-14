@@ -1,0 +1,20 @@
+[
+  {"name":"The Astra","rent_min":16000,"rent_max":50000,"price_note":"1BR ~16k ; plus grande unité ~50k (Thailand-Property 16-50k ; Hipflat 12-45k)"},
+  {"name":"The Vidi Condominium","rent_min":16000,"rent_max":22000,"price_note":"proche Maya/Nimman, 1BR ~16k, unités sup. ~22k (Thailand-Property 15,999-21,999 ; Perfect Homes)"},
+  {"name":"Punna Residence 2 @Nimman","rent_min":10000,"rent_max":60000,"price_note":"studio Doi Suthep ~10k ; 2BR jusqu'à ~55-60k (Hipflat 16-60k ; Livinginsider 10k ; Superagent 8-18k)"},
+  {"name":"Dcondo Ping","rent_min":10000,"rent_max":25000,"price_note":"studio 30m² ~10k ; 2BR ~25k (Hipflat 9,990-28k ; Thailand-Property/DDproperty 10-24k)"},
+  {"name":"One Plus Jet Yod 2","rent_min":10000,"rent_max":18000,"price_note":"1BR ~10-13,5k ; 2BR ~18k (DDproperty/Thailand-Property 10-18k ; Hipflat 10-15k)"},
+  {"name":"Punna Residence Oasis 2","rent_min":9300,"rent_max":50000,"price_note":"studios ~9-12k (Hipflat) ; 2BR/long terme jusqu'à ~50k (DDproperty/Thailand-Property) ; large spread"},
+  {"name":"The Unique at Nimman 2","rent_min":25000,"rent_max":33000,"price_note":"1BR ~25-28k ; unités sup. ~30-33k (Hipflat 25k ; Thailand-Property 27,999-30k)"},
+  {"name":"Baan Suan Greenery Hill","rent_min":13500,"rent_max":22000,"price_note":"studio 40m² ~13,5-15k ; 1BR 90m² ~22k (DDproperty 15k ; Thailand-Property 13,5k)"},
+  {"name":"D Condo Nim","rent_min":8000,"rent_max":25000,"price_note":"studio 30m² ~8-15k ; 2BR 60m² ~20-25k (DDproperty 10-25k ; Livinginsider 7,5k)"},
+  {"name":"Huen Por Liang Condominium","rent_min":22000,"rent_max":43000,"price_note":"grandes unités uniquement, ~22k à 43k (Hipflat 22-43k ; Thailand-Property 22-43k) ; ancien 7-11k non confirmé"},
+  {"name":"Mahidol Condo","rent_min":null,"rent_max":null,"price_note":"non vérifié : PropertyScout ne liste que le prix de vente, pas de loyer sur ≥2 sources fiables"},
+  {"name":"Night Bazaar Condotel","rent_min":9000,"rent_max":13000,"price_note":"studio 28m² ~9-10k, jusqu'à ~12,5-13k (FazWaz USD270-300 ; Thailand-Property 12,5k)"},
+  {"name":"One Plus Nineteen 1-2","rent_min":9000,"rent_max":15000,"price_note":"studio/1BR ~9-15k (Thailand-Property 9-15k ; Hipflat/PropertyHub)"},
+  {"name":"Punna Residence 2","rent_min":10000,"rent_max":60000,"price_note":"même projet Suthep/Nimman : studio ~10k ; 2BR ~55-60k (Livinginsider 10k ; Thailand-Property/FazWaz)"},
+  {"name":"Seven Stars Condominium","rent_min":6000,"rent_max":8500,"price_note":"studio ~6k ; 1BR ~8,5k (FazWaz/Perfect Homes ~USD165 ; Thailand-Property 8,5k)"},
+  {"name":"The Hill Park Condominium 1","rent_min":8500,"rent_max":20000,"price_note":"1BR ~8,5k ; unités sup. ~20k (Thailand-Property/Hipflat 8,5-20k ; PropertyHub) — confirmé"},
+  {"name":"The Shine Condominium","rent_min":15000,"rent_max":35000,"price_note":"1BR ~15-20k (listing 10k possible) ; 2BR ~35k (DDproperty/Thailand-Property 17-35k)"},
+  {"name":"Chiangmai View Place 1","rent_min":null,"rent_max":null,"price_note":"1 source : Hipflat ~USD169-184 (≈5,700-6,300฿) ; pas de 2e source chiffrée"}
+]

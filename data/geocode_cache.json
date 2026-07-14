@@ -329,6 +329,12 @@
 "approx": true,
 "via": "kw:nimman_n"
 },
+"S Condominium Nimman": {
+"lat": 18.79362,
+"lng": 98.964292,
+"approx": true,
+"via": "kw:suandok"
+},
 "Sky Breeze Condo": {
 "lat": 18.798986,
 "lng": 98.965469,
@@ -502,6 +508,12 @@
 "lng": 98.960237,
 "approx": true,
 "via": "kw:huaykaew"
+},
+"The Cosy Huay Kaew": {
+"lat": 18.800545,
+"lng": 98.965208,
+"approx": true,
+"via": "kw:maya"
 },
 "3-BR House in Chang Phueak": {
 "lat": 18.802116,

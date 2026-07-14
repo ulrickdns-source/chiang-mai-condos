@@ -1,0 +1,21 @@
+[
+  {"name":"Liv@Nimman","rent_min":20000,"rent_max":26000,"price_note":"Thailand-Property 20-26k/mois ; DDproperty 1BR 22k"},
+  {"name":"Astra Sky River","rent_min":22000,"rent_max":60000,"price_note":"Thailand-Property 23-80k (1BR ~22k, 2BR ~35k) ; Hipflat jusqu'a 60k"},
+  {"name":"Hillside 4 Condominium","rent_min":12000,"rent_max":46000,"price_note":"Thailand-Property 13-46k (studio ~12k) ; Hipflat"},
+  {"name":"The Unique @ Nimman","rent_min":25000,"rent_max":45000,"price_note":"Thailand-Property 25-45k ; Hipflat/Propertyhub"},
+  {"name":"Hillside 1 Condominium","rent_min":25000,"rent_max":null,"price_note":"Thailand-Property & Hipflat ~25k (1 unite dispo, USD758)"},
+  {"name":"Peaks Avenue","rent_min":33000,"rent_max":60000,"price_note":"Thailand-Property 33-70k ; Hipflat 33-60k"},
+  {"name":"The Chiang Mai Riverside","rent_min":8500,"rent_max":22000,"price_note":"Thailand-Property studio ~8.5-10k, 2BR ~20-22k ; Hipflat 8-13k"},
+  {"name":"Airport Home Condominium","rent_min":9000,"rent_max":10500,"price_note":"FazWaz USD263-309 (~9-10.5k, 1BR 35m2) ; propertyhub 7-10k"},
+  {"name":"Chiang Mai Condominium","rent_min":null,"rent_max":null,"price_note":"non verifie (pas de loyer projet specifique trouve)"},
+  {"name":"Green Tower Condo","rent_min":12000,"rent_max":null,"price_note":"PropertyHub 12k ; FazWaz ~14k"},
+  {"name":"Kiang Mor Condo","rent_min":null,"rent_max":null,"price_note":"1 source (~7-11k, FazWaz), loyer non confirme"},
+  {"name":"My Hip Condo 2-3-4","rent_min":null,"rent_max":null,"price_note":"non verifie (pas de loyer specifique 2-3-4 trouve)"},
+  {"name":"One Plus Jed Yod 1","rent_min":10000,"rent_max":15000,"price_note":"Thailand-Property 10-15k ; DDproperty listings 12.5-15k"},
+  {"name":"Ping Plus Condo","rent_min":8000,"rent_max":null,"price_note":"Thailand-Property & KaiBaanThai studio 31m2 ~8-8.5k"},
+  {"name":"Rooks Condotel","rent_min":null,"rent_max":null,"price_note":"1 source (~9.5k, propertyhub), loyer non confirme"},
+  {"name":"Thaveephol Tower","rent_min":13000,"rent_max":21000,"price_note":"Thailand-Property 13-21k ; Hipflat/Propertyhub"},
+  {"name":"The Next Jedyod 2","rent_min":12000,"rent_max":null,"price_note":"Thailand-Property ~12k (1BR, USD360) ; KaiBaanThai/Kumuang"},
+  {"name":"Touch Hill Place","rent_min":17000,"rent_max":27000,"price_note":"Thailand-Property 17-24k ; Perfect Homes 1BR ~25-27k"},
+  {"name":"One Plus Nineteen 4","rent_min":9000,"rent_max":15000,"price_note":"Thailand-Property 9-15k ; Hipflat/FazWaz"}
+]

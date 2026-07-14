@@ -1,0 +1,21 @@
+[
+  {"name":"Supalai Monte 1","rent_min":9000,"rent_max":30000,"price_note":"DDproperty (6500-29990) + Thailand-Property (1BR 33sqm 9000-11000) + Hipflat"},
+  {"name":"Play Condominium","rent_min":12000,"rent_max":23500,"price_note":"Thailand-Property/Hipflat (12000-23500) + Perfect Homes (19000)"},
+  {"name":"Chom Doi Condominium","rent_min":9500,"rent_max":28000,"price_note":"Thailand-Property (9500-28000) + Hipflat (bas ~8500)"},
+  {"name":"The Star Hill Condo","rent_min":12000,"rent_max":50000,"price_note":"Hipflat (bas ~12000) + FazWaz & Thailand-Property (2BR 30000-50000)"},
+  {"name":"Hill Park Condo 2","rent_min":8500,"rent_max":19500,"price_note":"FazWaz (2BR 8500 / 4BR 19500) + Perfect Homes (2BR 9500 / 1BR 18000)"},
+  {"name":"Pansook High Quality Condo","rent_min":12000,"rent_max":19000,"price_note":"Nomad Rental (des 12000) + Thailand-Property/KaiBaanThai (13000-18000, 2BR 19000)"},
+  {"name":"The Chalatte Loft: Punna Resident 3 CMU","rent_min":10000,"rent_max":14000,"price_note":"Renthub (10000-14000) + DDproperty/Thailand-Property confirment locations"},
+  {"name":"103 Condominium 5","rent_min":6900,"rent_max":10500,"price_note":"KaiBaanThai (studio ~6900) + FazWaz (1BR ~10500) + Thailand-Property (30sqm 7500)"},
+  {"name":"Chayayon Condo","rent_min":null,"rent_max":null,"price_note":"1 source (FazWaz ~7800; autres sans montant mensuel net)"},
+  {"name":"Grand Siritara","rent_min":12400,"rent_max":26000,"price_note":"FazWaz (~12600) + KaiBaanThai + Thailand-Property (59sqm 1BR 25000)"},
+  {"name":"Kiang Mo Condominium","rent_min":10800,"rent_max":14200,"price_note":"FazWaz + Hipflat (~10800; 1BR ~14200)"},
+  {"name":"My Hip Condo","rent_min":10000,"rent_max":20000,"price_note":"Hipflat + FazWaz (10000-20000; certaines jusqu a 42000)"},
+  {"name":"One Plus Condo Suan Dok","rent_min":12000,"rent_max":16000,"price_note":"DDproperty + PropertyScout + Hipflat (12000-16000, 1BR ~14000)"},
+  {"name":"Ping Live Condo","rent_min":8000,"rent_max":13000,"price_note":"Thailand-Property + Hipflat (8000-12000; Hipflat ~8600-12900)"},
+  {"name":"Rimping Condominium","rent_min":13000,"rent_max":35000,"price_note":"Thailand-Property + FazWaz + Hipflat (13000-35000)"},
+  {"name":"Suthep Hill House Condominium","rent_min":null,"rent_max":null,"price_note":"1 source (Renthub uniquement; autres en vente)"},
+  {"name":"The Next 3 Condo","rent_min":null,"rent_max":null,"price_note":"non verifie (aucun loyer mensuel trouve)"},
+  {"name":"The Unique Condo @Nimman 1","rent_min":25000,"rent_max":45000,"price_note":"Hipflat + PropertyHub (1BR des 25000, 2BR jusqu a 45000)"},
+  {"name":"One Plus Mahidol 5","rent_min":10000,"rent_max":10000,"price_note":"Livinginsider + FazWaz (immeuble quasi tout 1BR ~10000)"}
+]

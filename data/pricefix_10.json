@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Nakornping Condominium",
+    "rent_min": 10000,
+    "rent_max": 35000,
+    "price_note": "Thailand-Property ฿10k–35k (1BR 40m² ฿15.5k) + Hipflat jusqu'à ฿39k. 2 sources."
+  },
+  {
+    "name": "Punna Residence Nimman / Oasis",
+    "rent_min": 8500,
+    "rent_max": 18000,
+    "price_note": "Thailand-Property (Oasis 1) ฿8.5k–13.9k + Superagent studios ฿8-14k / 1BR ฿12-18k. 2 sources."
+  },
+  {
+    "name": "Supalai Monte 2",
+    "rent_min": 8500,
+    "rent_max": 45000,
+    "price_note": "PropertyHub/Perfect Homes studio ฿8.5-12k, 1BR ฿16k + Thailand-Property jusqu'à ฿45k. 2 sources."
+  },
+  {
+    "name": "Escent Park Ville Chiangmai",
+    "rent_min": 10000,
+    "rent_max": 26000,
+    "price_note": "Thailand-Property ฿9,999–26k + Livinginsider 1BR 32m² ฿12k. 2 sources."
+  },
+  {
+    "name": "One Plus Mahidol 6",
+    "rent_min": 10500,
+    "rent_max": null,
+    "price_note": "1BR 39m² ฿10.5k (FazWaz USD317-332 ~฿10.8k + DotProperty/Thailand-Property ฿10.5k). Max 2BR non vérifié. 2 sources."
+  },
+  {
+    "name": "Rueankham Tower (Ruan Kum Tower)",
+    "rent_min": null,
+    "rent_max": null,
+    "price_note": "2BR Doi Suthep view ฿28k (PropertyHub); studio/1BR non chiffrés. 1 source."
+  },
+  {
+    "name": "Trams Condo (Trams 1) Jed Yod",
+    "rent_min": 10000,
+    "rent_max": 18000,
+    "price_note": "PropertyHub 1BR dès ฿9-10k / 2BR ฿18k + DDproperty listing 1BR 38m². 2 sources."
+  },
+  {
+    "name": "Casa Condo Chang Phueak",
+    "rent_min": null,
+    "rent_max": null,
+    "price_note": "Perfect Homes ฿10k/mois (studio-1BR); 2e source chiffrée non trouvée. 1 source."
+  },
+  {
+    "name": "Galae Thong Condo",
+    "rent_min": 9800,
+    "rent_max": 30000,
+    "price_note": "Thailand-Property (Galare Thong Tower) ฿9.8k–45k + CM Open Realty ฿7-30k. Max retenu ฿30k (recoupé). 2 sources."
+  },
+  {
+    "name": "J.C. Hill Place Condominium",
+    "rent_min": 7000,
+    "rent_max": 45000,
+    "price_note": "Thailand-Property ฿7k–45k (studio 30m² à penthouse) + FazWaz même fourchette. 2 sources."
+  },
+  {
+    "name": "MOBIUS Condo",
+    "rent_min": 8000,
+    "rent_max": 30000,
+    "price_note": "Hipflat ฿7.9k–30.5k (studio/duplex) + Thailand-Property 2BR 95m² ฿26-29k. 2 sources."
+  },
+  {
+    "name": "One Plus Business Park 1",
+    "rent_min": 7000,
+    "rent_max": null,
+    "price_note": "1BR 26-36m² ฿7-8.5k (CM Condo for Rent + Living Insider); Thailand-Property dès ฿9,999. Max non vérifié. 2 sources."
+  },
+  {
+    "name": "One Plus Nong Hoi (Business Park)",
+    "rent_min": 8000,
+    "rent_max": null,
+    "price_note": "CM Open Realty ฿8-16k + One Plus Nong Hoi 1BR ~฿10k (Thailand-Property). Projet ambigu, max à revérifier. 2 sources."
+  },
+  {
+    "name": "Punna Residence 3 @ CMU",
+    "rent_min": 10000,
+    "rent_max": 18000,
+    "price_note": "Thailand-Property/DDproperty studios dès ฿10k, 1BR jusqu'à ฿18-20k + RentHub. 2 sources."
+  },
+  {
+    "name": "Srithana Condominium 1",
+    "rent_min": 9000,
+    "rent_max": 20000,
+    "price_note": "Hipflat ฿8.7k–14.3k (USD255-421, studio-1BR) + DDproperty 1BR 53m² rénové ฿20-25k. 2 sources."
+  },
+  {
+    "name": "The Ivory",
+    "rent_min": null,
+    "rent_max": null,
+    "price_note": "Projet livré ~2027, aucun loyer mensuel vérifiable. Non vérifié."
+  },
+  {
+    "name": "The Treasure",
+    "rent_min": 10000,
+    "rent_max": 23000,
+    "price_note": "Thailand-Property ฿10k–23k (studio-2BR) + FazWaz ฿11.7k–22.4k. 2 sources."
+  },
+  {
+    "name": "Huay Kaew Condotel",
+    "rent_min": null,
+    "rent_max": null,
+    "price_note": "Hipflat ~฿7-18k (studio-2BR); 2e source chiffrée non trouvée. 1 source."
+  }
+]
